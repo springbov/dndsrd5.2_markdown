@@ -1,513 +1,195 @@
-Rogue
-Core Rogue Traits
-Primary Ability
+# **Rogue**
 
-Hit Point Die
+## **Core Rogue Traits**
 
-Saving Throw
-Proficiencies
+| Primary Ability               | Dexterity                                                                                                                                                  |  |  |  |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| Hit Point Die                 | D8 per Rogue level                                                                                                                                         |  |  |  |
+| Saving Throw Proficiencies | Dexterity and Intelligence                                                                                                                                 |  |  |  |
+| Skill Proficiencies           | Choose 4: Acrobatics, Ath letics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth         |  |  |  |
+| Weapon Proficiencies          | Simple weapons and Martial weapons that have the Finesse or Light property                                                                           |  |  |  |
+| Tool Proficiencies            | Thieves' Tools                                                                                                                                             |  |  |  |
+| Armor Training                | Light armor                                                                                                                                                |  |  |  |
+| Starting Equipment            | Choose A or B: (A) Leather Ar mor, 2 Daggers, Shortsword, Shortbow, 20 Arrows, Quiver, Thieves' Tools, Burglar's Pack, and 8 GP; or (B) 100 GP |  |  |  |
 
-Skill Proficiencies
+# **Becoming a Rogue …**
 
-Dexterity
+## **As a Level 1 Character**
 
-D8 per Rogue level
+- Gain all the traits in the Core Rogue Traits table.
+- Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
 
-Dexterity and Intelligence
+## **As a Multiclass Character**
 
-Choose 4: Acrobatics, Ath-
-letics, Deception, Insight,
-Intimidation, Investigation,
-Perception, Persuasion, Sleight
-of Hand, or Stealth
+- Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armor.
+- Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
 
-Weapon Proficiencies Simple weapons and Martial
+# **Rogue Class Features**
 
-weapons that have the Finesse
-or Light property
+As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
 
-Tool Proficiencies
+## **Level 1: Expertise**
 
-Thieves’ Tools
+You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in them.
 
-Armor Training
+At Rogue level 6, you gain Expertise in two more of your skill proficiencies of your choice.
 
-Light armor
+## **Level 1: Sneak Attack**
 
-Starting Equipment
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack
 
-Choose A or B: (A) Leather Ar-
-mor, 2 Daggers, Short sword,
-Shortbow, 20 Arrows, Quiver,
-Thieves’ Tools, Burglar’s Pack,
-and 8 GP; or (B) 100 GP
+#### **Rogue Features**
 
-Becoming a Rogue …
-As a Level 1 Character
+|       | Proficiency |                                                        |              |
+|-------|-------------|--------------------------------------------------------|--------------|
+| Level | Bonus       | Class Features                                         | Sneak Attack |
+| 1     | +2          | Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery | 1d6          |
+| 2     | +2          | Cunning Action                                         | 1d6          |
+| 3     | +2          | Rogue Subclass, Steady Aim                             | 2d6          |
+| 4     | +2          | Ability Score Improvement                              | 2d6          |
+| 5     | +3          | Cunning Strike, Uncanny Dodge                          | 3d6          |
+| 6     | +3          | Expertise                                              | 3d6          |
+| 7     | +3          | Evasion, Reliable Talent                               | 4d6          |
+| 8     | +3          | Ability Score Improvement                              | 4d6          |
+| 9     | +4          | Subclass feature                                       | 5d6          |
+| 10    | +4          | Ability Score Improvement                              | 5d6          |
+| 11    | +4          | Improved Cunning Strike                                | 6d6          |
+| 12    | +4          | Ability Score Improvement                              | 6d6          |
+| 13    | +5          | Subclass feature                                       | 7d6          |
+| 14    | +5          | Devious Strikes                                        | 7d6          |
+| 15    | +5          | Slippery Mind                                          | 8d6          |
+| 16    | +5          | Ability Score Improvement                              | 8d6          |
+| 17    | +6          | Subclass feature                                       | 9d6          |
+| 18    | +6          | Elusive                                                | 9d6          |
+| 19    | +6          | Epic Boon                                              | 10d6         |
+| 20    | +6          | Stroke of Luck                                         | 10d6         |
 
-•  Gain all the traits in the Core Rogue Traits table.
-•  Gain the Rogue’s level 1 features, which are listed
-As a Multiclass Character
-in the Rogue Features table.
+roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-•  Gain the following traits from the Core Rogue
+You don't need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll.
 
-Traits table: Hit Point Die, proficiency in one skill
-of your choice from the Rogue’s skill list, pro-
-ficiency with Thieves’ Tools, and training with
-Light armor.
+The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
-•  Gain the Rogue’s level 1 features, which are listed
-Rogue Class Features
-in the Rogue Features table.
+#### **Level 1: Thieves' Cant**
 
-As a Rogue, you gain the following class features
-when you reach the specified Rogue levels. These
-Level 1: Expertise
-features are listed in the Rogue Features table.
+You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice, which you choose from the language tables in "Character Creation."
 
-You gain Expertise in two of your skill proficiencies
-of your choice. Sleight of Hand and Stealth are rec-
-ommended if you have proficiency in them.
-  At Rogue level 6, you gain Expertise in two more
-Level 1: Sneak Attack
-of your skill proficiencies of your choice.
+#### **Level 1: Weapon Mastery**
 
-You know how to strike subtly and exploit a foe’s
-distraction. Once per turn, you can deal an extra
-1d6 damage to one creature you hit with an attack
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 
-61
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
-System Reference Document 5.2Rogue Features
+#### **Level 2: Cunning Action**
 
-Proficiency
-Bonus
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
 
-Level
+## **Level 3: Rogue Subclass**
 
-Class Features
+You gain a Rogue subclass of your choice. The Thief subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower.
 
-Sneak Attack
+## **Level 3: Steady Aim**
 
-1
+As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
 
-2
+#### **Level 4: Ability Score Improvement**
 
-3
+You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16.
 
-4
+### **Level 5: Cunning Strike**
 
-5
+You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack damage dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack's damage before rolling.
 
-6
+If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your Dexterity modifier and Proficiency Bonus.
 
-7
+*Poison (Cost: 1d6).* You add a toxin to your strike, forcing the target to make a Constitution saving throw. On a failed save, the target has the Poisoned condition for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success.
 
-8
+To use this effect, you must have a Poisoner's Kit on your person.
 
-9
+*Trip (Cost: 1d6).* If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the Prone condition.
 
-10
+*Withdraw (Cost: 1d6).* Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 
-11
+### **Level 5: Uncanny Dodge**
 
-12
+When an attacker that you can see hits you with an attack roll, you can take a Reaction to halve the attack's damage against you (round down).
 
-13
+### **Level 7: Evasion**
 
-14
+You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the Incapacitated condition.
 
-15
+## **Level 7: Reliable Talent**
 
-16
+Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a d20 roll of 9 or lower as a 10.
 
-17
+## **Level 11: Improved Cunning Strike**
 
-18
+You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
 
-19
+## **Level 14: Devious Strikes**
 
-20
+You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
-+2
+*Daze (Cost: 2d6).* The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a Bonus Action.
 
-+2
+*Knock Out (Cost: 6d6).* The target must succeed on a Constitution saving throw, or it has the Unconscious condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-+2
+*Obscure (Cost: 3d6).* The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.
 
-+2
+## **Level 15: Slippery Mind**
 
-+3
+Your cunning mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws.
 
-+3
+## **Level 18: Elusive**
 
-+3
+You're so evasive that attackers rarely gain the upper hand against you. No attack roll can have Advantage against you unless you have the Incapacitated condition.
 
-+3
+## **Level 19: Epic Boon**
 
-+4
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of the Night Spirit is recommended.
 
-+4
+## **Level 20: Stroke of Luck**
 
-+4
+You have a marvelous knack for succeeding when you need to. If you fail a D20 Test, you can turn the roll into a 20.
 
-+4
+Once you use this feature, you can't use it again until you finish a Short or Long Rest.
 
-+5
+# **Rogue Subclass: Thief**
 
-+5
+*Hunt for Treasure as a Classic Adventurer*
 
-+5
+A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
 
-+5
+#### **Level 3: Fast Hands**
 
-+6
-
-+6
-
-+6
-
-+6
-
-Expertise, Sneak Attack, Thieves’ Cant, Weapon Mastery
-
-Cunning Action
-
-Rogue Subclass, Steady Aim
-
-Ability Score Improvement
-
-Cunning Strike, Uncanny Dodge
-
-Expertise
-
-Evasion, Reliable Talent
-
-Ability Score Improvement
-
-Subclass feature
-
-Ability Score Improvement
-
-Improved Cunning Strike
-
-Ability Score Improvement
-
-Subclass feature
-
-Devious Strikes
-
-Slippery Mind
-
-Ability Score Improvement
-
-Subclass feature
-
-Elusive
-
-Epic Boon
-
-Stroke of Luck
-
-1d6
-
-1d6
-
-2d6
-
-2d6
-
-3d6
-
-3d6
-
-4d6
-
-4d6
-
-5d6
-
-5d6
-
-6d6
-
-6d6
-
-7d6
-
-7d6
-
-8d6
-
-8d6
-
-9d6
-
-9d6
-
-10d6
-
-10d6
-
-roll if you have Advantage on the roll and the attack
-uses a Finesse or a Ranged weapon. The extra dam-
-age’s type is the same as the weapon’s type.
-  You don’t need Advantage on the attack roll if at
-least one of your allies is within 5 feet of the target,
-the ally doesn’t have the Incapacitated condition,
-and you don’t have Disadvantage on the attack roll.
-  The extra damage increases as you gain Rogue
-levels, as shown in the Sneak Attack column of the
-Level 1: Thieves’ Cant
-Rogue Features table.
-
-  Whenever you finish a Long Rest, you can change
-the kinds of weapons you chose. For example, you
-could switch to using the mastery properties of
-Level 2: Cunning Action
-Scimitars and Shortswords.
-
-Your quick thinking and agility allow you to move
-and act quickly. On your turn, you can take one of
-the following actions as a Bonus Action: Dash, Dis-
-Level 3: Rogue Subclass
-engage, or Hide.
-
-You picked up various languages in the commu-
-nities where you plied your roguish talents. You
-know Thieves’ Cant and one other language of your
-choice, which you choose from the language tables
-Level 1: Weapon Mastery
-in “Character Creation.”
-
-You gain a Rogue subclass of your choice. The Thief
-subclass is detailed after this class’s description. A
-subclass is a specialization that grants you features
-at certain Rogue levels. For the rest of your career,
-you gain each of your subclass’s features that are of
-Level 3: Steady Aim
-your Rogue level or lower.
-
-Your training with weapons allows you to use the
-mastery properties of two kinds of weapons of your
-choice with which you have proficiency, such as
-Daggers and Shortbows.
-
-As a Bonus Action, you give yourself Advantage on
-your next attack roll on the current turn. You can
-use this feature only if you haven’t moved during
-this turn, and after you use it, your Speed is 0 until
-the end of the current turn.
-
-62
-
-System Reference Document 5.2Level 4: Ability Score Improvement
-
-Level 7: Reliable Talent
-
-You gain the Ability Score Improvement feat (see
-“Feats”) or another feat of your choice for which you
-qualify. You gain this feature again at Rogue levels
-Level 5: Cunning Strike
-8, 10, 12, and 16.
-
-Whenever you make an ability check that uses one
-of your skill or tool proficiencies, you can treat a
-Level 11: Improved Cunning Strike
-d20 roll of 9 or lower as a 10.
-
-You’ve developed cunning ways to use your Sneak
-Attack. When you deal Sneak Attack damage, you
-can add one of the following Cunning Strike effects.
-Each effect has a die cost, which is the number of
-Sneak Attack damage dice you must forgo to add the
-effect. You remove the die before rolling, and the
-effect occurs immediately after the attack’s damage
-is dealt. For example, if you add the Poison effect,
-remove 1d6 from the Sneak Attack’s damage before
-rolling.
-  If a Cunning Strike effect requires a saving throw,
-the DC equals 8 plus your Dexterity modifier and
-Proficiency Bonus.
-
-Poison (Cost: 1d6).
-
- You add a toxin to your strike,
-
-forcing the target to make a Constitution saving
-throw. On a failed save, the target has the Poisoned
-condition for 1 minute. At the end of each of its
-turns, the Poisoned target repeats the save, ending
-the effect on itself on a success.
-  To use this effect, you must have a Poisoner’s Kit
-on your person.
-
-Trip (Cost: 1d6).
-
- If the target is Large or smaller,
-
-it must succeed on a Dexterity saving throw or have
-  Withdraw (Cost: 1d6).
-the Prone condition.
-
- Immediately after the
-
-attack, you move up to half your Speed without pro-
-Level 5: Uncanny Dodge
-voking Opportunity Attacks.
-
-When an attacker that you can see hits you with an
-attack roll, you can take a Reaction to halve the at-
-Level 7: Evasion
-tack’s damage against you (round down).
-
-You can nimbly dodge out of the way of certain dan-
-gers. When you’re subjected to an effect that allows
-you to make a Dexterity saving throw to take only
-half damage, you instead take no damage if you
-succeed on the saving throw and only half damage
-if you fail. You can’t use this feature if you have the
-Incapacitated condition.
-
-You can use up to two Cunning Strike effects when
-you deal Sneak Attack damage, paying the die cost
-Level 14: Devious Strikes
-for each effect.
-
-You’ve practiced new ways to use your Sneak Attack
-deviously. The following effects are now among
-your Cunning Strike options.
-
-Daze (Cost: 2d6).
-
- The target must succeed on a
-
-Constitution saving throw, or on its next turn, it can
-do only one of the following: move or take an action
-  Knock Out (Cost: 6d6).
-or a Bonus Action.
-
- The target must succeed
-on a Constitution saving throw, or it has the Uncon-
-scious condition for 1 minute or until it takes any
-damage. The Unconscious target repeats the save
-at the end of each of its turns, ending the effect on
-  Obscure (Cost: 3d6).
-itself on a success.
-
- The target must succeed on
-a Dexterity saving throw, or it has the Blinded con-
-Level 15: Slippery Mind
-dition until the end of its next turn.
-
-Your cunning mind is exceptionally difficult to con-
-trol. You gain proficiency in Wisdom and Charisma
-Level 18: Elusive
-saving throws.
-
-You’re so evasive that attackers rarely gain the
-upper hand against you. No attack roll can have
-Advantage against you unless you have the Incapac-
-Level 19: Epic Boon
-itated condition.
-
-You gain an Epic Boon feat (see “Feats”) or another
-feat of your choice for which you qualify. Boon of the
-Level 20: Stroke of Luck
-Night Spirit is recommended.
-
-You have a marvelous knack for succeeding when
-you need to. If you fail a D20 Test, you can turn the
-roll into a 20.
-  Once you use this feature, you can’t use it again
-until you finish a Short or Long Rest.
-
-63
-
-System Reference Document 5.2
-
-Rogue Subclass: Thief
-Hunt for Treasure as a Classic Adventurer
-
-A mix of burglar, treasure hunter, and explorer, you
-are the epitome of an adventurer. In addition to im-
-proving your agility and stealth, you gain abilities
-useful for delving into ruins and getting maximum
-benefit from the magic items you find there.
-
-Level 3: Fast Hands
-
-  Sleight of Hand.
 As a Bonus Action, you can do one of the following.
 
- Make a Dexterity (Sleight of
+*Sleight of Hand.* Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket.
 
-Hand) check to pick a lock or disarm a trap with
-  Use an Object.
-Thieves’ Tools or to pick a pocket.
+*Use an Object.* Take the Utilize action, or take the Magic action to use a magic item that requires that action.
 
- Take the Utilize action, or take the
-Magic action to use a magic item that requires that
-Level 3: Second-Story Work
-action.
+#### **Level 3: Second-Story Work**
 
-You’ve trained to get into especially hard-to-reach
-  Climber.
-places, granting you these benefits.
-  Jumper.
-Speed.
+You've trained to get into especially hard-to-reach places, granting you these benefits.
 
- You gain a Climb Speed equal to your
+*Climber.* You gain a Climb Speed equal to your Speed.
 
- You can determine your jump distance
+*Jumper.* You can determine your jump distance using your Dexterity rather than your Strength.
 
-Level 9: Supreme Sneak
-using your Dexterity rather than your Strength.
+#### **Level 9: Supreme Sneak**
 
-Stealth Attack (Cost: 1d6).
+You gain the following Cunning Strike option. *Stealth Attack (Cost: 1d6).* If you have the Hide action's Invisible condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
 
-You gain the following Cunning Strike option.
+## **Level 13: Use Magic Device**
 
- If you have the Hide
+You've learned how to maximize use of magic items, granting you the following benefits.
 
-action’s Invisible condition, this attack doesn’t end
-that condition on you if you end the turn behind
-Level 13: Use Magic Device
-Three-Quarters Cover or Total Cover.
+*Attunement.* You can attune to up to four magic items at once.
 
-You’ve learned how to maximize use of magic items,
-  Attunement.
-granting you the following benefits.
-  Charges.
-items at once.
+*Charges.* Whenever you use a magic item property that expends charges, roll 1d6. On a roll of 6, you use the property without expending the charges.
 
- You can attune to up to four magic
+*Scrolls.* You can use any *Spell Scroll*, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
 
- Whenever you use a magic item prop-
+### **Level 17: Thief's Reflexes**
 
-erty that expends charges, roll 1d6. On a roll of
-6, you use the property without expending the
-  Scrolls.
-charges.
-
-Spell Scroll
-
- You can use any
-
-, using Intelli-
-
-gence as your spellcasting ability for the spell. If the
-spell is a cantrip or a level 1 spell, you can cast it re-
-liably. If the scroll contains a higher-level spell, you
-must first succeed on an Intelligence (Arcana) check
-(DC 10 plus the spell’s level). On a successful check,
-you cast the spell from the scroll. On a failed check,
-Level 17: Thief’s Reflexes
-the scroll disintegrates.
-
-You are adept at laying ambushes and quickly es-
-caping danger. You can take two turns during the
-first round of any combat. You take your first turn
-at your normal Initiative and your second turn at
-your Initiative minus 10.
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.

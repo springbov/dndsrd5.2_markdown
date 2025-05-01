@@ -1,3003 +1,2085 @@
-Animals
+**Animals**
 
-Allosaurus
-Large Beast (Dinosaur), Unaligned
+MOD SAVE MOD SAVE MOD SAVE
 
-AC 13
-HP 51 (6d10 + 18)
-Speed 60 ft.
+**Str** 19 +4 +4 **Dex** 13 +1 +1 **Con** 17 +3 +3 **Int** 2 −4 −4 **Wis** 12 +1 +1 **Cha** 5 −3 −3
 
-Initiative +1 (11)
+*Bite. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 15 (2d10 +
 
-MOD SAVE
+*Claws. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Slashing damage. If the target is a Large or smaller creature and the allosaurus moved 30+ feet straight toward it immediately before the hit, the target has the
 
-MOD SAVE
-Str  19 +4 +4 Dex 13 +1 +1 Con 17 +3 +3
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
+**341** System Reference Document 5.2
 
-MOD SAVE
+**AC** 8 **Initiative** −2 (8)
 
-Skills Perception +5
-Senses Passive Perception 15
-Languages None
-CR 2 (XP 450; PB +2)
+**HP** 85 (9d10 + 36)
 
-Actions
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 +
-4) Piercing damage.
+**Speed** 30 ft.
 
-Claws. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8
-+ 4) Slashing damage. If the target is a Large or smaller
-creature and the allosaurus moved 30+ feet straight
-toward it immediately before the hit, the target has the
+MOD SAVE MOD SAVE MOD SAVE
 
-341
+**Str** 19 +4 +4 **Dex** 6 −2 −2 **Con** 18 +4 +4
 
-System Reference Document 5.2
-
-MOD SAVE
-
-MOD SAVE
-Str  18 +4 +4 Dex 16 +3 +3 Con 13 +1 +1
-Int  4 −3 −3 WIS  14 +2 +2 Cha  6 −2 −2
-
-MOD SAVE
-
-Skills Stealth +5
-Senses Passive Perception 12
-Languages None
-CR 4 (XP 1,100; PB +2)
+speak
 
 Traits
-Amphibious. The archelon can breathe air and water.
 
 Actions
-Multiattack. The archelon makes two Bite attacks.
 
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 14 (3d6 + 4)
-Piercing damage.
+**Int** 3 −4 −4 **Wis** 6 −2 +0 **Cha** 5 −3 −3
 
-Baboon
-Small Beast, Unaligned
+**CR** 2 (XP 450; PB +2)
 
-AC 12
-HP 3 (1d6)
-Speed 30 ft., Climb 30 ft.
+drops to 1 Hit Point instead.
 
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  8 −1 −1 Dex 14 +2 +2 Con 11 +0 +0
-Int  4 −3 −3 WIS  12 +1 +1 Cha  6 −2 −2
-
-MOD SAVE
-
-Senses Passive Perception 11
-Languages None
-CR 0 (XP 10; PB +2)
-
-Traits
-Pack Tactics. The baboon has Advantage on an attack
-roll against a creature if at least one of the baboon’s
-allies is within 5 feet of the creature and the ally doesn’t
-have the Incapacitated condition.
-
-Actions
-Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 − 1)
-Piercing damage.
-
-Badger
-Tiny Beast, Unaligned
-
-AC 11
-HP 5 (1d4 + 3)
-Speed 20 ft., Burrow 5 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  10 +0 +0 Dex  11 +0 +0 Con 16 +3 +3
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
-
-MOD SAVE
-
-Skills Perception +3
-Resistances Poison
-Senses Darkvision 30 ft.; Passive Perception 13
-Languages None
-CR 0 (XP 10; PB +2)
-
-342
-
-Actions
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing
-damage.
-
-Bat
-Tiny Beast, Unaligned
-
-AC 12
-HP 1 (1d4 − 1)
-Speed 5 ft., Fly 30 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  2 −4 −4 Dex 15 +2 +2 Con 8 −1 −1
-Int  2 −4 −4 WIS  12 +1 +1 Cha  4 −3 −3
-
-MOD SAVE
-
-Senses Blindsight 60 ft.; Passive Perception 11
-Languages None
-CR 0 (XP 10; PB +2)
-
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing
-damage.
-
-Black Bear
-Medium Beast, Unaligned
-
-AC 11
-HP 19 (3d8 + 6)
-Speed 30 ft., Climb 30 ft., Swim 30 ft.
-
-Initiative +1 (11)
-
-MOD SAVE
-
-MOD SAVE
-Str  15 +2 +2 Dex 12 +1 +1 Con 14 +2 +2
-Int  2 −4 −4 WIS  12 +1 +1 Cha  7 −2 −2
-
-MOD SAVE
-
-Skills Perception +5
-Senses Darkvision 60 ft.; Passive Perception 15
-Languages None
-CR 1/2 (XP 100; PB +2)
-
-Actions
-Multiattack. The bear makes two Rend attacks.
-
-Rend. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
-Slashing damage.
-
-Blood Hawk
-Small Beast, Unaligned
-
-AC 12
-HP 7 (2d6)
-Speed 10 ft., Fly 60 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  6 −2 −2 Dex 14 +2 +2 Con 10 +0 +0
-Int  3 −4 −4 WIS  14 +2 +2 Cha  5 −3 −3
-
-MOD SAVE
-
-Skills Perception +6
-Senses Passive Perception 16
-Languages None
-CR 1/8 (XP 25; PB +2)
-
-System Reference Document 5.2
-
-Traits
-Pack Tactics. The hawk has Advantage on an attack roll
-against a creature if at least one of the hawk’s allies is
-within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
-
-Actions
-Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2)
-Piercing damage, or 6 (1d8 + 2) Piercing damage if the
-target is Bloodied.
-
-Boar
-Medium Beast, Unaligned
-
-AC 11
-HP 13 (2d8 + 4)
-Speed 40 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  13 +1 +1 Dex  11 +0 +0 Con 14 +2 +2
-Int  2 −4 −4 WIS  9 −1 −1 Cha  5 −3 −3
-
-MOD SAVE
-
-Senses Passive Perception 9
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-Traits
-Bloodied Fury. While Bloodied, the boar has Advan-
-tage on attack rolls.
-
-Actions
-Gore. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1)
-Piercing damage. If the target is a Medium or smaller
-creature and the boar moved 20+ feet straight toward it
-immediately before the hit, the target takes an extra 3
-(1d6) Piercing damage and has the Prone condition.
-
-Brown Bear
-Large Beast, Unaligned
-
-AC 11
-HP 22 (3d10 + 6)
-Speed 40 ft., Climb 30 ft.
-
-Initiative +1 (11)
-
-MOD SAVE
-
-MOD SAVE
-Str  17 +3 +3 Dex 12 +1 +1 Con 15 +2 +2
-Int  2 −4 −4 WIS  13 +1 +1 Cha  7 −2 −2
-
-MOD SAVE
-
-Skills Perception +3
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1 (XP 200; PB +2)
-
-Actions
-Multiattack. The bear makes one Bite attack and one
-Claw attack.
-
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
-Piercing damage.
-
-343
-
-Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3)
-Slashing damage. If the target is a Large or smaller crea-
-ture, it has the Prone condition.
-
-Camel
-Large Beast, Unaligned
-
-AC 10
-HP 17 (2d10 + 6)
-Speed 50 ft.
-
- Initiative −1 (9)
-
-MOD SAVE
-
-MOD SAVE
-Str  15 +2 +2 Dex  8 −1 −1 Con 17 +3 +5
-Int  2 −4 −4 WIS  11 +0 +0 Cha  5 −3 −3
-
-MOD SAVE
-
-Senses Darkvision 60 ft.; Passive Perception 10
-Languages None
-CR 1/8 (XP 25; PB +2)
-
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2)
-Bludgeoning damage.
-
-Cat
-Tiny Beast, Unaligned
-
-AC 12
-HP 2 (1d4)
-Speed 40 ft., Climb 40 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  3 −4 −4 Dex 15 +2 +4 Con 10 +0 +0
-Int  3 −4 −4 WIS  12 +1 +1 Cha  7 −2 −2
-
-MOD SAVE
-
-Skills Perception +3, Stealth +4
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 0 (XP 10; PB +2)
-
-Traits
-Jumper. The cat’s jump distance is determined using its
-Dexterity rather than its Strength.
-
-Actions
-Scratch. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slash-
-ing damage.
-
-Constrictor Snake
-Large Beast, Unaligned
-
-AC 13
-HP 13 (2d10 + 2)
-Speed 30 ft., Swim 30 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  15 +2 +2 Dex 14 +2 +2 Con 12 +1 +1
-Int  1 −5 −5 WIS  10 +0 +0 Cha  3 −4 −4
-
-MOD SAVE
-
-Skills Perception +2, Stealth +4
-Senses Blindsight 10 ft.; Passive Perception 12
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-System Reference Document 5.2
-
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2)
-Piercing damage.
-
-Constrict. Strength Saving Throw: DC 12, one Medium
-or smaller creature the snake can see within 5 feet.
-Failure: 7 (3d4) Bludgeoning damage, and the target has
-the Grappled condition (escape DC 12).
-
-Crab
-Tiny Beast, Unaligned
-
-AC 11
-HP 3 (1d4 + 1)
-Speed 20 ft., Swim 20 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  6 −2 −2 Dex  11 +0 +0 Con 12 +1 +1
-Int  1 −5 −5 WIS  8 −1 −1 Cha  2 −4 −4
-
-MOD SAVE
-
-Skills Stealth +2
-Senses Blindsight 30 ft.; Passive Perception 9
-Languages None
-CR 0 (XP 10; PB +2)
-
-Traits
-Amphibious. The crab can breathe air and water.
-
-Actions
-Claw. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Blud-
-geoning damage.
-
-Crocodile
-Large Beast, Unaligned
-
-AC 12
-HP 13 (2d10 + 2)
-Speed 20 ft., Swim 30 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  15 +2 +2 Dex 10 +0 +0 Con 13 +1 +3
-Int  2 −4 −4 WIS  10 +0 +0 Cha  5 −3 −3
-
-MOD SAVE
-
-Skills Stealth +2
-Senses Passive Perception 10
-Languages None
-CR 1/2 (XP 100; PB +2)
-
-Traits
-Hold Breath. The crocodile can hold its breath
-for 1 hour.
-
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8
-+ 2) Piercing damage. If the target is a Medium or
-smaller creature, it has the Grappled condition (escape
-DC 12). While Grappled, the target has the Restrained
-condition.
-
-344
-
-Deer
-Medium Beast, Unaligned
-
-AC 13
-HP 4 (1d8)
-Speed 50 ft.
-
-Initiative +3 (13)
-
-MOD SAVE
-
-MOD SAVE
-Str  11 +0 +0 Dex 16 +3 +3 Con 11 +0 +0
-Int  2 −4 −4 WIS  14 +2 +2 Cha  5 −3 −3
-
-MOD SAVE
-
-Skills Perception +4
-Senses Darkvision 60 ft.; Passive Perception 14
-Languages None
-CR 0 (XP 10; PB +2)
-
-Traits
-Agile. The deer doesn’t provoke an Opportunity Attack
-when it moves out of an enemy’s reach.
-
-Actions
-Ram. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4)
-Bludgeoning damage.
-
-Dire Wolf
-Large Beast, Unaligned
-
-AC 14
-HP 22 (3d10 + 6)
-Speed 50 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  17 +3 +3 Dex 15 +2 +2 Con 15 +2 +2
-Int  3 −4 −4 WIS  12 +1 +1 Cha  7 −2 −2
-
-MOD SAVE
-
-Skills Perception +5, Stealth +4
-Senses Darkvision 60 ft.; Passive Perception 15
-Languages None
-CR 1 (XP 200; PB +2)
-
-Traits
-Pack Tactics. The wolf has Advantage on an attack roll
-against a creature if at least one of the wolf’s allies is
-within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
-
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3)
-Piercing damage. If the target is a Large or smaller crea-
-ture, it has the Prone condition.
-
-Draft Horse
-Large Beast, Unaligned
-
-AC 10
-HP 15 (2d10 + 4)
-Speed 40 ft.
-
-Initiative +0 (10)
-
-System Reference Document 5.2
-
-MOD SAVE
-
-MOD SAVE
-Str  18 +4 +4 Dex 10 +0 +0 Con 15 +2 +2
-Int  2 −4 −4 WIS  11 +0 +0 Cha  7 −2 −2
-
-MOD SAVE
-
-Senses Passive Perception 10
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-Actions
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4
 + 4) Bludgeoning damage.
 
-Eagle
-Small Beast, Unaligned
+*Large Beast (Dinosaur), Unaligned*
 
-AC 12
-HP 4 (1d6 + 1)
-Speed 10 ft., Fly 60 ft.
+**AC** 13 **Initiative** +1 (11)
 
-Initiative +2 (12)
+**Allosaurus**
 
-MOD SAVE
+**HP** 51 (6d10 + 18) **Speed** 60 ft.
 
-MOD SAVE
-Str  6 −2 −2 Dex 15 +2 +2 Con 12 +1 +1
-Int  2 −4 −4 WIS  14 +2 +2 Cha  7 −2 −2
+**Skills** Perception +5
 
-MOD SAVE
-
-Skills Perception +6
-Senses Passive Perception 16
-Languages None
-CR 0 (XP 10; PB +2)
-
-Actions
-Talons. Melee Attack Roll: +4, reach 5 feet. Hit: 4 (1d4
-+ 2) Slashing damage.
-
-Elephant
-Huge Beast, Unaligned
-
-AC 12
-HP 76 (8d12 + 24)
-Speed 40 ft.
-
-Initiative −1 (9)
-
-MOD SAVE
-
-MOD SAVE
-Str  22 +6 +6 Dex  9 −1 −1 Con 17 +3 +3
-Int  3 −4 −4 WIS  11 +0 +0 Cha  6 −2 −2
-
-MOD SAVE
-
-Senses Passive Perception 10
-Languages None
-CR 4 (XP 1,100; PB +2)
-
-Actions
-Multiattack. The elephant makes two Gore attacks.
-
-Gore. Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8
-+ 6) Piercing damage. If the target is a Huge or smaller
-creature and the elephant moved 20+ feet straight to-
-ward it immediately before the hit, the target has the
-Prone condition.
-
-Bonus Actions
-Trample. Dexterity Saving Throw: DC 16, one creature
-within 5 feet that has the Prone condition. Failure: 17
-(2d10 + 6) Bludgeoning damage. Success: Half damage.
-
-345
-
-Elk
-Large Beast, Unaligned
-
-AC 10
-HP 11 (2d10)
-Speed 50 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  16 +3 +3 Dex 10 +0 +0 Con 11 +0 +0
-Int  2 −4 −4 WIS  10 +0 +0 Cha  6 −2 −2
-
-MOD SAVE
-
-Skills Perception +2
-Senses Darkvision 60 ft.; Passive Perception 12
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-Actions
-Ram. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6
-+ 3) Bludgeoning damage. If the target is a Large or
-smaller creature and the elk moved 20+ feet straight
-toward it immediately before the hit, the target takes an
-extra 3 (1d6) Bludgeoning damage and has the Prone
-condition.
-
-Flying Snake
-Tiny Monstrosity, Unaligned
-
-AC 14
-HP 5 (2d4)
-Speed 30 ft., Fly 60 ft., Swim 30 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  4 −3 −3 Dex 15 +2 +2 Con 11 +0 +0
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
-
-MOD SAVE
-
-Senses Blindsight 10 ft.; Passive Perception 11
-Languages None
-CR 1/8 (XP 25; PB +2)
-
-Traits
-Flyby. The snake doesn’t provoke an Opportunity At-
-tack when it flies out of an enemy’s reach.
-
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing
-damage plus 5 (2d4) Poison damage.
-
-Frog
-Tiny Beast, Unaligned
-
-AC 11
-HP 1 (1d4 − 1)
-Speed 20 ft., Swim 20 ft.
-
-Initiative +1 (11)
-
-MOD SAVE
-
-MOD SAVE
-Str  1 −5 −5 Dex 13 +1 +1 Con 8 −1 −1
-Int  1 −5 −5 WIS  8 −1 −1 Cha  3 −4 −4
-
-MOD SAVE
-
-Skills Perception +1, Stealth +3
-Senses Darkvision 30 ft.; Passive Perception 11
-Languages None
-CR 0 (XP 10; PB +2)
-
-System Reference Document 5.2
-
-Actions
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1)
-Piercing damage.
-
-Giant Bat
-Large Beast, Unaligned
-
-AC 13
-HP 22 (4d10)
-Speed 10 ft., Fly 60 ft.
-
-Initiative +3 (13)
-
-MOD SAVE
-
-MOD SAVE
-Str  15 +2 +2 Dex 16 +3 +3 Con 11 +0 +0
-Int  2 −4 −4 WIS  12 +1 +1 Cha  6 −2 −2
-
-MOD SAVE
-
-Senses Blindsight 120 ft.; Passive Perception 11
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3)
-Piercing damage.
-
-Giant Boar
-Large Beast, Unaligned
-
-AC 13
-HP 42 (5d10 + 15)
-Speed 40 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  17 +3 +5 Dex 10 +0 +0 Con 16 +3 +3
-Int  2 −4 −4 WIS  7 −2 −2 Cha  5 −3 −3
-
-MOD SAVE
-
-Senses Passive Perception 8
-Languages None
-CR 2 (XP 450; PB +2)
-
-Traits
-Bloodied Fury. The boar has Advantage on melee at-
-tack rolls while it is Bloodied.
-
-Actions
-Gore. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6
-+ 3) Piercing damage. If the target is a Large or smaller
-creature and the boar moved 20+ feet straight toward it
-immediately before the hit, the target takes an extra 7
-(2d6) Piercing damage and has the Prone condition.
-
-Giant Centipede
-Small Beast, Unaligned
-
-AC 14
-HP 9 (2d6 + 2)
-Speed 30 ft., Climb 30 ft.
-
-Initiative +2 (12)
-
-Traits
-Amphibious. The frog can breathe air and water.
-
-Standing Leap. The frog’s Long Jump is up to 10 feet
-and its High Jump is up to 5 feet with or without a run-
-ning start.
-
-Actions
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 1 Piercing
-damage.
-
-Giant Ape
-Huge Beast, Unaligned
-
-AC 12
-HP 168 (16d12 + 64)
-Speed 40 ft., Climb 40 ft.
-
-Initiative +5 (15)
-
-MOD SAVE
-
-MOD SAVE
-Str  23 +6 +6 Dex 14 +2 +2 Con 18 +4 +4
-Int  5 −3 −3 WIS  12 +1 +1 Cha  7 −2 −2
-
-MOD SAVE
-
-Skills Athletics +9, Perception +4, Survival +4
-Senses Passive Perception 14
-Languages None
-CR 7 (XP 2,900; PB +3)
-
-Actions
-Multiattack. The ape makes two Fist attacks.
-
-Fist. Melee Attack Roll: +9, reach 10 ft. Hit: 22 (3d10
-+ 6) Bludgeoning damage.
-
-Boulder Toss (Recharge 6). The ape hurls a boulder
-at a point it can see within 90 feet. Dexterity Saving
-Throw: DC 17, each creature in a 5-foot-radius Sphere
-centered on that point. Failure: 24 (7d6) Bludgeoning
-damage. If the target is a Large or smaller creature, it
-has the Prone condition. Success: Half damage only.
-
-Bonus Actions
-Leap. The ape jumps up to 30 feet by spending 10 feet
-of movement.
-
-Giant Badger
-Medium Beast, Unaligned
-
-AC 13
-HP 15 (2d8 + 6)
-Speed 30 ft., Burrow 10 ft.
-
-Initiative +0 (10)
-
-MOD SAVE
-
-MOD SAVE
-Str  13 +1 +1 Dex 10 +0 +0 Con 17 +3 +3
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
-
-MOD SAVE
-
-Skills Perception +3
-Resistances Poison
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-346
-
-System Reference Document 5.2
-
-Str 5
-Int 1
-
-MOD SAVE
-MOD SAVE
-MOD SAVE
-−3 −3 Dex 14 +2 +2 Con 12 +1 +1
-−2 −2 Cha 3 −4 −4
-−5 −5 WIS 7
-
-Senses Blindsight 30 ft.; Passive Perception 8
-Languages None
-CR 1/4 (XP 50; PB +2)
-
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2)
-Piercing damage, and the target has the Poisoned con-
-dition until the start of the centipede’s next turn.
-
-Giant Constrictor Snake
-Huge Beast, Unaligned
-
-AC 12
-HP 60 (8d12 + 8)
-Speed 30 ft., Swim 30 ft.
-
-Initiative +2 (12)
-
-MOD SAVE
-
-MOD SAVE
-Str  19 +4 +4 Dex 14 +2 +2 Con 12 +1 +1
-Int  1 −5 −5 WIS  10 +0 +0 Cha  3 −4 −4
-
-MOD SAVE
-
-Skills Perception +2
-Senses Blindsight 10 ft.; Passive Perception 12
-Languages None
-CR 2 (XP 450; PB +2)
-
-Actions
-Multiattack. The snake makes one Bite attack and uses
-Constrict.
-
-Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 +
 4) Piercing damage.
 
-Constrict. Strength Saving Throw: DC 14, one Large or
-smaller creature the snake can see within 10 feet. Fail-
-ure: 13 (2d8 + 4) Bludgeoning damage, and the target
-has the Grappled condition (escape DC 14).
-
-Giant Crab
-Medium Beast, Unaligned
-
-AC 15
-HP 13 (3d8)
-Speed 30 ft., Swim 30 ft.
-
-Initiative +1 (11)
-
-MOD SAVE
-
-MOD SAVE
-Str  13 +1 +1 Dex 13 +1 +1 Con 11 +0 +0
-Int  1 −5 −5 WIS  9 −1 −1 Cha  3 −4 −4
-
-MOD SAVE
+**Languages** None **CR** 2 (XP 450; PB +2)
 
 Actions
-Claw. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1)
-Bludgeoning damage. If the target is a Medium or
-smaller creature, it has the Grappled condition (escape
-DC 11) from one of two claws.
 
-Giant Crocodile
-Huge Beast, Unaligned
+**Senses** Passive Perception 15
 
-AC 14
-HP 85 (9d12 + 27)
-Speed 30 ft., Swim 50 ft.
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 18 |   | +4 | +4       | Dex 16    | +3 | +3       | Con 13 | +1       | +1 |
+| Int    | 4 | −3 | −3       | 14 Wis | +2 | +2       | Cha 6  | −2       | −2 |
 
-Initiative −1 (9)
+**Skills** Stealth +5 **Senses** Passive Perception 12 **Languages** None **CR** 4 (XP 1,100; PB +2)
 
-MOD SAVE
+#### Traits
 
-MOD SAVE
-Str  21 +5 +5 Dex  9 −1 −1 Con 17 +3 +3
-Int  2 −4 −4 WIS  10 +0 +0 Cha  7 −2 −2
+*Amphibious.* The archelon can breathe air and water.
 
-MOD SAVE
+#### Actions
 
-Skills Stealth +5
-Senses Passive Perception 10
-Languages None
-CR 5 (XP 1,800; PB +3)
+*Multiattack.* The archelon makes two Bite attacks.
 
-Traits
-Hold Breath. The crocodile can hold its breath
-for 1 hour.
+*Bite. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 14 (3d6 + 4) Piercing damage.
 
-Actions
-Multiattack. The crocodile makes one Bite attack and
-one Tail attack.
+## **Baboon**
 
-Bite. Melee Attack Roll: +8, reach 5 ft. Hit: 21 (3d10
-+ 5) Piercing damage. If the target is a Large or smaller
-creature, it has the Grappled condition (escape DC 15).
-While Grappled, the target has the Restrained condition
-and can’t be targeted by the crocodile’s Tail.
+*Small Beast, Unaligned*
 
-Tail. Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8
-+ 5) Bludgeoning damage. If the target is a Large or
-smaller creature, it has the Prone condition.
+**AC** 12 **Initiative** +2 (12) **HP** 3 (1d6)
 
-Giant Eagle
-Large Celestial, Neutral Good
+**Speed** 30 ft., Climb 30 ft.
 
-AC 13
-HP 26 (4d10 + 4)
-Speed 10 ft., Fly 80 ft.
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 8 | −1 | −1       | Dex 14    | +2 | +2       | Con 11 | +0 | +0       |
+| Int | 4 | −3 | −3       | Wis 12 | +1 | +1       | Cha 6  | −2 | −2       |
 
-Initiative +3 (13)
+**Senses** Passive Perception 11 **Languages** None **CR** 0 (XP 10; PB +2)
 
-MOD SAVE
+#### Traits
 
-MOD SAVE
-Str  16 +3 +3 Dex  17 +3 +3 Con 13 +1 +1
-Int  8 −1 −1 WIS  14 +2 +2 Cha 10 +0 +0
+*Pack Tactics.* The baboon has Advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-MOD SAVE
+## Actions
 
-Skills Stealth +3
-Senses Blindsight 30 ft.; Passive Perception 9
-Languages None
-CR 1/8 (XP 25; PB +2)
+*Bite. Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 − 1) Piercing damage.
 
-Traits
-Amphibious. The crab can breathe air and water.
+## **Badger**
 
-Skills Perception +6
-Resistances Necrotic, Radiant
-Senses Passive Perception 16
-Languages Celestial; understands Common and Primordial
+*Tiny Beast, Unaligned*
 
-(Auran) but can’t speak them
+**AC** 11 **Initiative** +0 (10) **HP** 5 (1d4 + 3)
 
-CR 1 (XP 200; PB +2)
+**Speed** 20 ft., Burrow 5 ft.
 
-Actions
-Multiattack. The eagle makes two Rend attacks.
+MOD SAVE MOD SAVE MOD SAVE **Str** 10 +0 +0 **Dex** 11 +0 +0 **Con** 16 +3 +3 **Int** 2 −4 −4 **Wis** 12 +1 +1 **Cha** 5 −3 −3
 
-347
+**Skills** Perception +3 **Resistances** Poison **Senses** Darkvision 30 ft.; Passive Perception 13 **Languages** None **CR** 0 (XP 10; PB +2)
 
-System Reference Document 5.2
+## Actions
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3)
-Slashing damage plus 3 (1d6) Radiant damage.
+*Bite. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage.
 
-Giant Elk
-Huge Celestial, Neutral Good
+## **Bat**
 
-AC 14
-HP 42 (5d12 + 10)
-Speed 60 ft.
+*Tiny Beast, Unaligned*
 
-Initiative +6 (16)
+| AC 12                   |   |    |          |        | Initiative +2 (12) |    |          |       |          |    |
+|-------------------------|---|----|----------|--------|--------------------|----|----------|-------|----------|----|
+| HP 1 (1d4 − 1)          |   |    |          |        |                    |    |          |       |          |    |
+| Speed 5 ft., Fly 30 ft. |   |    |          |        |                    |    |          |       |          |    |
+|                         |   |    | MOD SAVE |        |                    |    | MOD SAVE |       | MOD SAVE |    |
+| Str                     | 2 | −4 | −4       | Dex 15 |                    | +2 | +2       | Con 8 | −1       | −1 |
+| Int                     | 2 | −4 | −4       | Wis    | 12                 | +1 | +1       | Cha 4 | −3       | −3 |
 
-MOD SAVE
+**Senses** Blindsight 60 ft.; Passive Perception 11 **Languages** None **CR** 0 (XP 10; PB +2)
 
-MOD SAVE
-Str  19 +4 +6 Dex 18 +4 +6 Con 14 +2 +2
-Int  7 −2 −2 WIS  14 +2 +2 Cha 10 +0 +0
+#### Actions
 
-MOD SAVE
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage.
 
-Skills Perception +4
-Resistances Necrotic, Radiant
-Senses Darkvision 90 ft.; Passive Perception 14
-Languages Celestial; understands Common, Elvish, and
+## **Black Bear**
 
-Sylvan but can’t speak them
+*Medium Beast, Unaligned*
 
-CR 2 (XP 450; PB +2)
+| AC 11 | Initiative +1 (11) |
+|-------|--------------------|
+|-------|--------------------|
 
-Actions
-Ram. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6
-+ 4) Bludgeoning damage plus 5 (2d4) Radiant damage.
-If the target is a Huge or smaller creature and the elk
-moved 20+ feet straight toward it immediately before
-the hit, the target takes an extra 5 (2d4) Bludgeoning
-damage and has the Prone condition.
+**HP** 19 (3d8 + 6) **Speed** 30 ft., Climb 30 ft., Swim 30 ft.
 
-Giant Fire Beetle
-Small Beast, Unaligned
+|        |   | MOD SAVE |    |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----------|----|-----------|----|----------|--------|----------|----|
+| Str 15 |   | +2       | +2 | Dex 12    | +1 | +1       | Con 14 | +2       | +2 |
+| Int    | 2 | −4       | −4 | 12 Wis | +1 | +1       | Cha 7  | −2       | −2 |
 
-AC 13
-HP 4 (1d6 + 1)
-Speed 30 ft., Climb 30 ft.
+**Skills** Perception +5 **Senses** Darkvision 60 ft.; Passive Perception 15 **Languages** None **CR** 1/2 (XP 100; PB +2)
 
-Initiative +0 (10)
+#### Actions
 
-MOD SAVE
+*Multiattack.* The bear makes two Rend attacks.
 
-MOD SAVE
-Str  8 −1 −1 Dex 10 +0 +0 Con 12 +1 +1
-Int  1 −5 −5 WIS  7 −2 −2 Cha  3 −4 −4
+*Rend. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage.
 
-MOD SAVE
+## **Blood Hawk**
 
-Resistances Fire
-Senses Blindsight 30 ft.; Passive Perception 8
-Languages None
-CR 0 (XP 10; PB +2)
+*Small Beast, Unaligned*
 
-Traits
-Illumination. The beetle sheds Bright Light in a 10-foot
-radius and Dim Light for an additional 10 feet.
+| AC 12                    | Initiative +2 (12) |
+|--------------------------|--------------------|
+| HP 7 (2d6)               |                    |
+| Speed 10 ft., Fly 60 ft. |                    |
 
-Actions
-Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage.
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 6 | −2 | −2       | Dex 14    | +2 | +2       | Con 10 | +0 | +0       |
+| Int | 3 | −4 | −4       | 14 Wis | +2 | +2       | Cha 5  | −3 | −3       |
 
-Giant Frog
-Medium Beast, Unaligned
+**Skills** Perception +6 **Senses** Passive Perception 16 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-AC 11
-HP 18 (4d8)
-Speed 30 ft., Swim 30 ft.
+#### Traits
 
-Initiative +1 (11)
+*Pack Tactics.* The hawk has Advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-348
+#### Actions
 
-MOD SAVE
+*Beak. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if the target is Bloodied.
 
-MOD SAVE
-Str  12 +1 +1 Dex 13 +1 +1 Con 11 +0 +0
-Int  2 −4 −4 WIS  10 +0 +0 Cha  3 −4 −4
+## **Boar**
 
-MOD SAVE
+*Medium Beast, Unaligned*
 
-Skills Perception +2, Stealth +4
-Senses Darkvision 30 ft.; Passive Perception 12
-Languages None
-CR 1/4 (XP 50; PB +2)
+**AC** 11 **Initiative** +0 (10) **HP** 13 (2d8 + 4)
 
-Traits
-Amphibious. The frog can breathe air and water.
+#### **Speed** 40 ft.
 
-Standing Leap. The frog’s Long Jump is up to 20 feet
-and its High Jump is up to 10 feet with or without a
-running start.
+|        |   |    | MOD SAVE |          |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|----------|----|----------|--------|----------|----|
+| Str 13 |   | +1 | +1       | Dex 11   | +0 | +0       | Con 14 | +2       | +2 |
+| Int    | 2 | −4 | −4       | Wis 9 | −1 | −1       | Cha 5  | −3       | −3 |
 
-Actions
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d6 + 2)
-Piercing damage. If the target is a Medium or smaller
-creature, it has the Grappled condition (escape DC 11).
+# **Senses** Passive Perception 9
 
-Swallow. The frog swallows a Small or smaller target it
-is grappling. While swallowed, the target isn’t Grappled
-but has the Blinded and Restrained conditions, and it
-has Total Cover against attacks and other effects outside
-the frog. While swallowing the target, the frog can’t use
-Bite, and if the frog dies, the swallowed target is no lon-
-ger Restrained and can escape from the corpse using 5
-feet of movement, exiting with the Prone condition.
-  At the end of the frog’s next turn, the swallowed target
-takes 5 (2d4) Acid damage. If that damage doesn’t kill it,
-the frog disgorges it, causing it to exit Prone.
+**Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Giant Goat
-Large Beast, Unaligned
+## Traits
 
-AC 11
-HP 19 (3d10 + 3)
-Speed 40 ft., Climb 30 ft.
+*Bloodied Fury.* While Bloodied, the boar has Advantage on attack rolls.
 
-Initiative +1 (11)
+#### Actions
 
-MOD SAVE
+*Gore. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Piercing damage and has the Prone condition.
 
-MOD SAVE
-Str  17 +3 +5 Dex 13 +1 +1 Con 12 +1 +1
-Int  3 −4 −4 WIS  12 +1 +1 Cha  6 −2 −2
+## **Brown Bear**
 
-MOD SAVE
+*Large Beast, Unaligned*
 
-Skills Perception +3
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1/2 (XP 100; PB +2)
+**AC** 11 **Initiative** +1 (11)
 
-Actions
-Ram. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3)
-Bludgeoning damage. If the target is a Large or smaller
-creature and the goat moved 20+ feet straight toward it
-immediately before the hit, the target takes an extra 5
-(2d4) Bludgeoning damage and has the Prone condition.
+**HP** 22 (3d10 + 6) **Speed** 40 ft., Climb 30 ft.
 
-System Reference Document 5.2
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 17 |   | +3 | +3       | Dex 12    | +1 | +1       | Con 15 | +2 | +2       |
+| Int    | 2 | −4 | −4       | 13 Wis | +1 | +1       | Cha 7  | −2 | −2       |
 
-Giant Hyena
-Large Beast, Unaligned
+**Skills** Perception +3 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1 (XP 200; PB +2)
 
-AC 12
-HP 45 (6d10 + 12)
-Speed 50 ft.
+#### Actions
 
-Initiative +2 (12)
+*Multiattack.* The bear makes one Bite attack and one Claw attack.
 
-MOD SAVE
+*Bite***.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage.
 
-MOD SAVE
-Str  16 +3 +3 Dex 14 +2 +2 Con 14 +2 +2
-Int  2 −4 −4 WIS  12 +1 +1 Cha  7 −2 −2
+*Claw***.** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-MOD SAVE
+## **Camel**
 
-Skills Perception +3
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1 (XP 200; PB +2)
+*Large Beast, Unaligned*
 
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3)
-Piercing damage.
+**AC** 10 **Initiative** −1 (9) **HP** 17 (2d10 + 6) **Speed** 50 ft.
 
-Bonus Actions
-Rampage (1/Day). Immediately after dealing damage
-to a creature that was already Bloodied, the hyena can
-move up to half its Speed, and it makes one Bite attack.
+|        |   |    | MOD SAVE |           | MOD SAVE |    |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----------|----|--------|----------|----|
+| Str 15 |   | +2 | +2       | Dex 8     | −1       | −1 | Con 17 | +3       | +5 |
+| Int    | 2 | −4 | −4       | Wis 11 | +0       | +0 | Cha 5  | −3       | −3 |
 
-Giant Lizard
-Large Beast, Unaligned
+**Senses** Darkvision 60 ft.; Passive Perception 10 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-AC 12
-HP 19 (3d10 + 3)
-Speed 40 ft., Climb 40 ft.
+### Actions
 
-Initiative +1 (11)
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning damage.
 
-MOD SAVE
+## **Cat**
 
-MOD SAVE
-Str  15 +2 +2 Dex 12 +1 +3 Con 13 +1 +1
-Int  2 −4 −4 WIS  10 +0 +0 Cha  5 −3 −3
+*Tiny Beast, Unaligned*
 
-MOD SAVE
+| AC 12                      | Initiative +2 (12) |
+|----------------------------|--------------------|
+| HP 2 (1d4)                 |                    |
+| Speed 40 ft., Climb 40 ft. |                    |
 
-Senses Darkvision 60 ft.; Passive Perception 10
-Languages None
-CR 1/4 (XP 50; PB +2)
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 3 | −4 | −4       | Dex 15    | +2 | +4       | Con 10 | +0 | +0       |
+| Int | 3 | −4 | −4       | Wis 12 | +1 | +1       | Cha 7  | −2 | −2       |
 
-Traits
-Spider Climb. The lizard can climb difficult surfaces,
-including along ceilings, without needing to make an
-ability check.
+**Skills** Perception +3, Stealth +4 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2)
-Piercing damage.
+### Traits
 
-Giant Octopus
-Large Beast, Unaligned
+*Jumper.* The cat's jump distance is determined using its Dexterity rather than its Strength.
 
-AC 11
-HP 45 (7d10 + 7)
-Speed 10 ft., Swim 60 ft.
+## Actions
 
-Initiative +1 (11)
+*Scratch. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Slashing damage.
 
-349
+## **Constrictor Snake**
 
-MOD SAVE
+*Large Beast, Unaligned*
 
-MOD SAVE
-Str  17 +3 +3 Dex 13 +1 +1 Con 13 +1 +1
-Int  5 −3 −3 WIS  10 +0 +0 Cha  4 −3 −3
+**AC** 13 **Initiative** +2 (12) **HP** 13 (2d10 + 2) **Speed** 30 ft., Swim 30 ft. MOD SAVE MOD SAVE MOD SAVE **Str** 15 +2 +2 **Dex** 14 +2 +2 **Con** 12 +1 +1 **Int** 1 −5 −5 **Wis** 10 +0 +0 **Cha** 3 −4 −4
 
-MOD SAVE
+**Skills** Perception +2, Stealth +4 **Senses** Blindsight 10 ft.; Passive Perception 12 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Skills Perception +4, Stealth +5
-Senses Darkvision 60 ft.; Passive Perception 14
-Languages None
-CR 1 (XP 200; PB +2)
+#### Actions
 
-Traits
-Water Breathing. The octopus can breathe only under-
-water. It can hold its breath for 1 hour outside water.
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage.
 
-Actions
-Tentacles. Melee Attack Roll: +5, reach 10 ft. Hit: 10
-(2d6 + 3) Bludgeoning damage. If the target is a Me-
-dium or smaller creature, it has the Grappled condition
-(escape DC 13) from all eight tentacles. While Grap-
-pled, the target has the Restrained condition.
+*Constrict. Strength Saving Throw:* DC 12, one Medium or smaller creature the snake can see within 5 feet.
 
-Reactions
-Ink Cloud (1/Day). Trigger: The octopus takes damage
-while underwater. Response: The octopus releases ink
-that fills a 10-foot Cube centered on itself, and the oc-
-topus moves up to its Swim Speed. The Cube is Heavily
-Obscured for 1 minute or until a strong current or simi-
-lar effect disperses the ink.
+*Failure:* 7 (3d4) Bludgeoning damage, and the target has the Grappled condition (escape DC 12).
 
-Giant Owl
-Large Celestial, Neutral
+## **Crab**
 
-AC 12
-HP 19 (3d10 + 3)
-Speed 5 ft., Fly 60 ft.
+*Tiny Beast, Unaligned*
 
-Initiative +2 (12)
+**AC** 11 **Initiative** +0 (10) **HP** 3 (1d4 + 1)
 
-MOD SAVE
+**Speed** 20 ft., Swim 20 ft.
 
-MOD SAVE
-Str  13 +1 +1 Dex 15 +2 +2 Con 12 +1 +1
-Int  10 +0 +0 WIS  14 +2 +4 Cha 10 +0 +0
+|     |   |    | MOD SAVE |          |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|----------|----|----------|--------|----|----------|
+| Str | 6 | −2 | −2       | Dex 11   | +0 | +0       | Con 12 | +1 | +1       |
+| Int | 1 | −5 | −5       | Wis 8 | −1 | −1       | Cha 2  | −4 | −4       |
 
-MOD SAVE
+**Skills** Stealth +2
 
-Skills Perception +6, Stealth +6
-Resistances Necrotic, Radiant
-Senses Darkvision 120 ft.; Passive Perception 16
-Languages Celestial; understands Common, Elvish, and
+**Senses** Blindsight 30 ft.; Passive Perception 9 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Sylvan but can’t speak them
+#### Traits
 
-CR 1/4 (XP 50; PB +2)
+*Amphibious.* The crab can breathe air and water.
 
-Traits
-Flyby. The owl doesn’t provoke an Opportunity Attack
-when it flies out of an enemy’s reach.
+#### Actions
 
-Actions
-Talons. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10
-+ 2) Slashing damage.
+*Claw. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Bludgeoning damage.
 
-Spellcasting. The owl casts one of the following spells,
-requiring no spell components and using Wisdom as
-the spellcasting ability:
+# **Crocodile**
 
-At Will: Detect Evil and Good, Detect Magic
-1/Day: Clairvoyance
+*Large Beast, Unaligned*
 
-System Reference Document 5.2
-Giant Rat
-Small Beast, Unaligned
+**AC** 12 **Initiative** +0 (10)
 
-AC 13
-HP 7 (2d6)
-Speed 30 ft., Climb 30 ft.
+**HP** 13 (2d10 + 2) **Speed** 20 ft., Swim 30 ft.
 
-Initiative +3 (13)
+MOD SAVE MOD SAVE MOD SAVE **Str** 15 +2 +2 **Dex** 10 +0 +0 **Con** 13 +1 +3 **Int** 2 −4 −4 **Wis** 10 +0 +0 **Cha** 5 −3 −3
 
-MOD SAVE
+**Skills** Stealth +2 **Senses** Passive Perception 10 **Languages** None **CR** 1/2 (XP 100; PB +2)
 
-MOD SAVE
-Str  7 −2 −2 Dex 16 +3 +5 Con 11 +0 +0
-Int  2 −4 −4 WIS  10 +0 +0 Cha  4 −3 −3
+## Traits
 
-MOD SAVE
+*Hold Breath.* The crocodile can hold its breath for 1 hour.
 
-Skills Perception +2
-Senses Darkvision 60 ft.; Passive Perception 12
-Languages None
-CR 1/8 (XP 25; PB +2)
+## Actions
 
-Traits
-Pack Tactics. The rat has Advantage on an attack roll
-against a creature if at least one of the rat’s allies is
-within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12). While Grappled, the target has the Restrained condition.
 
-Actions
-Bite. Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4
-+ 3) Piercing damage.
+## **Deer**
 
-Giant Scorpion
-Large Beast, Unaligned
+*Medium Beast, Unaligned*
 
-AC 15
-HP 52 (7d10 + 14)
-Speed 40 ft.
+**AC** 13 **Initiative** +3 (13)
 
-Initiative +1 (11)
+**HP** 4 (1d8) **Speed** 50 ft.
 
-MOD SAVE
+|     |    |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |  |  |  |
+|-----|----|----|----------|-----------|----|----------|--------|----|----------|--|--|--|
+| Str | 11 | +0 | +0       | Dex 16    | +3 | +3       | Con 11 | +0 | +0       |  |  |  |
+| Int | 2  | −4 | −4       | Wis 14 | +2 | +2       | Cha 5  | −3 | −3       |  |  |  |
 
-MOD SAVE
-Str  16 +3 +3 Dex 13 +1 +1 Con 15 +2 +2
-Int  1 −5 −5 WIS  9 −1 −1 Cha  3 −4 −4
+**Skills** Perception +4
 
-MOD SAVE
+**Senses** Darkvision 60 ft.; Passive Perception 14 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Senses Blindsight 60 ft.; Passive Perception 9
-Languages None
-CR 3 (XP 700; PB +2)
+## Traits
 
-Actions
-Multiattack. The scorpion makes two Claw attacks and
-one Sting attack.
+*Agile.* The deer doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
 
-Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3)
-Bludgeoning damage. If the target is a Large or smaller
-creature, it has the Grappled condition (escape DC 13)
-from one of two claws.
+## Actions
 
-Sting. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
-Piercing damage plus 11 (2d10) Poison damage.
+*Ram. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Bludgeoning damage.
 
-Giant Seahorse
-Large Beast, Unaligned
+# **Dire Wolf**
 
-AC 14
-HP 16 (3d10)
-Speed 5 ft., Swim 40 ft.
+*Large Beast, Unaligned*
 
-Initiative +1 (11)
+| AC 14            |   |    |          | Initiative +2 (12) |    |    |          |        |    |          |
+|------------------|---|----|----------|--------------------|----|----|----------|--------|----|----------|
+| HP 22 (3d10 + 6) |   |    |          |                    |    |    |          |        |    |          |
+| Speed 50 ft.     |   |    |          |                    |    |    |          |        |    |          |
+|                  |   |    | MOD SAVE |                    |    |    | MOD SAVE |        |    | MOD SAVE |
+| Str 17           |   | +3 | +3       | Dex 15             |    | +2 | +2       | Con 15 | +2 | +2       |
+| Int              | 3 | −4 | −4       | Wis                | 12 | +1 | +1       | Cha 7  | −2 | −2       |
 
-350
+**Skills** Perception +5, Stealth +4 **Senses** Darkvision 60 ft.; Passive Perception 15 **Languages** None **CR** 1 (XP 200; PB +2)
 
-MOD SAVE
+## Traits
 
-MOD SAVE
-Str  15 +2 +2 Dex 12 +1 +1 Con 11 +0 +0
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
+*Pack Tactics.* The wolf has Advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-MOD SAVE
+## Actions
 
-Senses Passive Perception 11
-Languages None
-CR 1/2 (XP 100; PB +2)
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-Traits
-Water Breathing. The seahorse can breathe only
-underwater.
+## **Draft Horse**
 
-Actions
-Ram. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6
-+ 2) Bludgeoning damage, or 11 (2d8 + 2) Bludgeoning
-damage if the seahorse moved 20+ feet straight toward
-the target immediately before the hit.
+*Large Beast, Unaligned*
 
-Bonus Actions
-Bubble Dash. While underwater, the seahorse moves
-up to half its Swim Speed without provoking Opportu-
-nity Attacks.
+**AC** 10 **Initiative** +0 (10) **HP** 15 (2d10 + 4) **Speed** 40 ft.
 
-Giant Shark
-Huge Beast, Unaligned
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 18 |   | +4 | +4       | Dex 10    | +0 | +0       | Con 15 | +2       | +2 |
+| Int    | 2 | −4 | −4       | Wis 11 | +0 | +0       | Cha 7  | −2       | −2 |
 
-AC 13
-HP 92 (8d12 + 40)
-Speed 5 ft., Swim 60 ft.
+**Senses** Passive Perception 10 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Initiative +3 (13)
+## Actions
 
-MOD SAVE
+*Hooves. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 6 (1d4 + 4) Bludgeoning damage.
 
-MOD SAVE
-Str  23 +6 +6 Dex  11 +0 +0 Con 21 +5 +5
-Int  1 −5 −5 WIS  10 +0 +0 Cha  5 −3 −3
+# **Eagle**
 
-MOD SAVE
+*Small Beast, Unaligned*
 
-Skills Perception +3
-Senses Blindsight 60 ft.; Passive Perception 13
-Languages None
-CR 5 (XP 1,800; PB +3)
+**AC** 12 **Initiative** +2 (12) **HP** 4 (1d6 + 1) **Speed** 10 ft., Fly 60 ft.
 
-Traits
-Water Breathing. The shark can breathe only underwater.
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|-----|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str | 6 | −2 | −2       | Dex 15    | +2 | +2       | Con 12 | +1       | +1 |
+| Int | 2 | −4 | −4       | 14 Wis | +2 | +2       | Cha 7  | −2       | −2 |
 
-Actions
-Multiattack. The shark makes two Bite attacks.
+## **Skills** Perception +6
 
-Bite. Melee Attack Roll: +9 (with Advantage if the target
-doesn’t have all its Hit Points), reach 5 ft. Hit: 22 (3d10
-+ 6) Piercing damage.
+**Senses** Passive Perception 16 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Giant Spider
-Large Beast, Unaligned
+## Actions
 
-AC 14
-HP 26 (4d10 + 4)
-Speed 30 ft., Climb 30 ft.
+*Talons. Melee Attack Roll:* +4, reach 5 feet. *Hit:* 4 (1d4 + 2) Slashing damage.
 
-Initiative +3 (13)
+# **Elephant**
 
-System Reference Document 5.2
+*Huge Beast, Unaligned*
 
-MOD SAVE
+**AC** 12 **Initiative** −1 (9) **HP** 76 (8d12 + 24)
 
-MOD SAVE
-Str  14 +2 +2 Dex 16 +3 +3 Con 12 +1 +1
-Int  2 −4 −4 WIS  11 +0 +0 Cha  4 −3 −3
+**Speed** 40 ft.
 
-MOD SAVE
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 22 |   | +6 | +6       | Dex 9     | −1 | −1       | Con 17 | +3       | +3 |
+| Int    | 3 | −4 | −4       | Wis 11 | +0 | +0       | Cha 6  | −2       | −2 |
 
-Skills Perception +4, Stealth +7
-Senses Darkvision 60 ft.; Passive Perception 14
-Languages None
-CR 1 (XP 200; PB +2)
+**Senses** Passive Perception 10 **Languages** None **CR** 4 (XP 1,100; PB +2)
 
-Traits
-Spider Climb. The spider can climb difficult surfaces,
-including along ceilings, without needing to make an
-ability check.
+## Actions
 
-Web Walker. The spider ignores movement restrictions
-caused by webs, and it knows the location of any other
-creature in contact with the same web.
+*Multiattack.* The elephant makes two Gore attacks.
 
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
-Piercing damage plus 7 (2d6) Poison damage.
+*Gore***.** *Melee Attack Roll:* +8, reach 5 ft. *Hit:* 15 (2d8 + 6) Piercing damage. If the target is a Huge or smaller creature and the elephant moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
-Web (Recharge 5–6). Dexterity Saving Throw: DC 13,
-one creature the spider can see within 60 feet. Failure:
-The target has the Restrained condition until the web is
-destroyed (AC 10; HP 5; Vulnerability to Fire damage;
-Immunity to Poison and Psychic damage).
+## Bonus Actions
 
-Giant Toad
-Large Beast, Unaligned
+*Trample. Dexterity Saving Throw:* DC 16, one creature within 5 feet that has the Prone condition. *Failure:* 17 (2d10 + 6) Bludgeoning damage. *Success:* Half damage.
 
-AC 11
-HP 39 (6d10 + 6)
-Speed 30 ft., Swim 30 ft.
+## **Elk**
 
-Initiative +1 (11)
+*Large Beast, Unaligned*
 
-MOD SAVE
+| AC 10 | Initiative +0 (10) |
+|-------|--------------------|
+|       |                    |
 
-MOD SAVE
-Str  15 +2 +2 Dex 13 +1 +1 Con 13 +1 +1
-Int  2 −4 −4 WIS  10 +0 +0 Cha  3 −4 −4
+#### **HP** 11 (2d10) **Speed** 50 ft.
 
-MOD SAVE
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 16 |   | +3 | +3       | Dex 10    | +0 | +0       | Con 11 | +0       | +0 |
+| Int    | 2 | −4 | −4       | Wis 10 | +0 | +0       | Cha 6  | −2       | −2 |
 
-Senses Darkvision 60 ft.; Passive Perception 10
-Languages None
-CR 1 (XP 200; PB +2)
+**Skills** Perception +2
 
-Traits
-Amphibious. The toad can breathe air and water.
+**Senses** Darkvision 60 ft.; Passive Perception 12 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Standing Leap. The toad’s Long Jump is up to 20 feet
-and its High Jump is up to 10 feet with or without a
-running start.
+## Actions
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
-Piercing damage plus 5 (2d4) Poison damage. If the tar-
-get is a Medium or smaller creature, it has the Grappled
-condition (escape DC 12).
+*Ram. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the Prone condition.
 
-Swallow. The toad swallows a Medium or smaller target
-it is grappling. While swallowed, the target isn’t Grap-
-pled but has the Blinded and Restrained conditions,
-and it has Total Cover against attacks and other effects
-outside the toad. In addition, the target takes 10 (3d6)
-Acid damage at the end of each of the toad’s turns. The
+# **Flying Snake**
 
-351
+*Tiny Monstrosity, Unaligned*
 
-toad can have only one target swallowed at a time, and
-it can’t use Bite while it has a swallowed target. If the
-toad dies, a swallowed creature is no longer Restrained
-and can escape from the corpse using 5 feet of move-
-ment, exiting with the Prone condition.
+| AC 14 Initiative +2 (12) HP 5 (2d4)                                 |   |    |    |        |    |    |    |        |    |    |
+|---------------------------------------------------------------------------|---|----|----|--------|----|----|----|--------|----|----|
+| Speed 30 ft., Fly 60 ft., Swim 30 ft. MOD SAVE MOD SAVE MOD SAVE |   |    |    |        |    |    |    |        |    |    |
+| Str                                                                       | 4 | −3 | −3 | Dex 15 |    | +2 | +2 | Con 11 | +0 | +0 |
+| Int                                                                       | 2 | −4 | −4 | Wis    | 12 | +1 | +1 | Cha 5  | −3 | −3 |
 
-Giant Venomous Snake
-Medium Beast, Unaligned
+**Senses** Blindsight 10 ft.; Passive Perception 11 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-AC 14
-HP 11 (2d8 + 2)
-Speed 40 ft., Swim 40 ft.
+## Traits
 
-Initiative +4 (14)
+*Flyby.* The snake doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-MOD SAVE
+## Actions
 
-MOD SAVE
-Str  10 +0 +0 Dex 18 +4 +4 Con 13 +1 +1
-Int  2 −4 −4 WIS  10 +0 +0 Cha  3 −4 −4
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage plus 5 (2d4) Poison damage.
 
-MOD SAVE
+## **Frog**
 
-Skills Perception +2
-Senses Blindsight 10 ft.; Passive Perception 12
-Languages None
-CR 1/4 (XP 50; PB +2)
+*Tiny Beast, Unaligned*
 
-Actions
-Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 6 (1d4 + 4)
-Piercing damage plus 4 (1d8) Poison damage.
+**AC** 11 **Initiative** +1 (11)
 
-Giant Vulture
-Large Monstrosity, Neutral Evil
+**HP** 1 (1d4 − 1) **Speed** 20 ft., Swim 20 ft.
 
-AC 10
-HP 25 (3d10 + 9)
-Speed 10 ft., Fly 60 ft.
+|     |   |    | MOD SAVE |        |   | MOD SAVE |    |       | MOD SAVE |    |
+|-----|---|----|----------|--------|---|----------|----|-------|----------|----|
+| Str | 1 | −5 | −5       | Dex 13 |   | +1       | +1 | Con 8 | −1       | −1 |
+| Int | 1 | −5 | −5       | Wis    | 8 | −1       | −1 | Cha 3 | −4       | −4 |
 
-Initiative +0 (10)
+**Skills** Perception +1, Stealth +3 **Senses** Darkvision 30 ft.; Passive Perception 11 **Languages** None **CR** 0 (XP 10; PB +2)
 
-MOD SAVE
+*Amphibious.* The frog can breathe air and water.
 
-MOD SAVE
-Str  15 +2 +2 Dex 10 +0 +0 Con 16 +3 +3
-Int  6 −2 −2 WIS  12 +1 +1 Cha  7 −2 −2
+*Standing Leap.* The frog's Long Jump is up to 10 feet and its High Jump is up to 5 feet with or without a running start.
 
-MOD SAVE
+### Actions
 
-Skills Perception +3
-Resistances Necrotic
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages Understands Common but can’t speak
-CR 1 (XP 200; PB +2)
+*Bite. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Piercing damage.
 
-Traits
-Pack Tactics. The vulture has Advantage on an attack
-roll against a creature if at least one of the vulture’s al-
-lies is within 5 feet of the creature and the ally doesn’t
-have the Incapacitated condition.
+# **Giant Ape**
 
-Actions
-Gouge. Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6
-+ 2) Piercing damage, and the target has the Poisoned
-condition until the end of its next turn.
+*Huge Beast, Unaligned*
 
-Giant Wasp
-Medium Beast, Unaligned
+**AC** 12 **Initiative** +5 (15)
 
-AC 13
-HP 22 (5d8)
-Speed 10 ft., Fly 50 ft.
+**HP** 168 (16d12 + 64)
 
-Initiative +2 (12)
+**Speed** 40 ft., Climb 40 ft.
 
-System Reference Document 5.2
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 23 |   | +6 | +6       | Dex 14    | +2 | +2       | Con 18 | +4       | +4 |
+| Int    | 5 | −3 | −3       | Wis 12 | +1 | +1       | Cha 7  | −2       | −2 |
 
-MOD SAVE
+**Skills** Athletics +9, Perception +4, Survival +4 **Senses** Passive Perception 14 **Languages** None **CR** 7 (XP 2,900; PB +3)
 
-MOD SAVE
-Str  10 +0 +0 Dex 14 +2 +2 Con 10 +0 +0
-Int  1 −5 −5 WIS  10 +0 +0 Cha  3 −4 −4
+## Actions
 
-MOD SAVE
+*Multiattack.* The ape makes two Fist attacks.
 
-Senses Passive Perception 10
-Languages None
-CR 1/2 (XP 100; PB +2)
+*Fist. Melee Attack Roll:* +9, reach 10 ft. *Hit:* 22 (3d10 + 6) Bludgeoning damage.
 
-Traits
-Flyby. The wasp doesn’t provoke an Opportunity At-
-tack when it flies out of an enemy’s reach.
+*Boulder Toss (Recharge 6).* The ape hurls a boulder at a point it can see within 90 feet. *Dexterity Saving Throw:* DC 17, each creature in a 5-foot-radius Sphere centered on that point. *Failure:* 24 (7d6) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition. *Success:* Half damage only.
 
-Actions
-Sting. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
-Piercing damage plus 5 (2d4) Poison damage.
+## Bonus Actions
 
-Giant Weasel
-Medium Beast, Unaligned
+*Leap.* The ape jumps up to 30 feet by spending 10 feet of movement.
 
-AC 13
-HP 9 (2d8)
-Speed 40 ft., Climb 30 ft.
+# **Giant Badger**
 
-Initiative +3 (13)
+*Medium Beast, Unaligned*
 
-MOD SAVE
+**AC** 13 **Initiative** +0 (10)
 
-MOD SAVE
-Str  11 +0 +0 Dex  17 +3 +3 Con 10 +0 +0
-Int  4 −3 −3 WIS  12 +1 +1 Cha  5 −3 −3
+**HP** 15 (2d8 + 6)
 
-MOD SAVE
+**Speed** 30 ft., Burrow 10 ft.
 
-Skills Acrobatics +5, Perception +3, Stealth +5
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1/8 (XP 25; PB +2)
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 13 |   | +1 | +1       | Dex 10    | +0 | +0       | Con 17 | +3       | +3 |
+| Int    | 2 | −4 | −4       | Wis 12 | +1 | +1       | Cha 5  | −3       | −3 |
 
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3)
-Piercing damage.
+**Skills** Perception +3 **Resistances** Poison **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Giant Wolf Spider
-Medium Beast, Unaligned
+## Actions
 
-AC 13
-HP 11 (2d8 + 2)
-Speed 40 ft., Climb 40 ft.
+*Bite. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Piercing damage.
 
-Initiative +3 (13)
+## **Giant Bat**
 
-MOD SAVE
+*Large Beast, Unaligned*
 
-MOD SAVE
-Str  12 +1 +1 Dex 16 +3 +3 Con 13 +1 +1
-Int  3 −4 −4 WIS  12 +1 +1 Cha  4 −3 −3
+| AC 13  | Initiative +3 (13)       |    |          |        |    |    |          |        |    |          |
+|--------|--------------------------|----|----------|--------|----|----|----------|--------|----|----------|
+|        | HP 22 (4d10)             |    |          |        |    |    |          |        |    |          |
+|        | Speed 10 ft., Fly 60 ft. |    |          |        |    |    |          |        |    |          |
+|        |                          |    | MOD SAVE |        |    |    | MOD SAVE |        |    | MOD SAVE |
+| Str 15 |                          | +2 | +2       | Dex 16 |    | +3 | +3       | Con 11 | +0 | +0       |
+| Int    | 2                        | −4 | −4       | Wis    | 12 | +1 | +1       | Cha 6  | −2 | −2       |
+|        |                          |    |          |        |    |    |          |        |    |          |
 
-MOD SAVE
+**Senses** Blindsight 120 ft.; Passive Perception 11 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Skills Perception +3, Stealth +7
-Senses Blindsight 10 ft., Darkvision 60 ft.;
+## Actions
 
-Passive Perception 13
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage.
 
-Languages None
-CR 1/4 (XP 50; PB +2)
+## **Giant Boar**
 
-Traits
-Spider Climb. The spider can climb difficult surfaces,
-including along ceilings, without needing to make an
-ability check.
+*Large Beast, Unaligned*
 
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3)
-Piercing damage plus 5 (2d4) Poison damage.
+| AC 13             |              |    |          | Initiative +0 (10) |   |    |          |        |    |          |  |  |
+|-------------------|--------------|----|----------|--------------------|---|----|----------|--------|----|----------|--|--|
+| HP 42 (5d10 + 15) |              |    |          |                    |   |    |          |        |    |          |  |  |
+|                   | Speed 40 ft. |    |          |                    |   |    |          |        |    |          |  |  |
+|                   |              |    | MOD SAVE |                    |   |    | MOD SAVE |        |    | MOD SAVE |  |  |
+| Str 17            |              | +3 | +5       | Dex 10             |   | +0 | +0       | Con 16 | +3 | +3       |  |  |
+| Int               | 2            | −4 | −4       | Wis                | 7 | −2 | −2       | Cha 5  | −3 | −3       |  |  |
 
-352
+**Senses** Passive Perception 8 **Languages** None **CR** 2 (XP 450; PB +2)
 
-Goat
-Medium Beast, Unaligned
+## Traits
 
-AC 10
-HP 4 (1d8)
-Speed 40 ft., Climb 30 ft.
+*Bloodied Fury.* The boar has Advantage on melee attack rolls while it is Bloodied.
 
-Initiative +0 (10)
+## Actions
 
-MOD SAVE
+*Gore. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
 
-MOD SAVE
-Str  11 +0 +2 Dex 10 +0 +0 Con 11 +0 +0
-Int  2 −4 −4 WIS  10 +0 +0 Cha  5 −3 −3
+# **Giant Centipede**
 
-MOD SAVE
+*Small Beast, Unaligned*
 
-Skills Perception +2
-Senses Darkvision 60 ft.; Passive Perception 12
-Languages None
-CR 0 (XP 10; PB +2)
+**AC** 14 **Initiative** +2 (12) **HP** 9 (2d6 + 2) **Speed** 30 ft., Climb 30 ft.
 
-Actions
-Ram. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Blud-
-geoning damage, or 2 (1d4) Bludgeoning damage if the
-goat moved 20+ feet straight toward the target immedi-
-ately before the hit.
+|       |    | MOD SAVE |          |    | MOD SAVE |        |    | MOD SAVE |
+|-------|----|----------|----------|----|----------|--------|----|----------|
+| Str 5 | −3 | −3       | Dex 14   | +2 | +2       | Con 12 | +1 | +1       |
+| Int 1 | −5 | −5       | Wis 7 | −2 | −2       | Cha 3  | −4 | −4       |
 
-Hawk
-Tiny Beast, Unaligned
+**Senses** Blindsight 30 ft.; Passive Perception 8 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-AC 13
-HP 1 (1d4 − 1)
-Speed 10 ft., Fly 60 ft.
+#### Actions
 
-Initiative +3 (13)
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage, and the target has the Poisoned condition until the start of the centipede's next turn.
 
-MOD SAVE
+## **Giant Constrictor Snake**
 
-MOD SAVE
-Str  5 −3 −3 Dex 16 +3 +3 Con 8 −1 −1
-Int  2 −4 −4 WIS  14 +2 +2 Cha  6 −2 −2
+*Huge Beast, Unaligned*
 
-MOD SAVE
+**AC** 12 **Initiative** +2 (12) **HP** 60 (8d12 + 8) **Speed** 30 ft., Swim 30 ft.
 
-Skills Perception +6
-Senses Passive Perception 16
-Languages None
-CR 0 (XP 10; PB +2)
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 19 |   | +4 | +4       | Dex 14    | +2 | +2       | Con 12 | +1       | +1 |
+| Int    | 1 | −5 | −5       | Wis 10 | +0 | +0       | Cha 3  | −4       | −4 |
 
-Actions
-Talons. Melee Attack Roll: +5, reach 5 ft. Hit: 1 Slash-
-ing damage.
+**Skills** Perception +2
 
-Hippopotamus
-Large Beast, Unaligned
+**Senses** Blindsight 10 ft.; Passive Perception 12 **Languages** None **CR** 2 (XP 450; PB +2)
 
-AC 14
-HP 82 (11d10 + 22)
-Speed 30 ft., Swim 30 ft.
+#### Actions
 
-Initiative −2 (8)
+*Multiattack.* The snake makes one Bite attack and uses Constrict.
 
-MOD SAVE
+*Bite. Melee Attack Roll:* +6, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage.
 
-MOD SAVE
-Str  21 +5 +7 Dex  7 −2 −2 Con 15 +2 +2
-Int  2 −4 −4 WIS  12 +1 +1 Cha  4 −3 −3
+*Constrict. Strength Saving Throw:* DC 14, one Large or smaller creature the snake can see within 10 feet. *Failure:* 13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled condition (escape DC 14).
 
-MOD SAVE
+## **Giant Crab**
 
-Skills Perception +3
-Senses Passive Perception 13
-Languages None
-CR 4 (XP 1,100; PB +2)
+*Medium Beast, Unaligned*
 
-Traits
-Hold Breath. The hippopotamus can hold its breath for
-10 minutes.
+**AC** 15 **Initiative** +1 (11)
 
-System Reference Document 5.2
+**HP** 13 (3d8)
 
-Actions
-Multiattack. The hippopotamus makes two Bite attacks.
+**Speed** 30 ft., Swim 30 ft.
 
-Jackal
-Small Beast, Unaligned
+|        |   |    | MOD SAVE |          |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|----------|----|----------|--------|----------|----|
+| Str 13 |   | +1 | +1       | Dex 13   | +1 | +1       | Con 11 | +0       | +0 |
+| Int    | 1 | −5 | −5       | Wis 9 | −1 | −1       | Cha 3  | −4       | −4 |
 
-Bite. Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 +
-5) Piercing damage.
+**Skills** Stealth +3
 
-Hunter Shark
-Large Beast, Unaligned
+**Senses** Blindsight 30 ft.; Passive Perception 9 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-AC 12
-HP 45 (6d10 + 12)
-Speed 5 ft., Swim 40 ft.
+## Traits
 
-Initiative +2 (12)
+*Amphibious.* The crab can breathe air and water.
 
-MOD SAVE
+## Actions
 
-MOD SAVE
-Str  18 +4 +4 Dex 14 +2 +2 Con 15 +2 +2
-Int  1 −5 −5 WIS  10 +0 +0 Cha  4 −3 −3
+*Claw. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11) from one of two claws.
 
-MOD SAVE
+# **Giant Crocodile**
 
-Skills Perception +2
-Senses Blindsight 60 ft.; Passive Perception 12
-Languages None
-CR 2 (XP 450; PB +2)
+*Huge Beast, Unaligned*
 
-Traits
-Water Breathing. The shark can breathe only underwater.
+**AC** 14 **Initiative** −1 (9) **HP** 85 (9d12 + 27)
 
-Actions
-Bite. Melee Attack Roll: +6 (with Advantage if the tar-
-get doesn’t have all its Hit Points), reach 5 ft. Hit: 14
-(3d6 + 4) Piercing damage.
+**Speed** 30 ft., Swim 50 ft.
 
-Hyena
-Medium Beast, Unaligned
+|        |   |    | MOD SAVE |       |    | MOD SAVE |    |        |    | MOD SAVE |
+|--------|---|----|----------|-------|----|----------|----|--------|----|----------|
+| Str 21 |   | +5 | +5       | Dex 9 |    | −1       | −1 | Con 17 | +3 | +3       |
+| Int    | 2 | −4 | −4       | Wis   | 10 | +0       | +0 | Cha 7  | −2 | −2       |
 
-AC 11
-HP 5 (1d8 + 1)
-Speed 50 ft.
+**Skills** Stealth +5 **Senses** Passive Perception 10 **Languages** None **CR** 5 (XP 1,800; PB +3)
 
-Initiative +1 (11)
+## Traits
 
-MOD SAVE
+*Hold Breath.* The crocodile can hold its breath for 1 hour.
 
-MOD SAVE
-Str  11 +0 +0 Dex 13 +1 +1 Con 12 +1 +1
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
+## Actions
 
-MOD SAVE
+*Multiattack.* The crocodile makes one Bite attack and one Tail attack.
 
-Skills Perception +3
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 0 (XP 10; PB +2)
+*Bite. Melee Attack Roll:* +8, reach 5 ft. *Hit:* 21 (3d10 + 5) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 15). While Grappled, the target has the Restrained condition and can't be targeted by the crocodile's Tail.
 
-Traits
-Pack Tactics. The hyena has Advantage on an attack
-roll against a creature if at least one of the hyena’s allies
-is within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
+*Tail. Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning damage. If the target is a Large or smaller creature, it has the Prone condition.
 
-Actions
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 3 (1d6)
-Piercing damage.
+# **Giant Eagle**
 
-353
+*Large Celestial, Neutral Good*
 
-AC 12
-HP 3 (1d6)
-Speed 40 ft.
+| AC 13 Initiative +3 (13) HP 26 (4d10 + 4) Speed 10 ft., Fly 80 ft. |   |    |          |        |    |    |          |        |    |          |
+|-----------------------------------------------------------------------------|---|----|----------|--------|----|----|----------|--------|----|----------|
+|                                                                             |   |    | MOD SAVE |        |    |    | MOD SAVE |        |    | MOD SAVE |
+| Str 16                                                                      |   | +3 | +3       | Dex 17 |    | +3 | +3       | Con 13 | +1 | +1       |
+| Int                                                                         | 8 | −1 | −1       | Wis    | 14 | +2 | +2       | Cha 10 | +0 | +0       |
+|                                                                             |   |    |          |        |    |    |          |        |    |          |
 
-Initiative +2 (12)
+**Skills** Perception +6
 
-MOD SAVE
+**Resistances** Necrotic, Radiant
 
-MOD SAVE
-Str  8 −1 −1 Dex 15 +2 +2 Con 11 +0 +0
-Int  3 −4 −4 WIS  12 +1 +1 Cha  6 −2 −2
+**Senses** Passive Perception 16
 
-MOD SAVE
+**Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
 
-Skills Perception +5, Stealth +4
-Senses Darkvision 90 ft.; Passive Perception 15
-Languages None
-CR 0 (XP 10; PB +2)
+**CR** 1 (XP 200; PB +2)
 
-Actions
-Bite. Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 – 1)
-Piercing damage.
+## Actions
 
-Killer Whale
-Huge Beast, Unaligned
+*Multiattack.* The eagle makes two Rend attacks.
 
-AC 12
-HP 90 (12d12 + 12)
-Speed 5 ft., Swim 60 ft.
+*Rend. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing damage plus 3 (1d6) Radiant damage.
 
-Initiative +2 (12)
+## **Giant Elk**
 
-MOD SAVE
+*Huge Celestial, Neutral Good*
 
-MOD SAVE
-Str  19 +4 +4 Dex 14 +2 +2 Con 13 +1 +1
-Int  3 −4 −4 WIS  12 +1 +1 Cha  7 −2 −2
+**AC** 14 **Initiative** +6 (16) **HP** 42 (5d12 + 10)
 
-MOD SAVE
+#### **Speed** 60 ft.
 
-Skills Perception +3, Stealth +4
-Senses Blindsight 120 ft.; Passive Perception 13
-Languages None
-CR 3 (XP 700; PB +2)
+MOD SAVE MOD SAVE MOD SAVE **Str** 19 +4 +6 **Dex** 18 +4 +6 **Con** 14 +2 +2 **Int** 7 −2 −2 **Wis** 14 +2 +2 **Cha** 10 +0 +0
 
-Traits
-Hold Breath. The whale can hold its breath for
-30 minutes.
+**Skills** Perception +4
 
-Actions
-Bite. Melee Attack Roll: +6, reach 5 ft. Hit: 21 (5d6
-+ 4) Piercing damage.
+**Resistances** Necrotic, Radiant
 
-Lion
-Large Beast, Unaligned
+**Senses** Darkvision 90 ft.; Passive Perception 14 **Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them **CR** 2 (XP 450; PB +2)
 
-AC 12
-HP 22 (4d10)
-Speed 50 ft.
+#### Actions
 
-Initiative +2 (12)
+*Ram. Melee Attack Roll:* +6, reach 10 ft. *Hit:* 11 (2d6 + 4) Bludgeoning damage plus 5 (2d4) Radiant damage. If the target is a Huge or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
 
-MOD SAVE
+## **Giant Fire Beetle**
 
-MOD SAVE
-Str  17 +3 +3 Dex 15 +2 +2 Con 11 +0 +0
-Int  3 −4 −4 WIS  12 +1 +1 Cha  8 −1 −1
+*Small Beast, Unaligned*
 
-MOD SAVE
+**AC** 13 **Initiative** +0 (10)
 
-Skills Perception +3, Stealth +4
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1 (XP 200; PB +2)
+**HP** 4 (1d6 + 1)
 
-System Reference Document 5.2
+**Speed** 30 ft., Climb 30 ft.
 
-Traits
-Pack Tactics. The lion has Advantage on an attack roll
-against a creature if at least one of the lion’s allies is
-within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
+|     |   |    | MOD SAVE |          |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|----------|----|----------|--------|----|----------|
+| Str | 8 | −1 | −1       | Dex 10   | +0 | +0       | Con 12 | +1 | +1       |
+| Int | 1 | −5 | −5       | Wis 7 | −2 | −2       | Cha 3  | −4 | −4       |
 
-Running Leap. With a 10-foot running start, the lion
-can Long Jump up to 25 feet.
+**Resistances** Fire **Senses** Blindsight 30 ft.; Passive Perception 8 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Actions
-Multiattack. The lion makes two Rend attacks. It can
-replace one attack with a use of Roar.
+## Traits
 
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3)
-Slashing damage.
+*Illumination.* The beetle sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
-Roar. Wisdom Saving Throw: DC 11, one creature
-within 15 feet. Failure: The target has the Frightened
-condition until the start of the lion’s next turn.
+#### Actions
 
-Lizard
-Tiny Beast, Unaligned
+*Bite. Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 Fire damage.
 
-AC 10
-HP 2 (1d4)
-Speed 20 ft., Climb 20 ft.
+## **Giant Frog**
 
-Initiative +0 (10)
+*Medium Beast, Unaligned*
 
-MOD SAVE
+**AC** 11 **Initiative** +1 (11)
 
-MOD SAVE
-Str  2 −4 −4 Dex  11 +0 +0 Con 10 +0 +0
-Int  1 −5 −5 WIS  8 −1 −1 Cha  3 −4 −4
+**HP** 18 (4d8) **Speed** 30 ft., Swim 30 ft.
 
-MOD SAVE
+MOD SAVE MOD SAVE MOD SAVE **Str** 12 +1 +1 **Dex** 13 +1 +1 **Con** 11 +0 +0 **Int** 2 −4 −4 **Wis** 10 +0 +0 **Cha** 3 −4 −4
 
-Senses Darkvision 30 ft.; Passive Perception 9
-Languages None
-CR 0 (XP 10; PB +2)
+**Skills** Perception +2, Stealth +4 **Senses** Darkvision 30 ft.; Passive Perception 12 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-Traits
-Spider Climb. The lizard can climb difficult surfaces,
-including along ceilings, without needing to make an
-ability check.
+### Traits
 
-Actions
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing
-damage.
+*Amphibious.* The frog can breathe air and water.
 
-Mammoth
-Huge Beast, Unaligned
+*Standing Leap.* The frog's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
 
-AC 13
-HP 126 (11d12 + 55)
-Speed 50 ft.
+### Actions
 
-Initiative +2 (12)
+*Bite. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 11).
 
-MOD SAVE
+*Swallow.* The frog swallows a Small or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Total Cover against attacks and other effects outside the frog. While swallowing the target, the frog can't use Bite, and if the frog dies, the swallowed target is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
 
-MOD SAVE
-Str  24 +7 +10 Dex  9 −1 −1 Con 21 +5 +8
-Int  3 −4 −4 WIS  11 +0 +0 Cha  6 −2 −2
+At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid damage. If that damage doesn't kill it, the frog disgorges it, causing it to exit Prone.
 
-MOD SAVE
+## **Giant Goat**
 
-Senses Passive Perception 10
-Languages None
-CR 6 (XP 2,300; PB +3)
+|                                                                                                                     |                            |    | Large Beast, Unaligned |        |                    |    |          |        |          |    |  |  |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------|----|------------------------|--------|--------------------|----|----------|--------|----------|----|--|--|
+| AC 11                                                                                                               |                            |    |                        |        | Initiative +1 (11) |    |          |        |          |    |  |  |
+| HP 19 (3d10 + 3)                                                                                                    |                            |    |                        |        |                    |    |          |        |          |    |  |  |
+|                                                                                                                     | Speed 40 ft., Climb 30 ft. |    |                        |        |                    |    |          |        |          |    |  |  |
+|                                                                                                                     |                            |    | MOD SAVE               |        |                    |    | MOD SAVE |        | MOD SAVE |    |  |  |
+| Str 17                                                                                                              |                            | +3 | +5                     | Dex 13 |                    | +1 | +1       | Con 12 | +1       | +1 |  |  |
+| Int                                                                                                                 | 3                          | −4 | −4                     | Wis    | 12                 | +1 | +1       | Cha 6  | −2       | −2 |  |  |
+| Skills Perception +3 Senses Darkvision 60 ft.; Passive Perception 13 Languages None CR 1/2 (XP 100; PB +2) |                            |    |                        |        |                    |    |          |        |          |    |  |  |
 
-Actions
-Multiattack. The mammoth makes two Gore attacks.
+#### Actions
 
-354
+*Ram. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the goat moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
 
-Gore. Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10
-+ 7) Piercing damage. If the target is a Huge or smaller
-creature and the mammoth moved 20+ feet straight
-toward it immediately before the hit, the target has the
-Prone condition.
+# **Giant Hyena**
 
-Bonus Actions
-Trample. Dexterity Saving Throw: DC 18, one creature
-within 5 feet that has the Prone condition. Failure: 29
-(4d10 + 7) Bludgeoning damage. Success: Half damage.
+*Large Beast, Unaligned*
 
-Mastiff
-Medium Beast, Unaligned
+| AC 12             |   |    |          | Initiative +2 (12) |    |          |        |    |          |  |
+|-------------------|---|----|----------|--------------------|----|----------|--------|----|----------|--|
+| HP 45 (6d10 + 12) |   |    |          |                    |    |          |        |    |          |  |
+| Speed 50 ft.      |   |    |          |                    |    |          |        |    |          |  |
+|                   |   |    | MOD SAVE |                    |    | MOD SAVE |        |    | MOD SAVE |  |
+| Str 16            |   | +3 | +3       | Dex 14             | +2 | +2       | Con 14 | +2 | +2       |  |
+| Int               | 2 | −4 | −4       | Wis 12          | +1 | +1       | Cha 7  | −2 | −2       |  |
 
-AC 12
-HP 5 (1d8 + 1)
-Speed 40 ft.
+#### **Skills** Perception +3 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1 (XP 200; PB +2)
 
-Initiative +2 (12)
+## Actions
 
-MOD SAVE
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Piercing damage.
 
-MOD SAVE
-Str  13 +1 +1 Dex 14 +2 +2 Con 12 +1 +1
-Int  3 −4 −4 WIS  12 +1 +3 Cha  7 −2 −2
+## Bonus Actions
 
-MOD SAVE
+*Rampage (1/Day).* Immediately after dealing damage to a creature that was already Bloodied, the hyena can move up to half its Speed, and it makes one Bite attack.
 
-Skills Perception +5
-Senses Darkvision 60 ft.; Passive Perception 15
-Languages None
-CR 1/8 (XP 25; PB +2)
+## **Giant Lizard**
 
-Actions
-Bite. Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1)
-Piercing damage. If the target is a Medium or smaller
-creature, it has the Prone condition.
+*Large Beast, Unaligned*
 
-Mule
-Medium Beast, Unaligned
+**AC** 12 **Initiative** +1 (11)
 
-AC 10
-HP 11 (2d8 + 2)
-Speed 40 ft.
+**HP** 19 (3d10 + 3)
 
-Initiative +0 (10)
+**Speed** 40 ft., Climb 40 ft.
 
-MOD SAVE
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 15 |   | +2 | +2       | Dex 12    | +1 | +3       | Con 13 | +1 | +1       |
+| Int    | 2 | −4 | −4       | Wis 10 | +0 | +0       | Cha 5  | −3 | −3       |
 
-MOD SAVE
-Str  14 +2 +4 Dex 10 +0 +0 Con 13 +1 +1
-Int  2 −4 −4 WIS  10 +0 +0 Cha  5 −3 −3
+**Senses** Darkvision 60 ft.; Passive Perception 10 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-MOD SAVE
+## Traits
 
-Senses Passive Perception 10
-Languages None
-CR 1/8 (XP 25; PB +2)
+*Spider Climb.* The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-Traits
-Beast of Burden. The mule counts as one size larger for
-the purpose of determining its carrying capacity.
+## Actions
 
-Actions
-Hooves. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4
-+ 2) Bludgeoning damage.
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage.
 
-Owl
-Tiny Beast, Unaligned
+# **Giant Octopus**
 
-AC 11
-HP 1 (1d4 − 1)
-Speed 5 ft., Fly 60 ft.
+*Large Beast, Unaligned*
 
-Initiative +1 (11)
+**AC** 11 **Initiative** +1 (11) **HP** 45 (7d10 + 7) **Speed** 10 ft., Swim 60 ft.
 
-System Reference Document 5.2
+|        |   | MOD SAVE |    |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----------|----|-----------|----|----------|--------|----------|----|
+| Str 17 |   | +3       | +3 | Dex 13    | +1 | +1       | Con 13 | +1       | +1 |
+| Int    | 5 | −3       | −3 | Wis 10 | +0 | +0       | Cha 4  | −3       | −3 |
 
-MOD SAVE
+**Skills** Perception +4, Stealth +5 **Senses** Darkvision 60 ft.; Passive Perception 14 **Languages** None
 
-MOD SAVE
-Str  3 −4 −4 Dex 13 +1 +1 Con 8 −1 −1
-Int  2 −4 −4 WIS  12 +1 +1 Cha  7 −2 −2
+**CR** 1 (XP 200; PB +2)
 
-MOD SAVE
+## Traits
 
-Skills Perception +5, Stealth +5
-Senses Darkvision 120 ft.; Passive Perception 15
-Languages None
-CR 0 (XP 10; PB +2)
+*Water Breathing.* The octopus can breathe only underwater. It can hold its breath for 1 hour outside water.
 
-Traits
-Flyby. The owl doesn’t provoke an Opportunity Attack
-when it flies out of an enemy’s reach.
+## Actions
 
-Actions
-Talons. Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slash-
-ing damage.
+*Tentacles. Melee Attack Roll:* +5, reach 10 ft. *Hit:* 10 (2d6 + 3) Bludgeoning damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 13) from all eight tentacles. While Grappled, the target has the Restrained condition.
 
-Panther
-Medium Beast, Unaligned
+## Reactions
 
-AC 13
-HP 13 (3d8)
-Speed 50 ft., Climb 40 ft.
+*Ink Cloud (1/Day). Trigger:* The octopus takes damage while underwater. *Response:* The octopus releases ink that fills a 10-foot Cube centered on itself, and the octopus moves up to its Swim Speed. The Cube is Heavily Obscured for 1 minute or until a strong current or similar effect disperses the ink.
 
-Initiative +3 (13)
+# **Giant Owl**
 
-MOD SAVE
+*Large Celestial, Neutral*
 
-MOD SAVE
-Str  14 +2 +2 Dex 16 +3 +3 Con 10 +0 +0
-Int  3 −4 −4 WIS  14 +2 +2 Cha  7 −2 −2
+| AC 12  |                         |    |          |        | Initiative +2 (12) |    |          |        |    |          |  |  |  |
+|--------|-------------------------|----|----------|--------|--------------------|----|----------|--------|----|----------|--|--|--|
+|        | HP 19 (3d10 + 3)        |    |          |        |                    |    |          |        |    |          |  |  |  |
+|        | Speed 5 ft., Fly 60 ft. |    |          |        |                    |    |          |        |    |          |  |  |  |
+|        |                         |    | MOD SAVE |        |                    |    | MOD SAVE |        |    | MOD SAVE |  |  |  |
+| Str 13 |                         | +1 | +1       | Dex 15 |                    | +2 | +2       | Con 12 | +1 | +1       |  |  |  |
+| Int    | 10                      | +0 | +0       | Wis    | 14                 | +2 | +4       | Cha 10 | +0 | +0       |  |  |  |
 
-MOD SAVE
+**Skills** Perception +6, Stealth +6
 
-Skills Perception +4, Stealth +7
-Senses Darkvision 60 ft.; Passive Perception 14
-Languages None
-CR 1/4 (XP 50; PB +2)
+**Resistances** Necrotic, Radiant
 
-Actions
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3)
-Slashing damage.
+**Senses** Darkvision 120 ft.; Passive Perception 16
 
-Bonus Actions
-Nimble Escape. The panther takes the Disengage or
-Hide action.
+**Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
 
-Piranha
-Tiny Beast, Unaligned
+**CR** 1/4 (XP 50; PB +2)
 
-AC 13
-HP 1 (1d4 − 1)
-Speed 5 ft., Swim 40 ft.
+## Traits
 
-Initiative +3 (13)
+*Flyby.* The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-MOD SAVE
+## Actions
 
-MOD SAVE
-Str  2 −4 −4 Dex 16 +3 +3 Con 9 −1 −1
-Int  1 −5 −5 WIS  7 −2 −2 Cha  2 −4 −4
+*Talons. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (1d10 + 2) Slashing damage.
 
-MOD SAVE
+*Spellcasting.* The owl casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
 
-Senses Darkvision 60 ft.; Passive Perception 8
-Languages None
-CR 0 (XP 10; PB +2)
+**At Will:** *Detect Evil and Good*, *Detect Magic* **1/Day:** *Clairvoyance*
 
-Traits
-Water Breathing. The piranha can breathe only
-underwater.
+# **Giant Rat**
 
-355
+*Small Beast, Unaligned*
 
-Actions
-Bite. Melee Attack Roll: +5 (with Advantage if the target
-doesn’t have all its Hit Points), reach 5 ft. Hit: 1 Pierc-
-ing damage.
+**AC** 13 **Initiative** +3 (13) **HP** 7 (2d6) **Speed** 30 ft., Climb 30 ft. MOD SAVE MOD SAVE MOD SAVE
 
-Plesiosaurus
-Large Beast (Dinosaur), Unaligned
+**Str** 7 −2 −2 **Dex** 16 +3 +5 **Con** 11 +0 +0 **Int** 2 −4 −4 **Wis** 10 +0 +0 **Cha** 4 −3 −3
 
-AC 13
-HP 68 (8d10 + 24)
-Speed 20 ft., Swim 40 ft.
+## **Skills** Perception +2
 
-Initiative +2 (12)
+**Senses** Darkvision 60 ft.; Passive Perception 12 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-MOD SAVE
+## Traits
 
-MOD SAVE
-Str  18 +4 +4 Dex 15 +2 +2 Con 16 +3 +3
-Int  2 −4 −4 WIS  12 +1 +1 Cha  5 −3 −3
+*Pack Tactics.* The rat has Advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-MOD SAVE
+## Actions
 
-Skills Perception +3, Stealth +4
-Senses Passive Perception 13
-Languages None
-CR 2 (XP 450; PB +2)
+*Bite. Melee Attack Roll:* +5, reach 5 feet. *Hit:* 5 (1d4 + 3) Piercing damage.
 
-Traits
-Hold Breath. The plesiosaurus can hold its breath
-for 1 hour.
+# **Giant Scorpion**
 
-Actions
-Bite. Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 +
-4) Piercing damage.
+*Large Beast, Unaligned*
 
-Polar Bear
-Large Beast, Unaligned
+**AC** 15 **Initiative** +1 (11) **HP** 52 (7d10 + 14)
 
-AC 12
-HP 42 (5d10 + 15)
-Speed 40 ft., Swim 40 ft.
+| Speed 40 ft. |   |    |          |        |   |    |          |        |          |    |  |
+|--------------|---|----|----------|--------|---|----|----------|--------|----------|----|--|
+|              |   |    | MOD SAVE |        |   |    | MOD SAVE |        | MOD SAVE |    |  |
+| Str 16       |   | +3 | +3       | Dex 13 |   | +1 | +1       | Con 15 | +2       | +2 |  |
+| Int          | 1 | −5 | −5       | Wis    | 9 | −1 | −1       | Cha 3  | −4       | −4 |  |
 
-Initiative +2 (12)
+**Senses** Blindsight 60 ft.; Passive Perception 9 **Languages** None **CR** 3 (XP 700; PB +2)
 
-MOD SAVE
+## Actions
 
-MOD SAVE
-Str  20 +5 +5 Dex 14 +2 +2 Con 16 +3 +3
-Int  2 −4 −4 WIS  13 +1 +1 Cha  7 −2 −2
+*Multiattack.* The scorpion makes two Claw attacks and one Sting attack.
 
-MOD SAVE
+*Claw. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 13) from one of two claws.
 
-Skills Perception +5, Stealth +4
-Resistances Cold
-Senses Darkvision 60 ft.; Passive Perception 15
-Languages None
-CR 2 (XP 450; PB +2)
+*Sting. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage plus 11 (2d10) Poison damage.
 
-Actions
-Multiattack. The bear makes two Rend attacks.
+## **Giant Seahorse**
 
-Rend. Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d8 + 5)
-Slashing damage.
+*Large Beast, Unaligned*
 
-Pony
-Medium Beast, Unaligned
+**AC** 14 **Initiative** +1 (11)
 
-AC 10
-HP 11 (2d8 + 2)
-Speed 40 ft.
+**HP** 16 (3d10) **Speed** 5 ft., Swim 40 ft.
 
-Initiative +0 (10)
+MOD SAVE MOD SAVE MOD SAVE **Str** 15 +2 +2 **Dex** 12 +1 +1 **Con** 11 +0 +0 **Int** 2 −4 −4 **Wis** 12 +1 +1 **Cha** 5 −3 −3
 
-System Reference Document 5.2
+**Senses** Passive Perception 11 **Languages** None **CR** 1/2 (XP 100; PB +2)
 
-MOD SAVE
+## Traits
 
-MOD SAVE
-Str  15 +2 +4 Dex 10 +0 +0 Con 13 +1 +1
-Int  2 −4 −4 WIS  11 +0 +0 Cha  7 −2 −2
+*Water Breathing.* The seahorse can breathe only underwater.
 
-MOD SAVE
+## Actions
 
-Senses Passive Perception 10
-Languages None
-CR 1/8 (XP 25; PB +2)
+*Ram. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Bludgeoning damage, or 11 (2d8 + 2) Bludgeoning damage if the seahorse moved 20+ feet straight toward the target immediately before the hit.
 
-Actions
-Hooves. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4
-+ 2) Bludgeoning damage.
+## Bonus Actions
 
-Pteranodon
-Medium Beast (Dinosaur), Unaligned
+*Bubble Dash.* While underwater, the seahorse moves up to half its Swim Speed without provoking Opportunity Attacks.
 
-AC 13
-HP 13 (3d8)
-Speed 10 ft., Fly 60 ft.
+# **Giant Shark**
 
-Initiative +2 (12)
+*Huge Beast, Unaligned*
 
-MOD SAVE
+| AC 13 HP 92 (8d12 + 40) |   |    | Speed 5 ft., Swim 60 ft. |        |    |    | Initiative +3 (13) |        |          |    |
+|----------------------------|---|----|--------------------------|--------|----|----|--------------------|--------|----------|----|
+|                            |   |    | MOD SAVE                 |        |    |    | MOD SAVE           |        | MOD SAVE |    |
+| Str 23                     |   | +6 | +6                       | Dex 11 |    | +0 | +0                 | Con 21 | +5       | +5 |
+| Int                        | 1 | −5 | −5                       | Wis    | 10 | +0 | +0                 | Cha 5  | −3       | −3 |
 
-MOD SAVE
-Str  12 +1 +1 Dex 15 +2 +2 Con 10 +0 +0
-Int  2 −4 −4 WIS  9 −1 −1 Cha  5 −3 −3
+**Skills** Perception +3
 
-MOD SAVE
+**Senses** Blindsight 60 ft.; Passive Perception 13 **Languages** None **CR** 5 (XP 1,800; PB +3)
 
-Skills Perception +1
-Senses Passive Perception 11
-Languages None
-CR 1/4 (XP 50; PB +2)
+## Traits
 
-Traits
-Flyby. The pteranodon doesn’t provoke an Opportunity
-Attack when it flies out of an enemy’s reach.
+*Water Breathing.* The shark can breathe only underwater.
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2)
-Piercing damage.
+## Actions
 
-Rat
-Tiny Beast, Unaligned
+*Multiattack.* The shark makes two Bite attacks.
 
-AC 10
-HP 1 (1d4 − 1)
-Speed 20 ft., Climb 20 ft.
+*Bite. Melee Attack Roll:* +9 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. *Hit:* 22 (3d10 + 6) Piercing damage.
 
-Initiative +0 (10)
+# **Giant Spider**
 
-MOD SAVE
+*Large Beast, Unaligned*
 
-MOD SAVE
-Str  2 −4 −4 Dex  11 +0 +0 Con 9 −1 −1
-Int  2 −4 −4 WIS  10 +0 +0 Cha  4 −3 −3
+**AC** 14 **Initiative** +3 (13) **HP** 26 (4d10 + 4) **Speed** 30 ft., Climb 30 ft.
 
-MOD SAVE
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 14 |   | +2 | +2       | Dex 16    | +3 | +3       | Con 12 | +1 | +1       |
+| Int    | 2 | −4 | −4       | Wis 11 | +0 | +0       | Cha 4  | −3 | −3       |
 
-Skills Perception +2
-Senses Darkvision 30 ft.; Passive Perception 12
-Languages None
-CR 0 (XP 10; PB +2)
+**Skills** Perception +4, Stealth +7 **Senses** Darkvision 60 ft.; Passive Perception 14 **Languages** None **CR** 1 (XP 200; PB +2)
 
-Traits
-Agile. The rat doesn’t provoke an Opportunity Attack
-when it moves out of an enemy’s reach.
+#### Traits
 
-Actions
-Bite. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing
-damage.
+*Spider Climb.* The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-356
+*Web Walker.* The spider ignores movement restrictions caused by webs, and it knows the location of any other creature in contact with the same web.
 
-Raven
-Tiny Beast, Unaligned
+#### Actions
 
-AC 12
-HP 2 (1d4)
-Speed 10 ft., Fly 50 ft.
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage plus 7 (2d6) Poison damage.
 
-Initiative +2 (12)
+*Web (Recharge 5–6). Dexterity Saving Throw:* DC 13, one creature the spider can see within 60 feet. *Failure:* The target has the Restrained condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
 
-MOD SAVE
+## **Giant Toad**
 
-MOD SAVE
-Str  2 −4 −4 Dex 14 +2 +2 Con 10 +0 +0
-Int  5 −3 −3 WIS  13 +1 +1 Cha  6 −2 −2
+*Large Beast, Unaligned*
 
-MOD SAVE
+**AC** 11 **Initiative** +1 (11)
 
-Skills Perception +3
-Senses Passive Perception 13
-Languages None
-CR 0 (XP 10; PB +2)
+| HP 39 (6d10 + 6) Speed 30 ft., Swim 30 ft. |   |    |          |           |    |          |        |          |    |  |  |
+|-----------------------------------------------|---|----|----------|-----------|----|----------|--------|----------|----|--|--|
+|                                               |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |  |  |
+| Str 15                                        |   | +2 | +2       | Dex 13    | +1 | +1       | Con 13 | +1       | +1 |  |  |
+| Int                                           | 2 | −4 | −4       | Wis 10 | +0 | +0       | Cha 3  | −4       | −4 |  |  |
+|                                               |   |    |          |           |    |          |        |          |    |  |  |
 
-Traits
-Mimicry. The raven can mimic simple sounds it has
-heard, such as a whisper or chitter. A hearer can dis-
-cern the sounds are imitations with a successful DC 10
-Wisdom (Insight) check.
+**Senses** Darkvision 60 ft.; Passive Perception 10 **Languages** None **CR** 1 (XP 200; PB +2)
 
-Actions
-Beak. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing
-damage.
+## Traits
 
-Reef Shark
-Medium Beast, Unaligned
+*Amphibious.* The toad can breathe air and water.
 
-AC 12
-HP 22 (4d8 + 4)
-Speed 5 ft., Swim 30 ft.
+*Standing Leap.* The toad's Long Jump is up to 20 feet and its High Jump is up to 10 feet with or without a running start.
 
-Initiative +2 (12)
+## Actions
 
-MOD SAVE
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12).
 
-MOD SAVE
-Str  14 +2 +2 Dex 15 +2 +2 Con 13 +1 +1
-Int  1 −5 −5 WIS  10 +0 +0 Cha  4 −3 −3
+*Swallow.* The toad swallows a Medium or smaller target it is grappling. While swallowed, the target isn't Grappled but has the Blinded and Restrained conditions, and it has Total Cover against attacks and other effects outside the toad. In addition, the target takes 10 (3d6) Acid damage at the end of each of the toad's turns. The
 
-MOD SAVE
+toad can have only one target swallowed at a time, and it can't use Bite while it has a swallowed target. If the toad dies, a swallowed creature is no longer Restrained and can escape from the corpse using 5 feet of movement, exiting with the Prone condition.
 
-Skills Perception +2
-Senses Blindsight 30 ft.; Passive Perception 12
-Languages None
-CR 1/2 (XP 100; PB +2)
+## **Giant Venomous Snake**
 
-Traits
-Pack Tactics. The shark has Advantage on an attack roll
-against a creature if at least one of the shark’s allies is
-within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
+*Medium Beast, Unaligned*
 
-Water Breathing. The shark can breathe only underwater.
+| AC 14                     | Initiative +4 (14) |
+|---------------------------|--------------------|
+| HP 11 (2d8 + 2)           |                    |
+| Speed 40 ft., Swim 40 ft. |                    |
+|                           |                    |
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2)
-Piercing damage.
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 10 |   | +0 | +0       | Dex 18    | +4 | +4       | Con 13 | +1 | +1       |
+| Int    | 2 | −4 | −4       | Wis 10 | +0 | +0       | Cha 3  | −4 | −4       |
 
-Rhinoceros
-Large Beast, Unaligned
+**Skills** Perception +2 **Senses** Blindsight 10 ft.; Passive Perception 12 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-AC 13
-HP 45 (6d10 + 12)
-Speed 40 ft.
+## Actions
 
-Initiative −1 (9)
+*Bite. Melee Attack Roll:* +6, reach 10 ft. *Hit:* 6 (1d4 + 4) Piercing damage plus 4 (1d8) Poison damage.
 
-System Reference Document 5.2
+# **Giant Vulture**
 
-Bonus Actions
+*Large Monstrosity, Neutral Evil*
 
-Nimble Escape. The tiger takes the Disengage or Hide
+| AC 10 HP 25 (3d10 + 9) |   |    |                                      |        |    |    | Initiative +0 (10) |        |    |          |
+|---------------------------|---|----|--------------------------------------|--------|----|----|--------------------|--------|----|----------|
+|                           |   |    | Speed 10 ft., Fly 60 ft. MOD SAVE |        |    |    | MOD SAVE           |        |    | MOD SAVE |
+| Str 15                    |   | +2 | +2                                   | Dex 10 |    | +0 | +0                 | Con 16 | +3 | +3       |
+| Int                       | 6 | −2 | −2                                   | Wis    | 12 | +1 | +1                 | Cha 7  | −2 | −2       |
 
-action.
+**Skills** Perception +3
 
-Scorpion
-Tiny Beast, Unaligned
+**Resistances** Necrotic **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** Understands Common but can't speak **CR** 1 (XP 200; PB +2)
 
-AC 11
-HP 1 (1d4 − 1)
-Speed 10 ft.
+## Traits
 
-Initiative +0 (10)
+*Pack Tactics.* The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-MOD SAVE
+## Actions
 
-MOD SAVE
-Str  2 −4 −4 Dex  11 +0 +0 Con 8 −1 −1
-Int  1 −5 −5 WIS  8 −1 −1 Cha  2 −4 −4
+*Gouge. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Piercing damage, and the target has the Poisoned condition until the end of its next turn.
 
-MOD SAVE
+## **Giant Wasp**
 
-Senses Blindsight 10 ft.; Passive Perception 9
-Languages None
-CR 0 (XP 10; PB +2)
+*Medium Beast, Unaligned*
 
-Actions
-Sting. Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing
-damage plus 3 (1d6) Poison damage.
+**AC** 13 **Initiative** +2 (12) **HP** 22 (5d8) **Speed** 10 ft., Fly 50 ft.
 
-Seahorse
-Tiny Beast, Unaligned
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 10 |   | +0 | +0       | Dex 14    | +2 | +2       | Con 10 | +0       | +0 |
+| Int    | 1 | −5 | −5       | Wis 10 | +0 | +0       | Cha 3  | −4       | −4 |
 
-AC 12
-HP 1 (1d4 − 1)
-Speed 5 ft., Swim 20 ft.
+**Senses** Passive Perception 10 **Languages** None **CR** 1/2 (XP 100; PB +2)
 
-Initiative +1 (11)
+## Traits
 
-MOD SAVE
+*Flyby.* The wasp doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-MOD SAVE
-Str  1 −5 −5 Dex 12 +1 +1 Con 8 −1 −1
-Int  1 −5 −5 WIS  10 +0 +0 Cha  2 −4 −4
+### Actions
 
-MOD SAVE
+*Sting. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage plus 5 (2d4) Poison damage.
 
-Skills Perception +2, Stealth +5
-Senses Passive Perception 12
-Languages None
-CR 0 (XP 0; PB +2)
+## **Giant Weasel**
 
-Traits
-Water Breathing. The seahorse can breathe only
-underwater.
+*Medium Beast, Unaligned*
 
-Actions
-Bubble Dash. While underwater, the seahorse moves
-up to its Swim Speed without provoking Opportu-
-nity Attacks.
+**AC** 13 **Initiative** +3 (13)
 
-Spider
-Tiny Beast, Unaligned
+| HP 9 (2d8) |                            |  |  |
+|------------|----------------------------|--|--|
+|            | Speed 40 ft., Climb 30 ft. |  |  |
 
-AC 12
-HP 1 (1d4 − 1)
-Speed 20 ft., Climb 20 ft.
+|     |    |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|-----|----|----|----------|-----------|----|----------|--------|----------|----|
+| Str | 11 | +0 | +0       | Dex 17    | +3 | +3       | Con 10 | +0       | +0 |
+| Int | 4  | −3 | −3       | Wis 12 | +1 | +1       | Cha 5  | −3       | −3 |
 
-Initiative +2 (12)
+**Skills** Acrobatics +5, Perception +3, Stealth +5 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-MOD SAVE
+## Actions
 
-MOD SAVE
-Str  21 +5 +5 Dex  8 −1 −1 Con 15 +2 +2
-Int  2 −4 −4 WIS  12 +1 +1 Cha  6 −2 −2
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage.
 
-MOD SAVE
+# **Giant Wolf Spider**
 
-Senses Passive Perception 11
-Languages None
-CR 2 (XP 450; PB +2)
+*Medium Beast, Unaligned*
 
-Actions
-Gore. Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 +
-5) Piercing damage. If target is a Large or smaller crea-
-ture and the rhinoceros moved 20+ feet straight toward
-it immediately before the hit, the target takes an extra 9
-(2d8) Piercing damage and has the Prone condition.
+**AC** 13 **Initiative** +3 (13) **HP** 11 (2d8 + 2)
 
-Riding Horse
-Large Beast, Unaligned
+**Speed** 40 ft., Climb 40 ft.
 
-AC 11
-HP 13 (2d10 + 2)
-Speed 60 ft.
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 12 |   | +1 | +1       | Dex 16    | +3 | +3       | Con 13 | +1 | +1       |
+| Int    | 3 | −4 | −4       | Wis 12 | +1 | +1       | Cha 4  | −3 | −3       |
 
-Initiative +1 (11)
+**Skills** Perception +3, Stealth +7 **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-MOD SAVE
+## Traits
 
-MOD SAVE
-Str  16 +3 +3 Dex 13 +1 +1 Con 12 +1 +1
-Int  2 −4 −4 WIS  11 +0 +0 Cha  7 −2 −2
+*Spider Climb.* The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-MOD SAVE
+## Actions
 
-Senses Passive Perception 10
-Languages None
-CR 1/4 (XP 50; PB +2)
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Piercing damage plus 5 (2d4) Poison damage.
 
-Actions
-Hooves. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8
-+ 3) Bludgeoning damage.
+## **Goat**
 
-Saber-Toothed Tiger
-Large Beast, Unaligned
+*Medium Beast, Unaligned*
 
-AC 13
-HP 52 (7d10 + 14)
-Speed 40 ft.
+| Initiative +0 (10) |
+|--------------------|
+|                    |
+|                    |
+|                    |
 
-Initiative +3 (13)
+|     |    |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|----|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 11 | +0 | +2       | Dex 10    | +0 | +0       | Con 11 | +0 | +0       |
+| Int | 2  | −4 | −4       | Wis 10 | +0 | +0       | Cha 5  | −3 | −3       |
 
-MOD SAVE
+**Skills** Perception +2
 
-MOD SAVE
-Str  18 +4 +6 Dex  17 +3 +5 Con 15 +2 +2
-Int  3 −4 −4 WIS  12 +1 +1 Cha  8 −1 −1
+**Senses** Darkvision 60 ft.; Passive Perception 12 **Languages** None **CR** 0 (XP 10; PB +2)
 
-MOD SAVE
+## Actions
 
-Skills Perception +5, Stealth +7
-Senses Darkvision 60 ft.; Passive Perception 15
-Languages None
-CR 2 (XP 450; PB +2)
+*Ram. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Bludgeoning damage, or 2 (1d4) Bludgeoning damage if the goat moved 20+ feet straight toward the target immediately before the hit.
 
-Traits
-Running Leap. With a 10-foot running start, the tiger
-can Long Jump up to 25 feet.
+## **Hawk**
 
-Actions
-Multiattack. The tiger makes two Rend attacks.
+*Tiny Beast, Unaligned*
 
-Rend. Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6
-+ 4) Slashing damage.
+| AC 13                    |   |    |          |        |    | Initiative +3 (13) |    |       |          |    |
+|--------------------------|---|----|----------|--------|----|--------------------|----|-------|----------|----|
+| HP 1 (1d4 − 1)           |   |    |          |        |    |                    |    |       |          |    |
+| Speed 10 ft., Fly 60 ft. |   |    |          |        |    |                    |    |       |          |    |
+|                          |   |    | MOD SAVE |        |    | MOD SAVE           |    |       | MOD SAVE |    |
+| Str                      | 5 | −3 | −3       | Dex 16 |    | +3                 | +3 | Con 8 | −1       | −1 |
+| Int                      | 2 | −4 | −4       | Wis    | 14 | +2                 | +2 | Cha 6 | −2       | −2 |
 
-357
+**Skills** Perception +6 **Senses** Passive Perception 16 **Languages** None **CR** 0 (XP 10; PB +2)
 
-System Reference Document 5.2
+## Actions
 
-MOD SAVE
+*Talons. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Slashing damage.
 
-MOD SAVE
-Str  2 −4 −4 Dex 14 +2 +2 Con 8 −1 −1
-Int  1 −5 −5 WIS  10 +0 +0 Cha  2 −4 −4
+## **Hippopotamus**
 
-MOD SAVE
+*Large Beast, Unaligned*
 
-MOD SAVE
+| AC 14 | Initiative −2 (8) |
+|-------|-------------------|
+|       |                   |
 
-MOD SAVE
-Str  3 −4 −4 Dex 13 +1 +1 Con 14 +2 +2
-Int  1 −5 −5 WIS  7 −2 −2 Cha  1 −5 −5
+**HP** 82 (11d10 + 22)
 
-MOD SAVE
+| Speed 30 ft., Swim 30 ft. |  |
+|---------------------------|--|
+|---------------------------|--|
 
-Skills Stealth +4
-Senses Darkvision 30 ft.; Passive Perception 10
-Languages None
-CR 0 (XP 10; PB +2)
+|        |   |    | MOD SAVE |       |    |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-------|----|----|----------|--------|----|----------|
+| Str 21 |   | +5 | +7       | Dex 7 |    | −2 | −2       | Con 15 | +2 | +2       |
+| Int    | 2 | −4 | −4       | Wis   | 12 | +1 | +1       | Cha 4  | −3 | −3       |
 
-Traits
-Spider Climb. The spider can climb difficult surfaces,
-including along ceilings, without needing to make an
-ability check.
+**Skills** Perception +3 **Senses** Passive Perception 13 **Languages** None **CR** 4 (XP 1,100; PB +2)
 
-Web Walker. The spider ignores movement restrictions
-caused by webs, and the spider knows the location of
-any other creature in contact with the same web.
+## Traits
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing
-damage plus 2 (1d4) Poison damage.
+*Hold Breath.* The hippopotamus can hold its breath for 10 minutes.
 
-Swarm of Bats
-Large Swarm of Tiny Beasts, Unaligned
+#### Actions
 
-AC 12
-HP 11 (2d10)
-Speed 5 ft., Fly 30 ft.
+*Multiattack.* The hippopotamus makes two Bite attacks.
 
-Initiative +2 (12)
+*Bite. Melee Attack Roll:* +7, reach 5 ft. *Hit:* 16 (2d10 + 5) Piercing damage.
 
-MOD SAVE
+## **Hunter Shark**
 
-MOD SAVE
-Str  5 −3 −3 Dex 15 +2 +2 Con 10 +0 +0
-Int  2 −4 −4 WIS  12 +1 +1 Cha  4 −3 −3
+*Large Beast, Unaligned*
 
-MOD SAVE
+**AC** 12 **Initiative** +2 (12) **HP** 45 (6d10 + 12)
 
-Resistances Bludgeoning, Piercing, Slashing
-Immunities Charmed, Frightened, Grappled, Paralyzed,
+**Speed** 5 ft., Swim 40 ft.
 
-Petrified, Prone, Restrained, Stunned
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 18 |   | +4 | +4       | Dex 14    | +2 | +2       | Con 15 | +2 | +2       |
+| Int    | 1 | −5 | −5       | Wis 10 | +0 | +0       | Cha 4  | −3 | −3       |
 
-Senses Blindsight 30 ft.; Passive Perception 8
-Languages None
-CR 1/2 (XP 100; PB +2)
+**Skills** Perception +2 **Senses** Blindsight 60 ft.; Passive Perception 12 **Languages** None **CR** 2 (XP 450; PB +2)
 
-Traits
-Spider Climb. If the swarm has a Climb Speed, the
-swarm can climb difficult surfaces, including along ceil-
-ings, without needing to make an ability check.
+#### Traits
 
-Swarm. The swarm can occupy another creature’s
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny insect. The swarm
-can’t regain Hit Points or gain Temporary Hit Points.
+*Water Breathing.* The shark can breathe only underwater.
 
-Actions
-Bites. Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1)
-Poison damage, or 3 (1d4 + 1) Poison damage if the
-swarm is Bloodied.
+#### Actions
 
-Swarm of Piranhas
-Medium Swarm of Tiny Beasts, Unaligned
+*Bite. Melee Attack Roll:* +6 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. *Hit:* 14 (3d6 + 4) Piercing damage.
 
-AC 13
-HP 28 (8d8 − 8)
-Speed 5 ft., Swim 40 ft.
+## **Hyena**
 
-Initiative +3 (13)
+*Medium Beast, Unaligned*
 
-Resistances Bludgeoning, Piercing, Slashing
-Immunities Charmed, Frightened, Grappled, Paralyzed,
+**AC** 11 **Initiative** +1 (11)
 
-Petrified, Prone, Restrained, Stunned
+**HP** 5 (1d8 + 1) **Speed** 50 ft.
 
-Senses Blindsight 60 ft.; Passive Perception 11
-Languages None
-CR 1/4 (XP 50; PB +2)
+|     |    |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|-----|----|----|----------|-----------|----|----------|--------|----------|----|
+| Str | 11 | +0 | +0       | Dex 13    | +1 | +1       | Con 12 | +1       | +1 |
+| Int | 2  | −4 | −4       | Wis 12 | +1 | +1       | Cha 5  | −3       | −3 |
 
-Traits
-Swarm. The swarm can occupy another creature’s
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny bat. The swarm
-can’t regain Hit Points or gain Temporary Hit Points.
+**Skills** Perception +3 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Actions
-Bites. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4)
-Piercing damage, or 2 (1d4) Piercing damage if the
-swarm is Bloodied.
+#### Traits
 
-Swarm of Insects
-Medium Swarm of Tiny Beasts, Unaligned
+*Pack Tactics.* The hyena has Advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-AC 11
-HP 19 (3d8 + 6)
-Speed 20 ft., Climb or Fly 20 ft. (GM’s choice)
+#### Actions
 
-Initiative +1 (11)
+*Bite. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 3 (1d6) Piercing damage.
 
-358
+## **Jackal**
 
-MOD SAVE
+*Small Beast, Unaligned*
 
-MOD SAVE
-Str  13 +1 +1 Dex 16 +3 +3 Con 9 −1 −1
-Int  1 −5 −5 WIS  7 −2 −2 Cha  2 −4 −4
+**AC** 12 **Initiative** +2 (12)
 
-MOD SAVE
+**HP** 3 (1d6) **Speed** 40 ft.
 
-Resistances Bludgeoning, Piercing, Slashing
-Immunities Charmed, Frightened, Grappled, Paralyzed,
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 8 | −1 | −1       | Dex 15    | +2 | +2       | Con 11 | +0 | +0       |
+| Int | 3 | −4 | −4       | Wis 12 | +1 | +1       | Cha 6  | −2 | −2       |
 
-Petrified, Prone, Restrained, Stunned
+**Skills** Perception +5, Stealth +4 **Senses** Darkvision 90 ft.; Passive Perception 15 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Senses Darkvision 60 ft.; Passive Perception 8
-Languages None
-CR 1 (XP 200; PB +2)
+#### Actions
 
-Traits
-Swarm. The swarm can occupy another creature’s
-space and vice versa, and the swarm can move
-through any opening large enough for a Tiny piranha.
-The swarm can’t regain Hit Points or gain Temporary
-Hit Points.
+*Bite. Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 – 1) Piercing damage.
 
-Water Breathing. The swarm can breathe only
-underwater.
+## **Killer Whale**
 
-Actions
-Bites. Melee Attack Roll: +5 (with Advantage if the
-target doesn’t have all its Hit Points), reach 5 ft. Hit: 8
-(2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing dam-
-age if the swarm is Bloodied.
+*Huge Beast, Unaligned*
 
-System Reference Document 5.2
+| AC 12                    | Initiative +2 (12) |
+|--------------------------|--------------------|
+| HP 90 (12d12 + 12)       |                    |
+| Speed 5 ft., Swim 60 ft. |                    |
 
-Swarm of Rats
-Medium Swarm of Tiny Beasts, Unaligned
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|--------|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str 19 |   | +4 | +4       | Dex 14    | +2 | +2       | Con 13 | +1 | +1       |
+| Int    | 3 | −4 | −4       | 12 Wis | +1 | +1       | Cha 7  | −2 | −2       |
 
-AC 10
-HP 14 (4d8 − 4)
-Speed 30 ft., Climb 30 ft.
+**Skills** Perception +3, Stealth +4 **Senses** Blindsight 120 ft.; Passive Perception 13 **Languages** None **CR** 3 (XP 700; PB +2)
 
-Initiative +0 (10)
+#### Traits
 
-MOD SAVE
+*Hold Breath.* The whale can hold its breath for 30 minutes.
 
-MOD SAVE
-Str  9 −1 −1 Dex  11 +0 +2 Con 9 −1 −1
-Int  2 −4 −4 WIS  10 +0 +0 Cha  3 −4 −4
+#### Actions
 
-MOD SAVE
+*Bite. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 21 (5d6 + 4) Piercing damage.
 
-Resistances Bludgeoning, Piercing, Slashing
-Immunities Charmed, Frightened, Grappled, Paralyzed,
+## **Lion**
 
-Petrified, Prone, Restrained, Stunned
+*Large Beast, Unaligned*
 
-Senses Darkvision 30 ft.; Passive Perception 10
-Languages None
-CR 1/4 (XP 50; PB +2)
+| AC 12 |        |              |              |          | Initiative +2 (12) |    |          |    |        |  |          |    |
+|-------|--------|--------------|--------------|----------|--------------------|----|----------|----|--------|--|----------|----|
+|       |        |              | HP 22 (4d10) |          |                    |    |          |    |        |  |          |    |
+|       |        | Speed 50 ft. |              |          |                    |    |          |    |        |  |          |    |
+|       |        |              |              | MOD SAVE |                    |    | MOD SAVE |    |        |  | MOD SAVE |    |
+|       | Str 17 |              | +3           | +3       | Dex 15             |    | +2       | +2 | Con 11 |  | +0       | +0 |
+| Int   |        | 3            | −4           | −4       | Wis                | 12 | +1       | +1 | Cha 8  |  | −1       | −1 |
 
-Traits
-Swarm. The swarm can occupy another creature’s
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny rat. The swarm
-can’t regain Hit Points or gain Temporary Hit Points.
+**Skills** Perception +3, Stealth +4 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1 (XP 200; PB +2)
 
-Actions
-Bites. Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4)
-Piercing damage, or 2 (1d4) Piercing damage if the
-swarm is Bloodied.
+#### Traits
 
-Swarm of Ravens
-Medium Swarm of Tiny Beasts, Unaligned
+*Pack Tactics.* The lion has Advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-AC 12
-HP 11 (2d8 + 2)
-Speed 10 ft., Fly 50 ft.
+*Running Leap.* With a 10-foot running start, the lion can Long Jump up to 25 feet.
 
-Initiative +2 (12)
+#### Actions
 
-MOD SAVE
+*Multiattack.* The lion makes two Rend attacks. It can replace one attack with a use of Roar.
 
-MOD SAVE
-Str  6 −2 −2 Dex 14 +2 +2 Con 12 +1 +1
-Int  5 −3 −3 WIS  12 +1 +1 Cha  6 −2 −2
+*Rend. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage.
 
-MOD SAVE
+*Roar. Wisdom Saving Throw:* DC 11, one creature within 15 feet. *Failure:* The target has the Frightened condition until the start of the lion's next turn.
 
-Skills Perception +5
-Resistances Bludgeoning, Piercing, Slashing
-Immunities Charmed, Frightened, Grappled, Paralyzed,
+## **Lizard**
 
-Petrified, Prone, Restrained, Stunned
+*Tiny Beast, Unaligned*
 
-Senses Passive Perception 15
-Languages None
-CR 1/4 (XP 50; PB +2)
+**HP** 2 (1d4)
 
-Traits
-Swarm. The swarm can occupy another creature’s
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny raven. The swarm
-can’t regain Hit Points or gain Temporary Hit Points.
+**AC** 10 **Initiative** +0 (10)
 
-Actions
-Beaks. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6
-+ 2) Piercing damage, or 2 (1d4) Piercing damage if the
-swarm is Bloodied.
+**Speed** 20 ft., Climb 20 ft.
 
-Cacophony (Recharge 6). Wisdom Saving Throw: DC
-10, one creature in the swarm’s space. Failure: The
+|     |   |    | MOD SAVE |          |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|----------|----|----------|--------|----|----------|
+| Str | 2 | −4 | −4       | Dex 11   | +0 | +0       | Con 10 | +0 | +0       |
+| Int | 1 | −5 | −5       | 8 Wis | −1 | −1       | Cha 3  | −4 | −4       |
 
-359
+**Senses** Darkvision 30 ft.; Passive Perception 9 **Languages** None **CR** 0 (XP 10; PB +2)
 
-target has the Deafened condition until the start of the
-swarm’s next turn. While Deafened, the target also has
-Disadvantage on ability checks and attack rolls.
+#### Traits
 
-Swarm of Venomous Snakes
-Medium Swarm of Tiny Beasts, Unaligned
+*Spider Climb.* The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
 
-AC 14
-HP 36 (8d8)
-Speed 30 ft., Swim 30 ft.
+#### Actions
 
-Initiative +4 (14)
+*Bite. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage.
 
-MOD SAVE
+## **Mammoth**
 
-MOD SAVE
-Str  8 −1 −1 Dex 18 +4 +4 Con 11 +0 +0
-Int  1 −5 −5 WIS  10 +0 +0 Cha  3 −4 −4
+*Huge Beast, Unaligned*
 
-MOD SAVE
+**AC** 13 **Initiative** +2 (12)
 
-Resistances Bludgeoning, Piercing, Slashing
-Immunities Charmed, Frightened, Grappled, Paralyzed,
+**HP** 126 (11d12 + 55) **Speed** 50 ft.
 
-Petrified, Prone, Restrained, Stunned
+MOD SAVE MOD SAVE MOD SAVE **Str** 24 +7 +10 **Dex** 9 −1 −1 **Con** 21 +5 +8 **Int** 3 −4 −4 **Wis** 11 +0 +0 **Cha** 6 −2 −2
 
-Senses Blindsight 10 ft.; Passive Perception 10
-Languages None
-CR 2 (XP 450; PB +2)
+**Senses** Passive Perception 10 **Languages** None **CR** 6 (XP 2,300; PB +3)
 
-Traits
-Swarm. The swarm can occupy another creature’s
-space and vice versa, and the swarm can move through
-any opening large enough for a Tiny snake. The swarm
-can’t regain Hit Points or gain Temporary Hit Points.
+### Actions
 
-Actions
-Bites. Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4)
-Piercing damage—or 6 (1d4 + 4) Piercing damage if the
-swarm is Bloodied—plus 10 (3d6) Poison damage.
+*Multiattack.* The mammoth makes two Gore attacks.
 
-Tiger
-Large Beast, Unaligned
+*Gore. Melee Attack Roll:* +10, reach 10 ft. *Hit:* 18 (2d10 + 7) Piercing damage. If the target is a Huge or smaller creature and the mammoth moved 20+ feet straight toward it immediately before the hit, the target has the Prone condition.
 
-AC 13
-HP 30 (4d10 + 8)
-Speed 40 ft.
+### Bonus Actions
 
-Initiative +3 (13)
+*Trample. Dexterity Saving Throw:* DC 18, one creature within 5 feet that has the Prone condition. *Failure:* 29 (4d10 + 7) Bludgeoning damage. *Success:* Half damage.
 
-MOD SAVE
+## **Mastiff**
 
-MOD SAVE
-Str  17 +3 +3 Dex 16 +3 +3 Con 14 +2 +2
-Int  3 −4 −4 WIS  12 +1 +1 Cha  8 −1 −1
+*Medium Beast, Unaligned*
 
-MOD SAVE
+| AC 12          |   |    |          |        |    |    | Initiative +2 (12) |        |    |          |
+|----------------|---|----|----------|--------|----|----|--------------------|--------|----|----------|
+| HP 5 (1d8 + 1) |   |    |          |        |    |    |                    |        |    |          |
+| Speed 40 ft.   |   |    |          |        |    |    |                    |        |    |          |
+|                |   |    | MOD SAVE |        |    |    | MOD SAVE           |        |    | MOD SAVE |
+| Str 13         |   | +1 | +1       | Dex 14 |    | +2 | +2                 | Con 12 | +1 | +1       |
+| Int            | 3 | −4 | −4       | Wis    | 12 | +1 | +3                 | Cha 7  | −2 | −2       |
 
-Skills Perception +3, Stealth +7
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 1 (XP 200; PB +2)
+**Skills** Perception +5
 
-Actions
-Rend. Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6
-+ 3) Slashing damage. If the target is a Large or smaller
-creature, it has the Prone condition.
+**Senses** Darkvision 60 ft.; Passive Perception 15 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-Bonus Actions
-Nimble Escape. The tiger takes the Disengage or
-Hide action.
+### Actions
 
-System Reference Document 5.2
+*Bite. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
 
-Triceratops
-Huge Beast (Dinosaur), Unaligned
+## **Mule**
 
-AC 14
-HP 114 (12d12 + 36)
-Speed 50 ft.
+*Medium Beast, Unaligned*
 
-Initiative −1 (9)
+| AC 10           |              |    |          | Initiative +0 (10) |    |    |          |        |          |    |  |  |  |
+|-----------------|--------------|----|----------|--------------------|----|----|----------|--------|----------|----|--|--|--|
+| HP 11 (2d8 + 2) |              |    |          |                    |    |    |          |        |          |    |  |  |  |
+|                 | Speed 40 ft. |    |          |                    |    |    |          |        |          |    |  |  |  |
+|                 |              |    | MOD SAVE |                    |    |    | MOD SAVE |        | MOD SAVE |    |  |  |  |
+| Str 14          |              | +2 | +4       | Dex 10             |    | +0 | +0       | Con 13 | +1       | +1 |  |  |  |
+| Int             | 2            | −4 | −4       | Wis                | 10 | +0 | +0       | Cha 5  | −3       | −3 |  |  |  |
 
-MOD SAVE
+**Senses** Passive Perception 10 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-MOD SAVE
-Str  22 +6 +6 Dex  9 −1 −1 Con 17 +3 +3
-Int  2 −4 −4 WIS  11 +0 +0 Cha  5 −3 −3
+## Traits
 
-MOD SAVE
+*Beast of Burden.* The mule counts as one size larger for the purpose of determining its carrying capacity.
 
-Senses Passive Perception 10
-Languages None
-CR 5 (XP 1,800; PB +3)
+## Actions
 
-Actions
-Multiattack. The triceratops makes two Gore attacks.
+*Hooves. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning damage.
 
-Gore. Melee Attack Roll: +9, reach 5 ft. Hit: 19 (2d12
-+ 6) Piercing damage. If the target is Huge or smaller
-and the triceratops moved 20+ feet straight toward it
-immediately before the hit, the target takes an extra 9
-(2d8) Piercing damage and has the Prone condition.
+## **Owl**
 
-Tyrannosaurus Rex
-Huge Beast (Dinosaur), Unaligned
+*Tiny Beast, Unaligned*
 
-AC 13
-HP 136 (13d12 + 52)
-Speed 50 ft.
+**AC** 11 **Initiative** +1 (11) **HP** 1 (1d4 − 1) **Speed** 5 ft., Fly 60 ft.
 
-Initiative +3 (13)
+|     |   |    | MOD SAVE |           |    | MOD SAVE |       |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|-------|----|----------|
+| Str | 3 | −4 | −4       | Dex 13    | +1 | +1       | Con 8 | −1 | −1       |
+| Int | 2 | −4 | −4       | Wis 12 | +1 | +1       | Cha 7 | −2 | −2       |
 
-MOD SAVE
+**Skills** Perception +5, Stealth +5 **Senses** Darkvision 120 ft.; Passive Perception 15 **Languages** None
 
-MOD SAVE
-Str  25 +7 +10 Dex 10 +0 +0 Con 19 +4 +4
-Int  2 −4 −4 WIS  12 +1 +4 Cha  9 −1 −1
+**CR** 0 (XP 10; PB +2)
 
-MOD SAVE
+### Traits
 
-Skills Perception +4
-Senses Passive Perception 14
-Languages None
-CR 8 (XP 3,900; PB +3)
+*Flyby.* The owl doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
 
-Actions
-Multiattack. The tyrannosaurus makes one Bite attack
-and one Tail attack.
+#### Actions
 
-Bite. Melee Attack Roll: +10, reach 10 ft. Hit: 33 (4d12
-+ 7) Piercing damage. If the target is a Large or smaller
-creature, it has the Grappled condition (escape DC 17).
-While Grappled, the target has the Restrained condition
-and can’t be targeted by the tyrannosaurus’s Tail.
+*Talons. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 1 Slashing damage.
 
-MOD SAVE
+## **Panther**
 
-MOD SAVE
-Str  2 −4 −4 Dex 15 +2 +2 Con 11 +0 +0
-Int  1 −5 −5 WIS  10 +0 +0 Cha  3 −4 −4
+*Medium Beast, Unaligned*
 
-MOD SAVE
+**AC** 13 **Initiative** +3 (13)
 
-Senses Blindsight 10 ft.; Passive Perception 10
-Languages None
-CR 1/8 (XP 25; PB +2)
+**HP** 13 (3d8) **Speed** 50 ft., Climb 40 ft.
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2)
-Piercing damage plus 3 (1d6) Poison damage.
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 14 |   | +2 | +2       | Dex 16    | +3 | +3       | Con 10 | +0       | +0 |
+| Int    | 3 | −4 | −4       | Wis 14 | +2 | +2       | Cha 7  | −2       | −2 |
 
-Vulture
-Medium Beast, Unaligned
+**Skills** Perception +4, Stealth +7 **Senses** Darkvision 60 ft.; Passive Perception 14 **Languages** None **CR** 1/4 (XP 50; PB +2)
 
-AC 10
-HP 5 (1d8 + 1)
-Speed 10 ft., Fly 50 ft.
+#### Actions
 
-Initiative +0 (10)
+*Rend. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage.
 
-MOD SAVE
+#### Bonus Actions
 
-MOD SAVE
-Str  7 −2 −2 Dex 10 +0 +0 Con 13 +1 +1
-Int  2 −4 −4 WIS  12 +1 +1 Cha  4 −3 −3
+*Nimble Escape.* The panther takes the Disengage or Hide action.
 
-MOD SAVE
+## **Piranha**
 
-Skills Perception +3
-Senses Passive Perception 13
-Languages None
-CR 0 (XP 10; PB +2)
+*Tiny Beast, Unaligned*
 
-Traits
-Pack Tactics. The vulture has Advantage on an attack
-roll against a creature if at least one of the vulture’s al-
-lies is within 5 feet of the creature and the ally doesn’t
-have the Incapacitated condition.
+**AC** 13 **Initiative** +3 (13) **HP** 1 (1d4 − 1)
 
-Actions
-Beak. Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4)
-Piercing damage.
+**Speed** 5 ft., Swim 40 ft.
 
-Warhorse
-Large Beast, Unaligned
+|     |   |    | MOD SAVE |          |    | MOD SAVE |       |    | MOD SAVE |
+|-----|---|----|----------|----------|----|----------|-------|----|----------|
+| Str | 2 | −4 | −4       | Dex 16   | +3 | +3       | Con 9 | −1 | −1       |
+| Int | 1 | −5 | −5       | Wis 7 | −2 | −2       | Cha 2 | −4 | −4       |
 
-AC 11
-HP 19 (3d10 + 3)
-Speed 60 ft.
+**Senses** Darkvision 60 ft.; Passive Perception 8 **Languages** None **CR** 0 (XP 10; PB +2)
 
-Initiative +1 (11)
+#### Traits
 
-MOD SAVE
+*Water Breathing.* The piranha can breathe only underwater.
 
-MOD SAVE
-Str  18 +4 +4 Dex 12 +1 +1 Con 13 +1 +1
-Int  2 −4 −4 WIS  12 +1 +3 Cha  7 −2 −2
+### Actions
 
-MOD SAVE
+*Bite. Melee Attack Roll:* +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. *Hit:* 1 Piercing damage.
 
-Tail. Melee Attack Roll: +10, reach 15 ft. Hit: 25 (4d8
-+ 7) Bludgeoning damage. If the target is a Huge or
-smaller creature, it has the Prone condition.
+## **Plesiosaurus**
 
-Senses Passive Perception 11
-Languages None
-CR 1/2 (XP 100; PB +2)
+*Large Beast (Dinosaur), Unaligned*
 
-Venomous Snake
-Tiny Beast, Unaligned
+| AC 13 |                           |    |          |        | Initiative +2 (12) |    |          |        |    |          |  |  |  |
+|-------|---------------------------|----|----------|--------|--------------------|----|----------|--------|----|----------|--|--|--|
+|       | HP 68 (8d10 + 24)         |    |          |        |                    |    |          |        |    |          |  |  |  |
+|       | Speed 20 ft., Swim 40 ft. |    |          |        |                    |    |          |        |    |          |  |  |  |
+|       |                           |    | MOD SAVE |        |                    |    | MOD SAVE |        |    | MOD SAVE |  |  |  |
+|       | Str 18                    | +4 | +4       | Dex 15 |                    | +2 | +2       | Con 16 | +3 | +3       |  |  |  |
+| Int   | 2                         | −4 | −4       | Wis    | 12                 | +1 | +1       | Cha 5  | −3 | −3       |  |  |  |
 
-AC 12
-HP 5 (2d4)
-Speed 30 ft., Swim 30 ft.
+**Skills** Perception +3, Stealth +4 **Senses** Passive Perception 13 **Languages** None **CR** 2 (XP 450; PB +2)
 
-Initiative +2 (12)
+#### Traits
 
-Actions
-Hooves. Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 +
-4) Bludgeoning damage. If the target is a Large or smaller
-creature and the horse moved 20+ feet straight toward
-it immediately before the hit, the target takes an extra 5
-(2d4) Bludgeoning damage and has the Prone condition.
+*Hold Breath.* The plesiosaurus can hold its breath for 1 hour.
 
-360
+#### Actions
 
-System Reference Document 5.2
+*Bite. Melee Attack Roll:* +6, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage.
 
-Weasel
-Tiny Beast, Unaligned
+## **Polar Bear**
 
-AC 13
-HP 1 (1d4 − 1)
-Speed 30 ft., Climb 30 ft.
+*Large Beast, Unaligned*
 
-Initiative +3 (13)
+| AC 12 Initiative +2 (12) HP 42 (5d10 + 15) Speed 40 ft., Swim 40 ft. |   |    |          |        |    |    |          |        |          |    |  |
+|-------------------------------------------------------------------------------|---|----|----------|--------|----|----|----------|--------|----------|----|--|
+|                                                                               |   |    | MOD SAVE |        |    |    | MOD SAVE |        | MOD SAVE |    |  |
+| Str 20                                                                        |   | +5 | +5       | Dex 14 |    | +2 | +2       | Con 16 | +3       | +3 |  |
+| Int                                                                           | 2 | −4 | −4       | Wis    | 13 | +1 | +1       | Cha 7  | −2       | −2 |  |
 
-MOD SAVE
+**Skills** Perception +5, Stealth +4 **Resistances** Cold **Senses** Darkvision 60 ft.; Passive Perception 15 **Languages** None **CR** 2 (XP 450; PB +2)
 
-MOD SAVE
-Str  3 −4 −4 Dex 16 +3 +3 Con 8 −1 −1
-Int  2 −4 −4 WIS  12 +1 +1 Cha  3 −4 −4
+### Actions
 
-MOD SAVE
+*Multiattack.* The bear makes two Rend attacks.
 
-Skills Acrobatics +5, Perception +3, Stealth +5
-Senses Darkvision 60 ft.; Passive Perception 13
-Languages None
-CR 0 (XP 10; PB +2)
+*Rend. Melee Attack Roll:* +7, reach 5 ft. *Hit:* 9 (1d8 + 5) Slashing damage.
 
-Actions
-Bite. Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing
-damage.
+## **Pony**
 
-Wolf
-Medium Beast, Unaligned
+*Medium Beast, Unaligned*
 
-AC 12
-HP 11 (2d8 + 2)
-Speed 40 ft.
+**HP** 11 (2d8 + 2) **Speed** 40 ft.
 
-Initiative +2 (12)
+**AC** 10 **Initiative** +0 (10)
 
-MOD SAVE
+|        |   |    | MOD SAVE |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-----------|----|----------|--------|----------|----|
+| Str 15 |   | +2 | +4       | Dex 10    | +0 | +0       | Con 13 | +1       | +1 |
+| Int    | 2 | −4 | −4       | Wis 11 | +0 | +0       | Cha 7  | −2       | −2 |
 
-MOD SAVE
-Str  14 +2 +2 Dex 15 +2 +2 Con 12 +1 +1
-Int  3 −4 −4 WIS  12 +1 +1 Cha  6 −2 −2
+**Senses** Passive Perception 10 **Languages** None **CR** 1/8 (XP 25; PB +2)
 
-MOD SAVE
+#### Actions
 
-Skills Perception +5, Stealth +4
-Senses Darkvision 60 ft.; Passive Perception 15
-Languages None
-CR 1/4 (XP 50; PB +2)
+*Hooves. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning damage.
 
-Traits
-Pack Tactics. The wolf has Advantage on attack rolls
-against a creature if at least one of the wolf’s allies is
-within 5 feet of the creature and the ally doesn’t have
-the Incapacitated condition.
+## **Pteranodon**
 
-Actions
-Bite. Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2)
-Piercing damage. If the target is a Medium or smaller
-creature, it has the Prone condition.
+*Medium Beast (Dinosaur), Unaligned*
 
-361
+**AC** 13 **Initiative** +2 (12)
 
-System Reference Document 5.2
+# **HP** 13 (3d8)
+
+**Speed** 10 ft., Fly 60 ft.
+
+|        |   |    | MOD SAVE |          |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|----------|----|----------|--------|----------|----|
+| Str 12 |   | +1 | +1       | Dex 15   | +2 | +2       | Con 10 | +0       | +0 |
+| Int    | 2 | −4 | −4       | Wis 9 | −1 | −1       | Cha 5  | −3       | −3 |
+
+## **Skills** Perception +1
+
+**Senses** Passive Perception 11 **Languages** None **CR** 1/4 (XP 50; PB +2)
+
+## Traits
+
+*Flyby.* The pteranodon doesn't provoke an Opportunity Attack when it flies out of an enemy's reach.
+
+## Actions
+
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage.
+
+## **Rat**
+
+*Tiny Beast, Unaligned*
+
+**AC** 10 **Initiative** +0 (10)
+
+**HP** 1 (1d4 − 1) **Speed** 20 ft., Climb 20 ft.
+
+|     |   |    | MOD SAVE |           |    | MOD SAVE |       |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|-------|----|----------|
+| Str | 2 | −4 | −4       | Dex 11    | +0 | +0       | Con 9 | −1 | −1       |
+| Int | 2 | −4 | −4       | Wis 10 | +0 | +0       | Cha 4 | −3 | −3       |
+
+#### **Skills** Perception +2 **Senses** Darkvision 30 ft.; Passive Perception 12 **Languages** None
+
+**CR** 0 (XP 10; PB +2)
+
+## Traits
+
+*Agile.* The rat doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
+
+## Actions
+
+*Bite. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage.
+
+## **Raven**
+
+*Tiny Beast, Unaligned*
+
+# **AC** 12 **Initiative** +2 (12)
+
+**HP** 2 (1d4) **Speed** 10 ft., Fly 50 ft.
+
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 2 | −4 | −4       | Dex 14    | +2 | +2       | Con 10 | +0 | +0       |
+| Int | 5 | −3 | −3       | 13 Wis | +1 | +1       | Cha 6  | −2 | −2       |
+
+**Skills** Perception +3 **Senses** Passive Perception 13 **Languages** None **CR** 0 (XP 10; PB +2)
+
+## Traits
+
+*Mimicry.* The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 Wisdom (Insight) check.
+
+## Actions
+
+*Beak. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage.
+
+# **Reef Shark**
+
+*Medium Beast, Unaligned*
+
+| AC 12 Initiative +2 (12) HP 22 (4d8 + 4) Speed 5 ft., Swim 30 ft. |   |    |          |        |    |    |          |        |          |    |
+|----------------------------------------------------------------------------|---|----|----------|--------|----|----|----------|--------|----------|----|
+|                                                                            |   |    | MOD SAVE |        |    |    | MOD SAVE |        | MOD SAVE |    |
+| Str 14                                                                     |   | +2 | +2       | Dex 15 |    | +2 | +2       | Con 13 | +1       | +1 |
+| Int                                                                        | 1 | −5 | −5       | Wis    | 10 | +0 | +0       | Cha 4  | −3       | −3 |
+| Skills Perception +2                                                       |   |    |          |        |    |    |          |        |          |    |
+
+**Senses** Blindsight 30 ft.; Passive Perception 12 **Languages** None **CR** 1/2 (XP 100; PB +2)
+
+## Traits
+
+*Pack Tactics.* The shark has Advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+*Water Breathing.* The shark can breathe only underwater.
+
+## Actions
+
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Piercing damage.
+
+# **Rhinoceros**
+
+*Large Beast, Unaligned*
+
+**AC** 13 **Initiative** −1 (9) **HP** 45 (6d10 + 12) **Speed** 40 ft.
+
+|        |   |    | MOD SAVE |       |    |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|-------|----|----|----------|--------|----------|----|
+| Str 21 |   | +5 | +5       | Dex 8 |    | −1 | −1       | Con 15 | +2       | +2 |
+| Int    | 2 | −4 | −4       | Wis   | 12 | +1 | +1       | Cha 6  | −2       | −2 |
+
+**Senses** Passive Perception 11 **Languages** None **CR** 2 (XP 450; PB +2)
+
+#### Actions
+
+*Gore. Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing damage. If target is a Large or smaller creature and the rhinoceros moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+
+## **Riding Horse**
+
+*Large Beast, Unaligned*
+
+**AC** 11 **Initiative** +1 (11) **HP** 13 (2d10 + 2)
+
+**Speed** 60 ft.
+
+|        |   |    | MOD SAVE |        |    |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----|----------|--------|----|----|----------|--------|----------|----|
+| Str 16 |   | +3 | +3       | Dex 13 |    | +1 | +1       | Con 12 | +1       | +1 |
+| Int    | 2 | −4 | −4       | Wis    | 11 | +0 | +0       | Cha 7  | −2       | −2 |
+
+**Senses** Passive Perception 10 **Languages** None **CR** 1/4 (XP 50; PB +2)
+
+#### Actions
+
+*Hooves. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage.
+
+## **Saber-Toothed Tiger**
+
+*Large Beast, Unaligned*
+
+**AC** 13 **Initiative** +3 (13) **HP** 52 (7d10 + 14) **Speed** 40 ft.
+
+|        |   | MOD SAVE |    |           |    | MOD SAVE |        | MOD SAVE |    |
+|--------|---|----------|----|-----------|----|----------|--------|----------|----|
+| Str 18 |   | +4       | +6 | Dex 17    | +3 | +5       | Con 15 | +2       | +2 |
+| Int    | 3 | −4       | −4 | Wis 12 | +1 | +1       | Cha 8  | −1       | −1 |
+
+**Skills** Perception +5, Stealth +7 **Senses** Darkvision 60 ft.; Passive Perception 15 **Languages** None **CR** 2 (XP 450; PB +2)
+
+## Traits
+
+*Running Leap.* With a 10-foot running start, the tiger can Long Jump up to 25 feet.
+
+## Actions
+
+*Multiattack.* The tiger makes two Rend attacks.
+
+*Rend. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 11 (2d6 + 4) Slashing damage.
+
+## Bonus Actions
+
+*Nimble Escape.* The tiger takes the Disengage or Hide action.
+
+## **Scorpion**
+
+*Tiny Beast, Unaligned*
+
+| AC 11          |   |    |          | Initiative +0 (10) |   |    |          |       |    |          |
+|----------------|---|----|----------|--------------------|---|----|----------|-------|----|----------|
+| HP 1 (1d4 − 1) |   |    |          |                    |   |    |          |       |    |          |
+| Speed 10 ft.   |   |    |          |                    |   |    |          |       |    |          |
+|                |   |    | MOD SAVE |                    |   |    | MOD SAVE |       |    | MOD SAVE |
+| Str            | 2 | −4 | −4       | Dex 11             |   | +0 | +0       | Con 8 | −1 | −1       |
+| Int            | 1 | −5 | −5       | Wis                | 8 | −1 | −1       | Cha 2 | −4 | −4       |
+
+**Senses** Blindsight 10 ft.; Passive Perception 9 **Languages** None **CR** 0 (XP 10; PB +2)
+
+## Actions
+
+*Sting. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage plus 3 (1d6) Poison damage.
+
+## **Seahorse**
+
+*Tiny Beast, Unaligned*
+
+| AC 12 Initiative +1 (11) |                |    |                          |        |    |    |          |       |  |    |          |
+|-----------------------------|----------------|----|--------------------------|--------|----|----|----------|-------|--|----|----------|
+|                             | HP 1 (1d4 − 1) |    |                          |        |    |    |          |       |  |    |          |
+|                             |                |    | Speed 5 ft., Swim 20 ft. |        |    |    |          |       |  |    |          |
+|                             |                |    | MOD SAVE                 |        |    |    | MOD SAVE |       |  |    | MOD SAVE |
+| Str                         | 1              | −5 | −5                       | Dex 12 |    | +1 | +1       | Con 8 |  | −1 | −1       |
+| Int                         | 1              | −5 | −5                       | Wis    | 10 | +0 | +0       | Cha 2 |  | −4 | −4       |
+
+**Skills** Perception +2, Stealth +5 **Senses** Passive Perception 12 **Languages** None **CR** 0 (XP 0; PB +2)
+
+## Traits
+
+*Water Breathing.* The seahorse can breathe only underwater.
+
+## Actions
+
+*Bubble Dash.* While underwater, the seahorse moves up to its Swim Speed without provoking Opportunity Attacks.
+
+## **Spider**
+
+*Tiny Beast, Unaligned*
+
+**AC** 12 **Initiative** +2 (12) **HP** 1 (1d4 − 1) **Speed** 20 ft., Climb 20 ft.
+
+|     |   |    | MOD SAVE |           |    | MOD SAVE |       | MOD SAVE |    |
+|-----|---|----|----------|-----------|----|----------|-------|----------|----|
+| Str | 2 | −4 | −4       | Dex 14    | +2 | +2       | Con 8 | −1       | −1 |
+| Int | 1 | −5 | −5       | Wis 10 | +0 | +0       | Cha 2 | −4       | −4 |
+
+**Skills** Stealth +4
+
+**Senses** Darkvision 30 ft.; Passive Perception 10 **Languages** None **CR** 0 (XP 10; PB +2)
+
+#### Traits
+
+*Spider Climb.* The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+
+*Web Walker.* The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
+
+#### Actions
+
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage plus 2 (1d4) Poison damage.
+
+## **Swarm of Bats**
+
+*Large Swarm of Tiny Beasts, Unaligned*
+
+| Initiative +2 (12)       |
+|--------------------------|
+|                          |
+|                          |
+| MOD SAVE MOD SAVE     |
+| +2 Con 10 +0 +0 |
+| +1 Cha 4 −3 −3  |
+|                          |
+
+**Resistances** Bludgeoning, Piercing, Slashing **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned **Senses** Blindsight 60 ft.; Passive Perception 11 **Languages** None
+
+**CR** 1/4 (XP 50; PB +2)
+
+## Traits
+
+*Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+### Actions
+
+*Bites. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+
+## **Swarm of Insects**
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+**AC** 11 **Initiative** +1 (11)
+
+**HP** 19 (3d8 + 6) **Speed** 20 ft., Climb or Fly 20 ft. (GM's choice)
+
+|     |   |    | MOD SAVE |          |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|----------|----|----------|--------|----|----------|
+| Str | 3 | −4 | −4       | Dex 13   | +1 | +1       | Con 14 | +2 | +2       |
+| Int | 1 | −5 | −5       | 7 Wis | −2 | −2       | Cha 1  | −5 | −5       |
+
+**Resistances** Bludgeoning, Piercing, Slashing
+
+**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned **Senses** Blindsight 30 ft.; Passive Perception 8 **Languages** None **CR** 1/2 (XP 100; PB +2)
+
+## Traits
+
+*Spider Climb.* If the swarm has a Climb Speed, the swarm can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+
+*Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+## Actions
+
+*Bites. Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Poison damage, or 3 (1d4 + 1) Poison damage if the swarm is Bloodied.
+
+## **Swarm of Piranhas**
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+| AC 13 Initiative +3 (13) |                 |    |          |        |   |          |    |       |          |    |  |  |  |
+|-----------------------------|-----------------|----|----------|--------|---|----------|----|-------|----------|----|--|--|--|
+|                             | HP 28 (8d8 − 8) |    |          |        |   |          |    |       |          |    |  |  |  |
+| Speed 5 ft., Swim 40 ft.    |                 |    |          |        |   |          |    |       |          |    |  |  |  |
+|                             |                 |    | MOD SAVE |        |   | MOD SAVE |    |       | MOD SAVE |    |  |  |  |
+| Str 13                      |                 | +1 | +1       | Dex 16 |   | +3       | +3 | Con 9 | −1       | −1 |  |  |  |
+| Int                         | 1               | −5 | −5       | Wis    | 7 | −2       | −2 | Cha 2 | −4       | −4 |  |  |  |
+
+**Resistances** Bludgeoning, Piercing, Slashing **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned **Senses** Darkvision 60 ft.; Passive Perception 8 **Languages** None **CR** 1 (XP 200; PB +2)
+
+## Traits
+
+*Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny piranha. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+*Water Breathing.* The swarm can breathe only underwater.
+
+## Actions
+
+*Bites. Melee Attack Roll:* +5 (with Advantage if the target doesn't have all its Hit Points), reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing damage, or 5 (1d4 + 3) Piercing damage if the swarm is Bloodied.
+
+## **Swarm of Rats**
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+| AC 10           |   |    |          |                            | Initiative +0 (10) |    |          |       |  |          |    |  |
+|-----------------|---|----|----------|----------------------------|--------------------|----|----------|-------|--|----------|----|--|
+| HP 14 (4d8 − 4) |   |    |          |                            |                    |    |          |       |  |          |    |  |
+|                 |   |    |          | Speed 30 ft., Climb 30 ft. |                    |    |          |       |  |          |    |  |
+|                 |   |    | MOD SAVE |                            |                    |    | MOD SAVE |       |  | MOD SAVE |    |  |
+| Str             | 9 | −1 | −1       | Dex 11                     |                    | +0 | +2       | Con 9 |  | −1       | −1 |  |
+| Int             | 2 | −4 | −4       | Wis                        | 10                 | +0 | +0       | Cha 3 |  | −4       | −4 |  |
+
+**Resistances** Bludgeoning, Piercing, Slashing **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned **Senses** Darkvision 30 ft.; Passive Perception 10 **Languages** None **CR** 1/4 (XP 50; PB +2)
+
+#### Traits
+
+*Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+#### Actions
+
+*Bites. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 5 (2d4) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+
+## **Swarm of Ravens**
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+| AC 12                    |   |    |          | Initiative +2 (12) |    |          |    |        |          |    |  |  |
+|--------------------------|---|----|----------|--------------------|----|----------|----|--------|----------|----|--|--|
+| HP 11 (2d8 + 2)          |   |    |          |                    |    |          |    |        |          |    |  |  |
+| Speed 10 ft., Fly 50 ft. |   |    |          |                    |    |          |    |        |          |    |  |  |
+|                          |   |    | MOD SAVE |                    |    | MOD SAVE |    |        | MOD SAVE |    |  |  |
+| Str                      | 6 | −2 | −2       | Dex 14             |    | +2       | +2 | Con 12 | +1       | +1 |  |  |
+| Int                      | 5 | −3 | −3       | Wis                | 12 | +1       | +1 | Cha 6  | −2       | −2 |  |  |
+
+**Skills** Perception +5
+
+**Resistances** Bludgeoning, Piercing, Slashing **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned **Senses** Passive Perception 15 **Languages** None **CR** 1/4 (XP 50; PB +2)
+
+## Traits
+
+*Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+### Actions
+
+*Beaks. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage, or 2 (1d4) Piercing damage if the swarm is Bloodied.
+
+*Cacophony (Recharge 6). Wisdom Saving Throw:* DC 10, one creature in the swarm's space. *Failure:* The
+
+target has the Deafened condition until the start of the swarm's next turn. While Deafened, the target also has Disadvantage on ability checks and attack rolls.
+
+## **Swarm of Venomous Snakes**
+
+*Medium Swarm of Tiny Beasts, Unaligned*
+
+| AC 14       |   |    |          |                           | Initiative +4 (14) |          |    |        |  |          |    |  |  |
+|-------------|---|----|----------|---------------------------|--------------------|----------|----|--------|--|----------|----|--|--|
+| HP 36 (8d8) |   |    |          |                           |                    |          |    |        |  |          |    |  |  |
+|             |   |    |          | Speed 30 ft., Swim 30 ft. |                    |          |    |        |  |          |    |  |  |
+|             |   |    | MOD SAVE |                           |                    | MOD SAVE |    |        |  | MOD SAVE |    |  |  |
+| Str         | 8 | −1 | −1       | Dex 18                    |                    | +4       | +4 | Con 11 |  | +0       | +0 |  |  |
+| Int         | 1 | −5 | −5       | Wis                       | 10                 | +0       | +0 | Cha 3  |  | −4       | −4 |  |  |
+
+**Resistances** Bludgeoning, Piercing, Slashing **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+
+**Senses** Blindsight 10 ft.; Passive Perception 10 **Languages** None **CR** 2 (XP 450; PB +2)
+
+## Traits
+
+*Swarm.* The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain Hit Points or gain Temporary Hit Points.
+
+## Actions
+
+*Bites. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing damage—or 6 (1d4 + 4) Piercing damage if the swarm is Bloodied—plus 10 (3d6) Poison damage.
+
+## **Tiger**
+
+*Large Beast, Unaligned*
+
+| AC 13 HP 30 (4d10 + 8) |   |    |          |        |    |    | Initiative +3 (13) |        |    |          |
+|---------------------------|---|----|----------|--------|----|----|--------------------|--------|----|----------|
+| Speed 40 ft.              |   |    | MOD SAVE |        |    |    | MOD SAVE           |        |    | MOD SAVE |
+| Str 17                    |   | +3 | +3       | Dex 16 |    | +3 | +3                 | Con 14 | +2 | +2       |
+| Int                       | 3 | −4 | −4       | Wis    | 12 | +1 | +1                 | Cha 8  | −1 | −1       |
+
+**Skills** Perception +3, Stealth +7 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 1 (XP 200; PB +2)
+
+## Actions
+
+*Rend. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage. If the target is a Large or smaller creature, it has the Prone condition.
+
+## Bonus Actions
+
+*Nimble Escape.* The tiger takes the Disengage or Hide action.
+
+# **Triceratops**
+
+*Huge Beast (Dinosaur), Unaligned*
+
+| AC 14 Initiative −1 (9)   |                     |    |          |       |    |    |          |        |    |          |  |  |
+|------------------------------|---------------------|----|----------|-------|----|----|----------|--------|----|----------|--|--|
+|                              | HP 114 (12d12 + 36) |    |          |       |    |    |          |        |    |          |  |  |
+| Speed 50 ft.                 |                     |    |          |       |    |    |          |        |    |          |  |  |
+|                              |                     |    | MOD SAVE |       |    |    | MOD SAVE |        |    | MOD SAVE |  |  |
+| Str 22                       |                     | +6 | +6       | Dex 9 |    | −1 | −1       | Con 17 | +3 | +3       |  |  |
+| Int                          | 2                   | −4 | −4       | Wis   | 11 | +0 | +0       | Cha 5  | −3 | −3       |  |  |
+| Senses Passive Perception 10 |                     |    |          |       |    |    |          |        |    |          |  |  |
+
+**Languages** None **CR** 5 (XP 1,800; PB +3)
+
+## Actions
+
+*Multiattack.* The triceratops makes two Gore attacks.
+
+*Gore. Melee Attack Roll:* +9, reach 5 ft. *Hit:* 19 (2d12 + 6) Piercing damage. If the target is Huge or smaller and the triceratops moved 20+ feet straight toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing damage and has the Prone condition.
+
+## **Tyrannosaurus Rex**
+
+*Huge Beast (Dinosaur), Unaligned*
+
+**AC** 13 **Initiative** +3 (13) **HP** 136 (13d12 + 52) **Speed** 50 ft. MOD SAVE MOD SAVE MOD SAVE **Str** 25 +7 +10 **Dex** 10 +0 +0 **Con** 19 +4 +4 **Int** 2 −4 −4 **Wis** 12 +1 +4 **Cha** 9 −1 −1
+
+**Skills** Perception +4 **Senses** Passive Perception 14 **Languages** None **CR** 8 (XP 3,900; PB +3)
+
+## Actions
+
+*Multiattack.* The tyrannosaurus makes one Bite attack and one Tail attack.
+
+*Bite. Melee Attack Roll:* +10, reach 10 ft. *Hit:* 33 (4d12 + 7) Piercing damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17). While Grappled, the target has the Restrained condition and can't be targeted by the tyrannosaurus's Tail.
+
+*Tail. Melee Attack Roll:* +10, reach 15 ft. *Hit:* 25 (4d8 + 7) Bludgeoning damage. If the target is a Huge or smaller creature, it has the Prone condition.
+
+# **Venomous Snake**
+
+*Tiny Beast, Unaligned*
+
+**AC** 12 **Initiative** +2 (12)
+
+**HP** 5 (2d4) **Speed** 30 ft., Swim 30 ft.
+
+|     |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
+|-----|---|----|----------|-----------|----|----------|--------|----|----------|
+| Str | 2 | −4 | −4       | Dex 15    | +2 | +2       | Con 11 | +0 | +0       |
+| Int | 1 | −5 | −5       | 10 Wis | +0 | +0       | Cha 3  | −4 | −4       |
+
+**Senses** Blindsight 10 ft.; Passive Perception 10 **Languages** None **CR** 1/8 (XP 25; PB +2)
+
+## Actions
+
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage plus 3 (1d6) Poison damage.
+
+## **Vulture**
+
+*Medium Beast, Unaligned*
+
+| AC 10                                                              |   |    |    |        | Initiative +0 (10) |    |    |        |          |    |
+|--------------------------------------------------------------------|---|----|----|--------|--------------------|----|----|--------|----------|----|
+| HP 5 (1d8 + 1) Speed 10 ft., Fly 50 ft. MOD SAVE MOD SAVE |   |    |    |        |                    |    |    |        | MOD SAVE |    |
+| Str                                                                | 7 | −2 | −2 | Dex 10 |                    | +0 | +0 | Con 13 | +1       | +1 |
+| Int                                                                | 2 | −4 | −4 | Wis    | 12                 | +1 | +1 | Cha 4  | −3       | −3 |
+|                                                                    |   |    |    |        |                    |    |    |        |          |    |
+
+**Skills** Perception +3 **Senses** Passive Perception 13 **Languages** None **CR** 0 (XP 10; PB +2)
+
+## Traits
+
+*Pack Tactics.* The vulture has Advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+## Actions
+
+*Beak. Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Piercing damage.
+
+# **Warhorse**
+
+*Large Beast, Unaligned*
+
+| AC 11 HP 19 (3d10 + 3) |   |    |          |        |    |          | Initiative +1 (11) |        |    |          |
+|---------------------------|---|----|----------|--------|----|----------|--------------------|--------|----|----------|
+| Speed 60 ft.              |   |    | MOD SAVE |        |    | MOD SAVE |                    |        |    | MOD SAVE |
+| Str 18                    |   | +4 | +4       | Dex 12 |    | +1       | +1                 | Con 13 | +1 | +1       |
+| Int                       | 2 | −4 | −4       | Wis    | 12 | +1       | +3                 | Cha 7  | −2 | −2       |
+
+**Senses** Passive Perception 11 **Languages** None **CR** 1/2 (XP 100; PB +2)
+
+## Actions
+
+*Hooves. Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (2d4 + 4) Bludgeoning damage. If the target is a Large or smaller creature and the horse moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning damage and has the Prone condition.
+
+# **Weasel**
+
+*Tiny Beast, Unaligned*
+
+**AC** 13 **Initiative** +3 (13) **HP** 1 (1d4 − 1) **Speed** 30 ft., Climb 30 ft. MOD SAVE MOD SAVE MOD SAVE **Str** 3 −4 −4 **Dex** 16 +3 +3 **Con** 8 −1 −1 **Int** 2 −4 −4 **Wis** 12 +1 +1 **Cha** 3 −4 −4
+
+**Skills** Acrobatics +5, Perception +3, Stealth +5 **Senses** Darkvision 60 ft.; Passive Perception 13 **Languages** None **CR** 0 (XP 10; PB +2)
+
+## Actions
+
+*Bite. Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Piercing damage.
+
+# **Wolf**
+
+*Medium Beast, Unaligned*
+
+**AC** 12 **Initiative** +2 (12) **HP** 11 (2d8 + 2) **Speed** 40 ft. MOD SAVE MOD SAVE MOD SAVE
+
+| Str 14 |   | +2 | +2 | Dex 15    | +2 | +2 | Con 12 | +1 | +1 |
+|--------|---|----|----|-----------|----|----|--------|----|----|
+| Int    | 3 | −4 | −4 | Wis 12 | +1 | +1 | Cha 6  | −2 | −2 |
+|        |   |    |    |           |    |    |        |    |    |
+
+**Skills** Perception +5, Stealth +4 **Senses** Darkvision 60 ft.; Passive Perception 15 **Languages** None **CR** 1/4 (XP 50; PB +2)
+
+## Traits
+
+*Pack Tactics.* The wolf has Advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
+
+## Actions
+
+*Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.

@@ -1,629 +1,213 @@
-Monk
-Core Monk Traits
+# **Monk**
 
-Primary Ability
+### **Core Monk Traits**
 
-Dexterity and Wisdom
+| Primary Ability               | Dexterity and Wisdom                                                                                                                                                      |  |  |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
+| Hit Point Die                 | D8 per Monk level                                                                                                                                                         |  |  |
+| Saving Throw Proficiencies | Strength and Dexterity                                                                                                                                                    |  |  |
+| Skill Proficiencies           | Choose 2: Acrobatics, Athlet ics, History, Insight, Religion, or Stealth                                                                                            |  |  |
+| Weapon Proficiencies          | Simple weapons and Martial weapons that have the Light property                                                                                                     |  |  |
+| Tool Proficiencies            | Choose one type of Artisan's Tools or Musical Instrument (see "Equipment")                                                                                          |  |  |
+| Armor Training                | None                                                                                                                                                                      |  |  |
+| Starting Equipment            | Choose A or B: (A) Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 11 GP; or (B) 50 GP |  |  |
 
-Hit Point Die
+# **Becoming a Monk …**
 
-Saving Throw
-Proficiencies
+## **As a Level 1 Character**
 
-Skill Proficiencies
+- Gain all the traits in the Core Monk Traits table.
+- Gain the Monk's level 1 features, which are listed in the Monk Features table.
 
-D8 per Monk level
+## **As a Multiclass Character**
 
-Strength and Dexterity
+- Gain the Hit Point Die trait from the Core Monk Traits table.
+- Gain the Monk's level 1 features, which are listed in the Monk Features table.
 
-Choose 2: Acrobatics, Athlet-
-ics, History, Insight, Religion,
-or Stealth
+# **Monk Class Features**
 
-Weapon Proficiencies Simple weapons and Martial
-weapons that have the Light
-property
+As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
 
-Tool Proficiencies
+#### **Monk Features**
 
-Choose one type of Artisan’s
-Tools or Musical Instrument (see
-“Equipment”)
+| Level | Proficiency Bonus | Class Features                                          | Martial Arts | Focus Points | Unarmored Movement |
+|-------|----------------------|---------------------------------------------------------|-----------------|-----------------|-----------------------|
+| 1     | +2                   | Martial Arts, Unarmored Defense                         | 1d6             | —               | —                     |
+| 2     | +2                   | Monk's Focus, Unarmored Movement, Uncanny Metabolism | 1d6             | 2               | +10 ft.               |
+| 3     | +2                   | Deflect Attacks, Monk Subclass                          | 1d6             | 3               | +10 ft.               |
+| 4     | +2                   | Ability Score Improvement, Slow Fall                    | 1d6             | 4               | +10 ft.               |
+| 5     | +3                   | Extra Attack, Stunning Strike                           | 1d8             | 5               | +10 ft.               |
+| 6     | +3                   | Empowered Strikes, Subclass feature                     | 1d8             | 6               | +15 ft.               |
+| 7     | +3                   | Evasion                                                 | 1d8             | 7               | +15 ft.               |
+| 8     | +3                   | Ability Score Improvement                               | 1d8             | 8               | +15 ft.               |
+| 9     | +4                   | Acrobatic Movement                                      | 1d8             | 9               | +15 ft.               |
+| 10    | +4                   | Heightened Focus, Self-Restoration                      | 1d8             | 10              | +20 ft.               |
+| 11    | +4                   | Subclass feature                                        | 1d10            | 11              | +20 ft.               |
+| 12    | +4                   | Ability Score Improvement                               | 1d10            | 12              | +20 ft.               |
+| 13    | +5                   | Deflect Energy                                          | 1d10            | 13              | +20 ft.               |
+| 14    | +5                   | Disciplined Survivor                                    | 1d10            | 14              | +25 ft.               |
+| 15    | +5                   | Perfect Focus                                           | 1d10            | 15              | +25 ft.               |
+| 16    | +5                   | Ability Score Improvement                               | 1d10            | 16              | +25 ft.               |
+| 17    | +6                   | Subclass feature                                        | 1d12            | 17              | +25 ft.               |
+| 18    | +6                   | Superior Defense                                        | 1d12            | 18              | +30 ft.               |
+| 19    | +6                   | Epic Boon                                               | 1d12            | 19              | +30 ft.               |
+| 20    | +6                   | Body and Mind                                           | 1d12            | 20              | +30 ft.               |
 
-Armor Training
+#### **Level 1: Martial Arts**
 
-None
+Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following:
 
-Starting Equipment
+- Simple Melee weapons
+- Martial Melee weapons that have the Light property
 
-Choose A or B: (A) Spear, 5
-Daggers, Artisan’s Tools or
-Musical Instrument chosen
-for the tool proficiency above,
-Explorer’s Pack, and 11 GP; or
-(B) 50 GP
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield.
 
-Becoming a Monk …
-As a Level 1 Character
+*Bonus Unarmed Strike.* You can make an Unarmed Strike as a Bonus Action.
 
-•  Gain all the traits in the Core Monk Traits table.
-•  Gain the Monk’s level 1 features, which are listed
-As a Multiclass Character
-in the Monk Features table.
+*Martial Arts Die.* You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
-•  Gain the Hit Point Die trait from the Core Monk
+*Dexterous Attacks.* You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
-Traits table.
+## **Level 1: Unarmored Defense**
 
-•  Gain the Monk’s level 1 features, which are listed
-Monk Class Features
-in the Monk Features table.
+While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.
 
-As a Monk, you gain the following class features
-when you reach the specified Monk levels. These
-features are listed in the Monk Features table.
+### **Level 2: Monk's Focus**
 
-49
+Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.
 
-System Reference Document 5.2Monk Features
+You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
-Level
+When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.
 
-Proficiency
-Bonus
+Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.
 
-1
+*Flurry of Blows.* You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.
 
-2
+*Patient Defense.* You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.
 
-3
+*Step of the Wind.* You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.
 
-4
+#### **Level 2: Unarmored Movement**
 
-5
+Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
-6
+#### **Level 2: Uncanny Metabolism**
 
-7
+When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.
 
-8
+Once you use this feature, you can't use it again until you finish a Long Rest.
 
-9
+#### **Level 3: Deflect Attacks**
 
-10
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 
-11
+If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
-12
+#### **Level 3: Monk Subclass**
 
-13
+You gain a Monk subclass of your choice. The Warrior of the Open Hand subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Monk levels. For the rest of your career, you gain each of your subclass's features that are of your Monk level or lower.
 
-14
+#### **Level 4: Ability Score Improvement**
 
-15
+You gain the Ability Score Improvement feat (see "Feats") or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
-16
+## **Level 4: Slow Fall**
 
-17
+You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
-18
+#### **Level 5: Extra Attack**
 
-19
+You can attack twice instead of once whenever you take the Attack action on your turn.
 
-20
+## **Level 5: Stunning Strike**
 
-+2
+Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target's Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.
 
-+2
+## **Level 6: Empowered Strikes**
 
-+2
+Whenever you deal damage with your Unarmed Strike, it can deal your choice of Force damage or its normal damage type.
 
-+2
+## **Level 7: Evasion**
 
-+3
+When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
 
-+3
+You don't benefit from this feature if you have the Incapacitated condition.
 
-+3
+### **Level 9: Acrobatic Movement**
 
-+3
+While you aren't wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
-+4
+#### **Level 10: Heightened Focus**
 
-+4
+Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
 
-+4
+*Flurry of Blows.* You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strikes with it instead of two.
 
-+4
+*Patient Defense.* When you expend a Focus Point to use Patient Defense, you gain a number of Temporary Hit Points equal to two rolls of your Martial Arts die.
 
-+5
+*Step of the Wind.* When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke Opportunity Attacks.
 
-+5
+#### **Level 10: Self-Restoration**
 
-+5
+Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: Charmed, Frightened, or Poisoned.
 
-+5
+In addition, forgoing food and drink doesn't give you levels of Exhaustion.
 
-+6
+#### **Level 13: Deflect Energy**
 
-+6
+You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
 
-+6
+#### **Level 14: Disciplined Survivor**
 
-+6
+Your physical and mental discipline grant you proficiency in all saving throws.
 
-Class Features
+Additionally, whenever you make a saving throw and fail, you can expend 1 Focus Point to reroll it, and you must use the new roll.
 
-Martial Arts, Unarmored Defense
+#### **Level 15: Perfect Focus**
 
-Monk’s Focus, Unarmored Movement,
-Uncanny Metabolism
+When you roll Initiative and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
 
-Deflect Attacks, Monk Subclass
+#### **Level 18: Superior Defense**
 
-Ability Score Improvement, Slow Fall
+At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the Incapacitated condition. During that time, you have Resistance to all damage except Force damage.
 
-Extra Attack, Stunning Strike
+#### **Level 19: Epic Boon**
 
-Empowered Strikes, Subclass feature
+You gain an Epic Boon feat (see "Feats") or another feat of your choice for which you qualify. Boon of Irresistible Offense is recommended.
 
-Evasion
+#### **Level 20: Body and Mind**
 
-Ability Score Improvement
+You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
 
-Acrobatic Movement
+## **Monk Subclass: Warrior of the Open Hand**
 
-Heightened Focus, Self-Restoration
+#### *Master Unarmed Combat Techniques*
 
-Subclass feature
+Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.
 
-Ability Score Improvement
+#### **Level 3: Open Hand Technique**
 
-Deflect Energy
+Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
 
-Disciplined Survivor
+*Addle.* The target can't make Opportunity Attacks until the start of its next turn.
 
-Perfect Focus
+*Push.* The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
 
-Ability Score Improvement
+*Topple.* The target must succeed on a Dexterity saving throw or have the Prone condition.
 
-Subclass feature
+## **Level 6: Wholeness of Body**
 
-Superior Defense
+You gain the ability to heal yourself. As a Bonus Action, you can roll your Martial Arts die. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier (minimum of 1 Hit Point regained).
 
-Epic Boon
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-Body and Mind
+## **Level 11: Fleet Step**
 
-Martial
-Arts
+When you take a Bonus Action other than Step of the Wind, you can also use Step of the Wind immediately after that Bonus Action.
 
-1d6
+## **Level 17: Quivering Palm**
 
-1d6
+You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an Unarmed Strike, you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the Attack action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking 10d12 Force damage on a failed save or half as much damage on a successful one.
 
-1d6
-
-1d6
-
-1d8
-
-1d8
-
-1d8
-
-1d8
-
-1d8
-
-1d8
-
-1d10
-
-1d10
-
-1d10
-
-1d10
-
-1d10
-
-1d10
-
-1d12
-
-1d12
-
-1d12
-
-1d12
-
-Focus
-Points
-
-—
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-17
-
-18
-
-19
-
-20
-
-Unarmored
-Movement
-
-—
-
-+10 ft.
-
-+10 ft.
-
-+10 ft.
-
-+10 ft.
-
-+15 ft.
-
-+15 ft.
-
-+15 ft.
-
-+15 ft.
-
-+20 ft.
-
-+20 ft.
-
-+20 ft.
-
-+20 ft.
-
-+25 ft.
-
-+25 ft.
-
-+25 ft.
-
-+25 ft.
-
-+30 ft.
-
-+30 ft.
-
-+30 ft.
-
-Level 1: Martial Arts
-
-Level 1: Unarmored Defense
-
-Your practice of martial arts gives you mastery of
-combat styles that use your Unarmed Strike and
-Monk weapons, which are the following:
-
-While you aren’t wearing armor or wielding a
-Shield, your base Armor Class equals 10 plus your
-Level 2: Monk’s Focus
-Dexterity and Wisdom modifiers.
-
-•  Simple Melee weapons
-•  Martial Melee weapons that have the Light
-
-property
-
-You gain the following benefits while you are un-
-armed or wielding only Monk weapons and you ar-
-  Bonus Unarmed Strike.
-en’t wearing armor or wielding a Shield.
-  Martial Arts Die.
-armed Strike as a Bonus Action.
-
- You can make an Un-
-
- You can roll 1d6 in place of the
-
-normal damage of your Unarmed Strike or Monk
-weapons. This die changes as you gain Monk levels,
-as shown in the Martial Arts column of the Monk
-  Dexterous Attacks.
-Features table.
-
- You can use your Dexterity
-modifier instead of your Strength modifier for the
-attack and damage rolls of your Unarmed Strikes
-and Monk weapons. In addition, when you use the
-Grapple or Shove option of your Unarmed Strike,
-you can use your Dexterity modifier instead of your
-Strength modifier to determine the save DC.
-
-50
-
-Your focus and martial training allow you to har-
-ness a well of extraordinary energy within yourself.
-This energy is represented by Focus Points. Your
-Monk level determines the number of points you
-have, as shown in the Focus Points column of the
-Monk Features table.
-  You can expend these points to enhance or fuel
-certain Monk features. You start knowing three
-such features: Flurry of Blows, Patient Defense, and
-Step of the Wind, each of which is detailed below.
-  When you expend a Focus Point, it is unavailable
-until you finish a Short or Long Rest, at the end of
-which you regain all your expended points.
-  Some features that use Focus Points require your
-target to make a saving throw. The save DC equals 8
-plus your Wisdom modifier and Proficiency Bonus.
- You can expend 1 Focus Point to
-
-Flurry of Blows.
-
-Patient Defense.
-
-make two Unarmed Strikes as a Bonus Action.
- You can take the Disengage
-action as a Bonus Action. Alternatively, you can
-
-System Reference Document 5.2
-
-Step of the Wind.
-
-expend 1 Focus Point to take both the Disengage
-and the Dodge actions as a Bonus Action.
-
-qualify. You gain this feature again at Monk levels 8,
-Level 4: Slow Fall
-12, and 16.
-
- You can take the Dash action
-
-as a Bonus Action. Alternatively, you can expend 1
-Focus Point to take both the Disengage and Dash
-actions as a Bonus Action, and your jump distance is
-Level 2: Unarmored Movement
-doubled for the turn.
-
-Your speed increases by 10 feet while you aren’t
-wearing armor or wielding a Shield. This bonus
-increases when you reach certain Monk levels, as
-Level 2: Uncanny Metabolism
-shown on the Monk Features table.
-
-When you roll Initiative, you can regain all ex-
-pended Focus Points. When you do so, roll your
-Martial Arts die, and regain a number of Hit Points
-equal to your Monk level plus the number rolled.
-  Once you use this feature, you can’t use it again
-Level 3: Deflect Attacks
-until you finish a Long Rest.
-
-When an attack roll hits you and its damage in-
-cludes Bludgeoning, Piercing, or Slashing damage,
-you can take a Reaction to reduce the attack’s total
-damage against you. The reduction equals 1d10 plus
-your Dexterity modifier and Monk level.
-  If you reduce the damage to 0, you can expend 1
-Focus Point to redirect some of the attack’s force.
-If you do so, choose a creature you can see within 5
-feet of yourself if the attack was a melee attack or a
-creature you can see within 60 feet of yourself that
-isn’t behind Total Cover if the attack was a ranged
-attack. That creature must succeed on a Dexterity
-saving throw or take damage equal to two rolls of
-your Martial Arts die plus your Dexterity modifier.
-Level 3: Monk Subclass
-The damage is the same type dealt by the attack.
-
-You gain a Monk subclass of your choice. The War-
-rior of the Open Hand subclass is detailed after this
-class’s description. A subclass is a specialization
-that grants you features at certain Monk levels. For
-the rest of your career, you gain each of your sub-
-Level 4: Ability Score Improvement
-class’s features that are of your Monk level or lower.
-
-You gain the Ability Score Improvement feat (see
-“Feats”) or another feat of your choice for which you
-
-You can take a Reaction when you fall to reduce any
-damage you take from the fall by an amount equal
-Level 5: Extra Attack
-to five times your Monk level.
-
-You can attack twice instead of once whenever you
-Level 5: Stunning Strike
-take the Attack action on your turn.
-
-Once per turn when you hit a creature with a Monk
-weapon or an Unarmed Strike, you can expend 1
-Focus Point to attempt a stunning strike. The target
-must make a Constitution saving throw. On a failed
-save, the target has the Stunned condition until the
-start of your next turn. On a successful save, the
-target’s Speed is halved until the start of your next
-turn, and the next attack roll made against the tar-
-Level 6: Empowered Strikes
-get before then has Advantage.
-
-Whenever you deal damage with your Unarmed
-Strike, it can deal your choice of Force damage or its
-Level 7: Evasion
-normal damage type.
-
-When you’re subjected to an effect that allows you
-to make a Dexterity saving throw to take only half
-damage, you instead take no damage if you succeed
-on the saving throw and only half damage if you fail.
-  You don’t benefit from this feature if you have the
-Level 9: Acrobatic Movement
-Incapacitated condition.
-
-While you aren’t wearing armor or wielding a
-Shield, you gain the ability to move along vertical
-surfaces and across liquids on your turn without
-Level 10: Heightened Focus
-falling during the movement.
-
-Your Flurry of Blows, Patient Defense, and Step of
-  Flurry of Blows.
-the Wind gain the following benefits.
-
- You can expend 1 Focus Point
-to use Flurry of Blows and make three Unarmed
-Strikes with it instead of two.
-
-51
-
-System Reference Document 5.2
-  Patient Defense.
-
- When you expend a Focus Point
-
-to use Patient Defense, you gain a number of Tem-
-porary Hit Points equal to two rolls of your Martial
-  Step of the Wind.
-Arts die.
-
- When you expend a Focus Point
-
-to use Step of the Wind, you can choose a willing
-creature within 5 feet of yourself that is Large or
-smaller. You move the creature with you until the
-end of your turn. The creature’s movement doesn’t
-Level 10: Self-Restoration
-provoke Opportunity Attacks.
-
-Through sheer force of will, you can remove one
-of the following conditions from yourself at the
-end of each of your turns: Charmed, Frightened, or
-Poisoned.
-  In addition, forgoing food and drink doesn’t give
-Level 13: Deflect Energy
-you levels of Exhaustion.
-
-You can now use your Deflect Attacks feature
-against attacks that deal any damage type, not just
-Level 14: Disciplined Survivor
-Bludgeoning, Piercing, or Slashing.
-
-Your physical and mental discipline grant you profi-
-ciency in all saving throws.
-  Additionally, whenever you make a saving throw
-and fail, you can expend 1 Focus Point to reroll it,
-Level 15: Perfect Focus
-and you must use the new roll.
-
-Monk Subclass: Warrior of the
-Open Hand
-Master Unarmed Combat Techniques
-
-Warriors of the Open Hand are masters of unarmed
-combat. They learn techniques to push and trip
-their opponents and manipulate their own energy
-Level 3: Open Hand Technique
-to protect themselves from harm.
-
-Whenever you hit a creature with an attack granted
-by your Flurry of Blows, you can impose one of the
-  Addle.
-following effects on that target.
-  Push.
-until the start of its next turn.
- The target must succeed on a Strength sav-
-  Topple.
-ing throw or be pushed up to 15 feet away from you.
-
- The target can’t make Opportunity Attacks
-
- The target must succeed on a Dexterity
-
-Level 6: Wholeness of Body
-saving throw or have the Prone condition.
-
-You gain the ability to heal yourself. As a Bonus Ac-
-tion, you can roll your Martial Arts die. You regain
-a number of Hit Points equal to the number rolled
-plus your Wisdom modifier (minimum of 1 Hit Point
-regained).
-  You can use this feature a number of times equal
-to your Wisdom modifier (minimum of once), and
-you regain all expended uses when you finish a
-Level 11: Fleet Step
-Long Rest.
-
-When you roll Initiative and don’t use Uncanny Me-
-tabolism, you regain expended Focus Points until
-Level 18: Superior Defense
-you have 4 if you have 3 or fewer.
-
-When you take a Bonus Action other than Step of
-the Wind, you can also use Step of the Wind imme-
-Level 17: Quivering Palm
-diately after that Bonus Action.
-
-At the start of your turn, you can expend 3 Focus
-Points to bolster yourself against harm for 1 min-
-ute or until you have the Incapacitated condition.
-During that time, you have Resistance to all damage
-Level 19: Epic Boon
-except Force damage.
-
-You gain an Epic Boon feat (see “Feats”) or another
-feat of your choice for which you qualify. Boon of
-Level 20: Body and Mind
-Irresistible Offense is recommended.
-
-You have developed your body and mind to new
-heights. Your Dexterity and Wisdom scores increase
-by 4, to a maximum of 25.
-
-You gain the ability to set up lethal vibrations in
-someone’s body. When you hit a creature with an
-Unarmed Strike, you can expend 4 Focus Points
-to start these imperceptible vibrations, which last
-for a number of days equal to your Monk level. The
-vibrations are harmless unless you take an action
-to end them. Alternatively, when you take the At-
-tack action on your turn, you can forgo one of the
-attacks to end the vibrations. To end them, you and
-the target must be on the same plane of existence.
-When you end them, the target must make a Consti-
-tution saving throw, taking 10d12 Force damage on
-a failed save or half as much damage on a successful
-one.
-  You can have only one creature under the effect
-of this feature at a time. You can end the vibrations
-harmlessly (no action required).
-
-52
+You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).

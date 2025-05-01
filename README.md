@@ -6,17 +6,17 @@ This is meant to be a conversion, of the SRD released by wizards of the coast in
 
 ## Process
 
-I used the [markitdown](https://github.com/microsoft/markitdown) tool to get a rough, and I mean rough, base markdown file. From there I broke it into sub files to make the work a little easier to handle mentally.
+I used a wonderful tool called [marker](https://github.com/VikParuchuri/marker) to generate a "pretty good, but still needs work" markdown file, which I then split into multiple files. So far as I can tell, the main section that came out the roughest was the monsters / animals sections. I may try and re-generate just those sections by themselves to see if I get better results.
 
-I am not using AI tools for this. I simply don't trust them to do a good enough job for this. By "good enough" I mean "100% correct to the original or better".
+Basically, this is a semi-automated process. I generated a base file, and then I painstakingly go through and ensure the format, tables, headings, etc... are how I want them.
 
 ## Contributions
 
-I am not planning on accepting any. I might though if the contributions are quality and don't use AI.
+I am not planning on accepting any. This isn't really a community project, more of a community service. If someone wants to fork it and turn it into a community project, then have fun with that.
 
-I may never finish this project. I provide no gauruntees of that.
+I may never finish this project. I provide no gauruntees of anything.
 
-But feel free to fork it and finish it yourself if you feel so inclined.
+Feel free to fork it and finish it yourself if you feel so inclined.
 
 Since the goal is litterally just a file format change from PDF to markdown, and the original words aren't being changed, except for minor typos as I find them, I am releasing these files under the same license as wizards of the coast, Creative Commons Attribution 4.0.
 
