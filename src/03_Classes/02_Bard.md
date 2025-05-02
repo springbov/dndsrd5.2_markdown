@@ -1,4 +1,4 @@
-## **Bard**
+## Bard
 
 Table: Core Bard Traits
 

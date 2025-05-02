@@ -3,7 +3,7 @@
 * [-] - Classes
     * [x] - Barbarian
     * [x] - Bard
-    * [ ] - Cleric
+    * [x] - Cleric
     * [ ] - Druid
     * [ ] - Fighter
     * [ ] - Monk
