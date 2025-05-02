@@ -500,11 +500,11 @@ Table: Trinkets
 | 04    | A diary written in a language you don't know                                                                |
 | 05    | A brass ring that never tarnishes                                                                           |
 | 06    | An old chess piece made from glass                                                                          |
-| 07    | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips    |
-| 08    | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it |
+| 07    | A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips          |
+| 08    | A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it       |
 | 09    | A lock of someone's hair                                                                                    |
-| 10    | The deed for a parcel of land in a realm un known to you                                                 |
-| 11    | A 1-ounce block made from an unknown material                                                            |
+| 10    | The deed for a parcel of land in a realm un known to you                                                    |
+| 11    | A 1-ounce block made from an unknown material                                                               |
 | 12    | A small cloth doll skewered with needles                                                                    |
 | 13    | A tooth from an unknown beast                                                                               |
 | 14    | An enormous scale, perhaps from a dragon                                                                    |
@@ -513,35 +513,35 @@ Table: Trinkets
 | 17    | A glass orb filled with moving smoke                                                                        |
 | 18    | A 1-pound egg with a bright-red shell                                                                       |
 | 19    | A pipe that blows bubbles                                                                                   |
-| 20    | A glass jar containing a bit of flesh floating in pickling fluid                                         |
-| 21    | A gnome-crafted music box that plays a song you dimly remember from your childhood                       |
+| 20    | A glass jar containing a bit of flesh floating in pickling fluid                                            |
+| 21    | A gnome-crafted music box that plays a song you dimly remember from your childhood                          |
 | 22    | A wooden statuette of a smug halfling                                                                       |
 | 23    | A brass orb etched with strange runes                                                                       |
 | 24    | A multicolored stone disk                                                                                   |
 | 25    | A silver icon of a raven                                                                                    |
-| 26    | A bag containing forty-seven teeth, one of which is rotten                                               |
-| 27    | A shard of obsidian that always feels warm to the touch                                                  |
+| 26    | A bag containing forty-seven teeth, one of which is rotten                                                  |
+| 27    | A shard of obsidian that always feels warm to the touch                                                     |
 | 28    | A dragon's talon strung on a leather necklace                                                               |
 | 29    | A pair of old socks                                                                                         |
-| 30    | A blank book whose pages refuse to hold ink, chalk, graphite, or any other marking                       |
+| 30    | A blank book whose pages refuse to hold ink, chalk, graphite, or any other marking                          |
 | 31    | A silver badge that is a five-pointed star                                                                  |
 | 32    | A knife that belonged to a relative                                                                         |
 | 33    | A glass vial filled with nail clippings                                                                     |
-| 34    | A rectangular metal device with two tiny metal cups on one end that throws sparks when wet               |
+| 34    | A rectangular metal device with two tiny metal cups on one end that throws sparks when wet                  |
 | 35    | A white, sequined glove sized for a human                                                                   | 
 | 36    | A vest with one hundred tiny pockets                                                                        |
 | 37    | A weightless stone                                                                                          |
 | 38    | A sketch of a goblin                                                                                        |
 | 39    | An empty glass vial that smells of perfume                                                                  | 
-| 40    | A gemstone that looks like a lump of coal when examined by anyone but you                                |
+| 40    | A gemstone that looks like a lump of coal when examined by anyone but you                                   |
 | 41    | A scrap of cloth from an old banner                                                                         |
 | 42    | A rank insignia from a lost legionnaire                                                                     |
 | 43    | A silver bell without a clapper                                                                             |
 | 44    | A mechanical canary inside a lamp                                                                           |
-| 45    | A miniature chest carved to look like it has nu merous feet on the bottom                                |
+| 45    | A miniature chest carved to look like it has nu merous feet on the bottom                                   |
 | 46    | A dead sprite inside a clear glass bottle                                                                   |
 | 47    | A metal can that has no opening but sounds as if it is filled with liquid, sand, spiders, or broken glass (your choice) |
-| 48    | A glass orb filled with water, in which swims a clockwork goldfish                                       |
+| 48    | A glass orb filled with water, in which swims a clockwork goldfish                                          |
 | 49    | A silver spoon with an M engraved on the handle                                                             |
 | 50    | A whistle made from gold-colored wood                                                                       |
 | 51    | A dead scarab beetle the size of your hand                                                                  |
@@ -558,14 +558,14 @@ Table: Trinkets
 | 62    | A silver skull the size of a coin                                                                           |
 | 63    | An alabaster mask                                                                                           |
 | 64    | A cone of sticky black incense that stinks                                                                  |
-| 65    | A nightcap that gives you pleasant dreams when you wear it                                               |
+| 65    | A nightcap that gives you pleasant dreams when you wear it                                                  |
 | 66    | A single caltrop made from bone                                                                             |
 | 67    | A gold monocle frame without the lens                                                                       |
 | 68    | A 1-inch cube, each side a different color                                                                  |
 | 69    | A crystal doorknob                                                                                          |
 | 70    | A packet filled with pink dust                                                                              |
-| 71    | A fragment of a beautiful song, written as mu sical notes on two pieces of parchment                     |
-| 72    | A silver teardrop earring containing a real teardrop                                                     |
+| 71    | A fragment of a beautiful song, written as mu sical notes on two pieces of parchment                        |
+| 72    | A silver teardrop earring containing a real teardrop                                                        |
 | 73    | An eggshell painted with scenes of misery in disturbing detail                                              |
 | 74    | A fan that, when unfolded, shows a sleepy cat                                                               |
 | 75    | A set of bone pipes                                                                                         |
