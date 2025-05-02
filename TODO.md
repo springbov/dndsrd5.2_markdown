@@ -4,7 +4,7 @@
     * [x] - Barbarian
     * [x] - Bard
     * [x] - Cleric
-    * [ ] - Druid
+    * [x] - Druid
     * [ ] - Fighter
     * [ ] - Monk
     * [ ] - Paladin
