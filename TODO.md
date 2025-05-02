@@ -1,13 +1,25 @@
-[x] - Playing the Game
-[ ] - Character Creation
-[ ] - Classes
-[ ] - Character Origins
-[ ] - Feats
-[ ] - Equipment
-[ ] - Spells
-[ ] - Rules Glossary
-[ ] - Gameplay Toolbox
-[ ] - Magic Items
-[ ] - Monsters
-[ ] - Animals
+* [x] - Playing the Game
+* [x] - Character Creation
+* [-] - Classes
+    * [x] - Barbarian
+    * [ ] - Bard
+    * [ ] - Cleric
+    * [ ] - Druid
+    * [ ] - Fighter
+    * [ ] - Monk
+    * [ ] - Paladin
+    * [ ] - Ranger
+    * [ ] - Rogue
+    * [ ] - Sorcerer
+    * [ ] - Warlock
+    * [ ] - Wizard
+* [ ] - Character Origins
+* [ ] - Feats
+* [ ] - Equipment
+* [ ] - Spells
+* [ ] - Rules Glossary
+* [ ] - Gameplay Toolbox
+* [ ] - Magic Items
+* [ ] - Monsters
+* [ ] - Animals
 

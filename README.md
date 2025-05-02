@@ -1,6 +1,6 @@
 # DND 5.2 SRD to Markdown
 
-Current Completion Status: ~5% (19 / 361 pages)
+Current Completion Status: ~8% (30 / 361 pages). Note, that the monsters / animal sections together are 110 pages, about 30% of the document. If we disinclude those we are ~12% done (30 / 251 pages).
 
 This is meant to be a conversion, of the SRD released by wizards of the coast in PDF form into markdown. It isn't meant to be anything more or less.
 
@@ -18,9 +18,9 @@ I may never finish this project. I provide no gauruntees of anything.
 
 Feel free to fork it and finish it yourself if you feel so inclined.
 
-Since the goal is litterally just a file format change from PDF to markdown, and the original words aren't being changed, except for minor typos as I find them, I am releasing these files under the same license as wizards of the coast, Creative Commons Attribution 4.0.
+Since the goal is litterally just a file format change from PDF to markdown, and the original words aren't being changed, except for minor typos as I find them, I am labeling these files under the same license as wizards of the coast, Creative Commons Attribution 4.0. This is mostly just to avoid any confusion about how the license the PDF was released under works and not actually to have anyone credit me.
 
-I don't actually care if you attribute me, like really, I don't think changing document format in this case is even copywriteable (hashtag not a lawyer), but you definitely need to provide the attribution from wizards mentioned in the original PDF (and in 00_Legal.md of this repository).
+I don't think changing document format in this case is something I can even copywrite, but I'm not sure, I'm not a lawyer, but you definitely need to provide the attribution from wizards mentioned in the original PDF (and in 00_Legal.md of this repository).
 
 ## Legal Notice
 
