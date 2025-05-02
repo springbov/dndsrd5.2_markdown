@@ -2,7 +2,7 @@
 * [x] - Character Creation
 * [-] - Classes
     * [x] - Barbarian
-    * [ ] - Bard
+    * [x] - Bard
     * [ ] - Cleric
     * [ ] - Druid
     * [ ] - Fighter
