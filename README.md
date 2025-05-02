@@ -20,7 +20,7 @@ Feel free to fork it and finish it yourself if you feel so inclined.
 
 Since the goal is litterally just a file format change from PDF to markdown, and the original words aren't being changed, except for minor typos as I find them, I am labeling these files under the same license as wizards of the coast, Creative Commons Attribution 4.0. This is mostly just to avoid any confusion about how the license the PDF was released under works and not actually to have anyone credit me.
 
-I don't think changing document format in this case is something I can even copywrite, but I'm not sure, I'm not a lawyer, but you definitely need to provide the attribution from wizards mentioned in the original PDF (and in 00_Legal.md of this repository).
+I don't think changing document format in this case is something I can even have a copyright for, but I'm not sure, I'm not a lawyer, but you definitely need to provide the attribution from wizards mentioned in the original PDF (and in 00_Legal.md of this repository).
 
 ## Legal Notice
 
