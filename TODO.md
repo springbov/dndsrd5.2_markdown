@@ -9,7 +9,7 @@
     * [x] - Monk
     * [x] - Paladin
     * [x] - Ranger
-    * [ ] - Rogue
+    * [x] - Rogue
     * [ ] - Sorcerer
     * [ ] - Warlock
     * [ ] - Wizard
