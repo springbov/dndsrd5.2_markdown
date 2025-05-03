@@ -24,6 +24,10 @@ Table: Core Rogue Traits
 - Gain the following traits from the Core Rogue Traits table: Hit Point Die, proficiency in one skill of your choice from the Rogue's skill list, proficiency with Thieves' Tools, and training with Light armor.
 - Gain the Rogue's level 1 features, which are listed in the Rogue Features table.
 
+### Rogue Class Features
+
+As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
+
 Table: Rogue Features
 
 | Level | Proficiency Bonus | Class Features                                         | Sneak Attack |
@@ -48,10 +52,6 @@ Table: Rogue Features
 | 18    | +6                | Elusive                                                | 9d6          |
 | 19    | +6                | Epic Boon                                              | 10d6         |
 | 20    | +6                | Stroke of Luck                                         | 10d6         |
-
-### Rogue Class Features
-
-As a Rogue, you gain the following class features when you reach the specified Rogue levels. These features are listed in the Rogue Features table.
 
 #### Level 1: Expertise
 

@@ -23,6 +23,10 @@ Table: Core Fighter Traits
 - Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 - Gain the Fighter's level 1 features, which are listed in the Fighter Features table.
 
+### Fighter Class Features
+
+As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed on the Fighter Features table.
+
 Table: Fighter Features
 
 | Level | Proficiency Bonus    | Class Features                                    | Second Wind    | Weapon Mastery    |
@@ -47,10 +51,6 @@ Table: Fighter Features
 | 18    | +6                   | Subclass feature                                  | 4              | 6                 |
 | 19    | +6                   | Epic Boon                                         | 4              | 6                 |
 | 20    | +6                   | Three Extra Attacks                               | 4              | 6                 |
-
-### Fighter Class Features
-
-As a Fighter, you gain the following class features when you reach the specified Fighter levels. These features are listed on the Fighter Features table.
 
 #### Level 1: Fighting Style
 

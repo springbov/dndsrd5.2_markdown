@@ -24,6 +24,10 @@ Table: Core Paladin Traits**
 - Gain the following traits from the Core Paladin Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.
 - Gain the Paladin's level 1 features, which are listed in the Paladin Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
+### Paladin Class Features
+
+As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
+
 Table: Paladin Features: —Spell Slots per Spell Level— 
 
 | Level | Proficiency Bonus | Class Features                                | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
@@ -48,10 +52,6 @@ Table: Paladin Features: —Spell Slots per Spell Level—
 | 18    | +6                | Aura Expansion                                | 3                | 14              | 4 | 3 | 3 | 3 | 1 |
 | 19    | +6                | Epic Boon                                     | 3                | 15              | 4 | 3 | 3 | 3 | 2 |
 | 20    | +6                | Subclass feature                              | 3                | 15              | 4 | 3 | 3 | 3 | 2 |
-
-### Paladin Class Features
-
-As a Paladin, you gain the following class features when you reach the specified Paladin levels. These features are listed in the Paladin Features table.
 
 #### Level 1: Lay On Hands
 

@@ -23,6 +23,10 @@ Table: Core Ranger Traits
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, and training with Light and Medium armor and Shields.
 - Gain the Ranger's level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
+### Ranger Class Features
+
+As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
+
 Table: Ranger Features: —Spell Slots per Spell Level—
 
 | Level | Proficiency Bonus | Class Features                                 | Favored Enemy | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
@@ -47,11 +51,6 @@ Table: Ranger Features: —Spell Slots per Spell Level—
 | 18    | +6                | Feral Senses                                   | 6             | 14              | 4 | 3 | 3 | 3 | 1 |
 | 19    | +6                | Epic Boon                                      | 6             | 15              | 4 | 3 | 3 | 3 | 2 |
 | 20    | +6                | Foe Slayer                                     | 6             | 15              | 4 | 3 | 3 | 3 | 2 |
-
-
-### Ranger Class Features
-
-As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
 
 #### Level 1: Spellcasting
 

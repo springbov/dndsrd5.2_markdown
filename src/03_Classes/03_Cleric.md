@@ -23,6 +23,10 @@ Table: Core Cleric Traits
 - Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
 - Gain the Cleric's level 1 features, which are listed in the Cleric Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
+#### **Cleric Features**
+
+As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
+
 Table: Cleric Class Features: ——Spell Slots per Spell Level—— 
 
 | Level | Proficiency Bonus | Class Features              | Channel Divinity | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -47,10 +51,6 @@ Table: Cleric Class Features: ——Spell Slots per Spell Level——
 | 18    | +6                | —                           | 4                | 5        | 20              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19    | +6                | Epic Boon                   | 4                | 5        | 21              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20    | +6                | Greater Divine Intervention | 4                | 5        | 22              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
-#### **Cleric Features**
-
-As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
 
 #### Level 1: Spellcasting
 

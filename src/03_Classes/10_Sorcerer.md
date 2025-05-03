@@ -23,6 +23,10 @@ Table: Core Sorcerer Traits
 - Gain the Hit Point Die from the Core Sorcerer Traits table.
 - Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
+### **Sorcerer Class Features**
+
+As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
+
 Table: Sorcerer Features:  ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                  | Sorcery Points | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -47,10 +51,6 @@ Table: Sorcerer Features:  ——Spell Slots per Spell Level——
 | 18    | +6                | Subclass feature                | 18             | 6        | 20              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19    | +6                | Epic Boon                       | 19             | 6        | 21              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20    | +6                | Arcane Apotheosis               | 20             | 6        | 22              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
-### **Sorcerer Class Features**
-
-As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
 
 #### Level 1: Spellcasting
 

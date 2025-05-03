@@ -24,6 +24,10 @@ Table: Core Druid Traits
 - Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armor and Shields.
 - Gain the Druid's level 1 features, which are listed in the Druid Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
+### Druid Class Features
+
+As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
+
 Table: Druid Features: ——Spell Slots per Spell Level—— 
 
 | Level       | Proficiency Bonus | Class Features                         | Wild Shape | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -48,10 +52,6 @@ Table: Druid Features: ——Spell Slots per Spell Level——
 | 18          | +6                | Beast Spells                           | 4          | 4        | 20              | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19          | +6                | Epic Boon                              | 4          | 4        | 21              | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20          | +6                | Archdruid                              | 4          | 4        | 22              | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
-### Druid Class Features
-
-As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
 
 #### Level 1: Spellcasting
 

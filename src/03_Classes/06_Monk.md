@@ -24,6 +24,10 @@ Table: Core Monk Traits
 - Gain the Hit Point Die trait from the Core Monk Traits table.
 - Gain the Monk's level 1 features, which are listed in the Monk Features table.
 
+### Monk Class Features
+
+As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
+
 Table: Monk Features
 
 | Level | Proficiency Bonus    | Class Features                                          | Martial Arts    | Focus Points    | Unarmored Movement    |
@@ -48,10 +52,6 @@ Table: Monk Features
 | 18    | +6                   | Superior Defense                                        | 1d12            | 18              | +30 ft.               |
 | 19    | +6                   | Epic Boon                                               | 1d12            | 19              | +30 ft.               |
 | 20    | +6                   | Body and Mind                                           | 1d12            | 20              | +30 ft.               |
-
-### Monk Class Features
-
-As a Monk, you gain the following class features when you reach the specified Monk levels. These features are listed in the Monk Features table.
 
 #### Level 1: Martial Arts
 

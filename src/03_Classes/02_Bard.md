@@ -25,6 +25,10 @@ Table: Core Bard Traits
 - Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
 - Gain the Bard's level 1 features, which are listed in the Bard Features table. See the multiclassing rules in "Character Creation" to determine your available spell slots.
 
+### Bard Class Features
+
+As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
+
 Table: Bard Features: ——Spell Slots per Spell Level——
 
 | Level | Proficiency Bonus | Class Features                      | Bardic Die | Cantrips | Prepared Spells   | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
@@ -49,10 +53,6 @@ Table: Bard Features: ——Spell Slots per Spell Level——
 | 18    | +6                | Superior Inspiration                | D12        | 4        | 20                | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19    | +6                | Epic Boon                           | D12        | 4        | 21                | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20    | +6                | Words of Creation                   | D12        | 4        | 22                | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-
-### Bard Class Features
-
-As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
 
 #### Level 1: Bardic Inspiration
 

@@ -24,6 +24,10 @@ Table: Core Barbarian Traits
 - Gain the following traits from the Core Barbarian Traits table: Hit Point Die, proficiency with Martial weapons, and training with Shields.
 - Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
 
+### Barbarian Class Features
+
+As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
+
 Table: Barbarian Features
 
 | Level | Proficiency Bonus    | Class Features                          | Rages | Rage Damage    | Weapon Mastery    |
@@ -48,10 +52,6 @@ Table: Barbarian Features
 | 18    | +6                   | Indomitable Might                       | 6     | +4             | 4                 |
 | 19    | +6                   | Epic Boon                               | 6     | +4             | 4                 |
 | 20    | +6                   | Primal Champion                         | 6     | +4             | 4                 |
-
-### Barbarian Class Features
-
-As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. These features are listed in the Barbarian Features table.
 
 #### Level 1: Rage
 
