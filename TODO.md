@@ -5,7 +5,7 @@
     * [x] - Bard
     * [x] - Cleric
     * [x] - Druid
-    * [ ] - Fighter
+    * [x] - Fighter
     * [ ] - Monk
     * [ ] - Paladin
     * [ ] - Ranger
