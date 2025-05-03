@@ -10,7 +10,7 @@
     * [x] - Paladin
     * [x] - Ranger
     * [x] - Rogue
-    * [ ] - Sorcerer
+    * [x] - Sorcerer
     * [ ] - Warlock
     * [ ] - Wizard
 * [ ] - Character Origins
