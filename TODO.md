@@ -8,7 +8,7 @@
     * [x] - Fighter
     * [x] - Monk
     * [x] - Paladin
-    * [ ] - Ranger
+    * [x] - Ranger
     * [ ] - Rogue
     * [ ] - Sorcerer
     * [ ] - Warlock

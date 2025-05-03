@@ -1,6 +1,6 @@
 # DND 5.2 SRD to Markdown
 
-Current Completion Status: ~15% (56 / 361 pages). Note, that the monsters / animal sections together are 110 pages, about 30% of the document. If we disinclude those we are ~22% done (56 / 251 pages).
+Current Completion Status: ~16% (60 / 361 pages). Note, that the monsters / animal sections together are 110 pages, about 30% of the document. If we disinclude those we are ~24% done (60 / 251 pages).
 
 This is meant to be a conversion, of the SRD released by wizards of the coast in PDF form into markdown. It isn't meant to be anything more or less.
 
@@ -9,6 +9,10 @@ This is meant to be a conversion, of the SRD released by wizards of the coast in
 I used a wonderful tool called [marker](https://github.com/VikParuchuri/marker) to generate a "pretty good, but still needs work" markdown file, which I then split into multiple files. So far as I can tell, the main section that came out the roughest was the monsters / animals sections. I may try and re-generate just those sections by themselves to see if I get better results.
 
 Basically, this is a semi-automated process. I generated a base file, and then I painstakingly go through and ensure the format, tables, headings, etc... are how I want them.
+
+## Markdown Extensions
+
+Table captions are denoted with `Table: Caption Text` before tables.
 
 ## Contributions
 
