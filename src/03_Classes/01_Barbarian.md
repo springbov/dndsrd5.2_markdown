@@ -2,8 +2,9 @@
 
 Table: Core Barbarian Traits
 
-| Primary Ability               | Strength                                                                                   |
+|                               |                                                                                            |
 |-------------------------------|--------------------------------------------------------------------------------------------|
+| Primary Ability               | Strength                                                                                   |
 | Hit Point Die                 | D12 per Barbarian level                                                                    |
 | Saving Throw Proficiencies    | Strength and Constitution                                                                  |
 | Skill Proficiencies           | Choose 2: Animal Handling, Athletics, Intimidation, Nature, Perception, or Survival        |

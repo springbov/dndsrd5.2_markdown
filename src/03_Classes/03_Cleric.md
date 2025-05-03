@@ -2,8 +2,9 @@
 
 Table: Core Cleric Traits
 
-| Primary Ability               | Wisdom                                                                                             |
+|                               |                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------|
+| Primary Ability               | Wisdom                                                                                             |
 | Hit Point Die                 | D8 per Cleric level                                                                                |
 | Saving Throw Proficiencies    | Wisdom and Charisma                                                                                |
 | Skill Proficiencies           | Choose 2: History, Insight, Medicine, Persuasion, or Religion                                      |

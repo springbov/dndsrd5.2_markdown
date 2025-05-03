@@ -2,8 +2,9 @@
 
 Table: Core Rogue Traits
 
-| Primary Ability            | Dexterity                                                                                           |
+|                            |                                                                                                     |
 |----------------------------|-----------------------------------------------------------------------------------------------------|
+| Primary Ability            | Dexterity                                                                                           |
 | Hit Point Die              | D8 per Rogue level                                                                                  |
 | Saving Throw Proficiencies | Dexterity and Intelligence                                                                          |
 | Skill Proficiencies        | Choose 4: Acrobatics, Ath letics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth |

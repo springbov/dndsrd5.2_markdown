@@ -2,8 +2,9 @@
 
 Table: Core Druid Traits
 
-| Primary Ability            | Wisdom                                                                                                                                   |
+|                            |                                                                                                                                          |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Primary Ability            | Wisdom                                                                                                                                   |
 | Hit Point Die              | D8 per Druid level                                                                                                                       |
 | Saving Throw Proficiencies | Intelligence and Wisdom                                                                                                                  |
 | Skill Proficiencies        | Choose 2: Animal Handling, Arcana, Insight, Medicine, Na ture, Perception, Religion, or Survival                                         |

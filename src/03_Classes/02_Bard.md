@@ -2,8 +2,9 @@
 
 Table: Core Bard Traits
 
-| Primary Ability               | Charisma                                                                                                                     |
+|                               |                                                                                                                              |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Primary Ability               | Charisma                                                                                                                     |
 | Hit Point Die                 | D8 per Bard level                                                                                                            |
 | Saving Throw Proficiencies    | Dexterity and Charisma                                                                                                       |
 | Skill Proficiencies           | Choose any 3 skills (see "Playing the Game")                                                                                 |

@@ -2,8 +2,9 @@
 
 Table: Core Sorcerer Traits
 
-| Primary Ability            | Charisma                                                                                        |
+|                            |                                                                                                 |
 |----------------------------|-------------------------------------------------------------------------------------------------|
+| Primary Ability            | Charisma                                                                                        |
 | Hit Point Die              | D6 per Sorcerer level                                                                           |
 | Saving Throw Proficiencies | Constitution and Charisma                                                                       |
 | Skill Proficiencies        | Choose 2: Arcana, Deception, Insight, Intimidation, Persua sion, or Religion                    |

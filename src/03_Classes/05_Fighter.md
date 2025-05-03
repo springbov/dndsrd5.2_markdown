@@ -2,8 +2,9 @@
 
 Table: Core Fighter Traits
 
-| Primary Ability               | Strength or Dexterity                                                                                                                 |
+|                               |                                                                                                                                       |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| Primary Ability               | Strength or Dexterity                                                                                                                 |
 | Hit Point Die                 | D10 per Fighter level                                                                                                                 |
 | Saving Throw Proficiencies    | Strength and Constitution                                                                                                             |
 | Skill Proficiencies           | Choose 2: Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival                 |
