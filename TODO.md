@@ -11,7 +11,7 @@
     * [x] - Ranger
     * [x] - Rogue
     * [x] - Sorcerer
-    * [ ] - Warlock
+    * [x] - Warlock
     * [ ] - Wizard
 * [ ] - Character Origins
 * [ ] - Feats
