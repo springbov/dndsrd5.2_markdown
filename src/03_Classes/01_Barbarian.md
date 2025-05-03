@@ -1,4 +1,4 @@
-## **Barbarian**
+## Barbarian
 
 Table: Core Barbarian Traits
 

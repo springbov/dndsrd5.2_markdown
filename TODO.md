@@ -6,7 +6,7 @@
     * [x] - Cleric
     * [x] - Druid
     * [x] - Fighter
-    * [ ] - Monk
+    * [x] - Monk
     * [ ] - Paladin
     * [ ] - Ranger
     * [ ] - Rogue
