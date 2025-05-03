@@ -13,7 +13,7 @@
     * [x] - Sorcerer
     * [x] - Warlock
     * [x] - Wizard
-* [ ] - Character Origins
+* [x] - Character Origins
 * [ ] - Feats
 * [ ] - Equipment
 * [ ] - Spells
