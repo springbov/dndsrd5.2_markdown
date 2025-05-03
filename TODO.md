@@ -7,7 +7,7 @@
     * [x] - Druid
     * [x] - Fighter
     * [x] - Monk
-    * [ ] - Paladin
+    * [x] - Paladin
     * [ ] - Ranger
     * [ ] - Rogue
     * [ ] - Sorcerer
