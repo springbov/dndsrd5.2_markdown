@@ -2,8 +2,9 @@
 
 Table: Core Warlock Traits
 
-| Primary Ability            | Charisma                                                                                             |
+|                            |                                                                                                      |
 |----------------------------|------------------------------------------------------------------------------------------------------|
+| Primary Ability            | Charisma                                                                                             |
 | Hit Point Die              | D8 per Warlock level                                                                                 |
 | Saving Throw Proficiencies | Wisdom and Charisma                                                                                  |
 | Skill Proficiencies        | Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion               |

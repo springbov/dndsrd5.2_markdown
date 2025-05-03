@@ -1,6 +1,6 @@
 * [x] - Playing the Game
 * [x] - Character Creation
-* [-] - Classes
+* [x] - Classes
     * [x] - Barbarian
     * [x] - Bard
     * [x] - Cleric
@@ -12,7 +12,7 @@
     * [x] - Rogue
     * [x] - Sorcerer
     * [x] - Warlock
-    * [ ] - Wizard
+    * [x] - Wizard
 * [ ] - Character Origins
 * [ ] - Feats
 * [ ] - Equipment
