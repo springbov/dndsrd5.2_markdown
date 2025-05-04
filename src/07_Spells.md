@@ -186,6 +186,8 @@ The effects of different spells add together while their durations overlap. In c
 
 ## Spell Descriptions
 
+### A Spells
+
 #### Acid Arrow
 
 *Level 2 Evocation (Wizard)*
@@ -626,6 +628,8 @@ You spend the casting time tracing magical pathways within a precious gemstone, 
 
 The awakened target has the Charmed condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
+### B Spells
+
 #### Bane
 
 *Level 1 Enchantment (Bard, Cleric, Warlock)*
@@ -860,6 +864,8 @@ A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone ma
 Flammable objects in the Cone that aren't being worn or carried start burning.
 
 **_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
+
+### C Spells
 
 #### Call Lightning
 
@@ -1586,6 +1592,8 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 
 **_Using a Higher-Level Spell Slot._** The healing increases by 2d8 for each spell slot level above 1.
 
+### D Spells
+
 #### Dancing Lights
 
 *Illusion Cantrip (Bard, Sorcerer, Wizard)*
@@ -1927,6 +1935,8 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 *Fire Play.* You light or snuff out a candle, a torch, or a campfire.
 
+### E Spells
+
 #### **Earthquake**
 
 *Level 8 Transmutation (Cleric, Druid, Sorcerer)*
@@ -2073,7 +2083,9 @@ On each of your turns until the spell ends, you can take a Magic action to targe
 
 *Sickened.* The target has the Poisoned condition.
 
-## **Fabricate**
+### F Spells
+
+#### **Fabricate**
 
 *Level 4 Transmutation (Wizard)*
 
@@ -2434,6 +2446,8 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 *Using a Higher-Level Spell Slot.* The damage increases by 1d6 for each spell slot level above 6.
 
+### G Spells
+
 #### **Gaseous Form**
 
 *Level 3 Transmutation (Sorcerer, Warlock, Wizard)*
@@ -2689,7 +2703,9 @@ The gust disperses gas or vapor, and it extinguishes candles and similar unprote
 
 As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 
-## **Hallow**
+### H Spells
+
+#### **Hallow**
 
 *Level 5 Abjuration (Cleric)*
 
@@ -2894,7 +2910,9 @@ You create a twisting pattern of colors in a 30-foot Cube within range. The patt
 
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
-## **Ice Knife**
+### I Spells
+
+#### **Ice Knife**
 
 *Level 1 Conjuration (Druid, Sorcerer, Wizard)*
 
@@ -3027,7 +3045,9 @@ A creature you touch has the Invisible condition until the spell ends. The spell
 
 *Using a Higher-Level Spell Slot.* You can target one additional creature for each spell slot level above 2.
 
-## **Jump**
+### J,K and L Spells
+
+#### **Jump**
 
 *Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
 
@@ -3151,7 +3171,9 @@ You touch a creature. The target's Speed increases by 10 feet until the spell en
 
 *Using a Higher-Level Spell Slot.* You can target one additional creature for each spell slot level above 1.
 
-## **Mage Armor**
+### M and N Spells
+
+#### **Mage Armor**
 
 *Level 1 Abjuration (Sorcerer, Wizard)*
 
@@ -3518,6 +3540,8 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
+### P Spells
+
 #### **Passwall**
 
 *Level 5 Transmutation (Wizard)*
@@ -3849,7 +3873,9 @@ You touch a creature and end the Poisoned condition on it. For the duration, the
 
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
 
-## **Raise Dead**
+### R Spells
+
+#### **Raise Dead**
 
 *Level 5 Necromancy (Bard, Cleric, Paladin)*
 
@@ -3993,7 +4019,9 @@ You touch a rope. One end of it hovers upward until the rope hangs perpendicular
 
 The space can hold up to eight Medium or smaller creatures. Attacks, spells, and other effects can't pass into or out of the space, but creatures inside it can see through the portal. Anything inside the space drops out when the spell ends.
 
-## **Sacred Flame**
+### S Spells
+
+#### **Sacred Flame**
 
 *Evocation Cantrip (Cleric)*
 
@@ -4557,6 +4585,8 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 
 *Stunning.* Each target must succeed on a Wisdom saving throw or have the Stunned condition for 1 minute.
 
+### T Spells
+
 #### **Telekinesis**
 
 *Level 5 Transmutation (Sorcerer, Wizard)*
@@ -4802,6 +4832,8 @@ At the start of each of your turns after the wall appears, the wall, along with 
 rounds is reduced by 1d10. When the wall reaches 0 feet in height, the spell ends.
 
 A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength (Athletics) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
+
+### U-Z Spells
 
 #### **Unseen Servant**
 
