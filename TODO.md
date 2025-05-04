@@ -15,7 +15,7 @@
     * [x] - Wizard
 * [x] - Character Origins
 * [x] - Feats
-* [ ] - Equipment
+* [x] - Equipment
 * [ ] - Spells
 * [ ] - Rules Glossary
 * [ ] - Gameplay Toolbox
