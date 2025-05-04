@@ -14,7 +14,7 @@
     * [x] - Warlock
     * [x] - Wizard
 * [x] - Character Origins
-* [ ] - Feats
+* [x] - Feats
 * [ ] - Equipment
 * [ ] - Spells
 * [ ] - Rules Glossary
