@@ -1,6 +1,6 @@
 # DND 5.2 SRD to Markdown
 
-Current Completion Status: ~33% (121 / 361 pages). Note, that the monsters / animal sections together are 110 pages, about 30% of the document. If we disinclude those we are ~48% done (121 / 251 pages).
+Current Completion Status: ~37% (134 / 361 pages). Note, that the monsters / animal sections together are 110 pages, about 30% of the document. If we disinclude those we are ~53% done (134 / 251 pages).
 
 This is meant to be a conversion, of the SRD released by wizards of the coast in PDF form into markdown. It isn't meant to be anything more or less.
 
