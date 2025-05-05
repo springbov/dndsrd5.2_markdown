@@ -16,7 +16,7 @@
 * [x] - Character Origins
 * [x] - Feats
 * [x] - Equipment
-* [-] - Spells
+* [x] - Spells
     * [x] - A
     * [x] - B
     * [x] - C
@@ -32,7 +32,7 @@
     * [x] - R
     * [x] - S
     * [x] - T
-    * [ ] - U-Z
+    * [x] - U-Z
 * [ ] - Rules Glossary
 * [ ] - Gameplay Toolbox
 * [ ] - Magic Items
