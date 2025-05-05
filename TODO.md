@@ -30,7 +30,7 @@
     * [x] - M,N
     * [x] - P
     * [x] - R
-    * [ ] - S
+    * [x] - S
     * [ ] - T
     * [ ] - U-Z
 * [ ] - Rules Glossary
