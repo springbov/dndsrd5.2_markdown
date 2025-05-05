@@ -31,7 +31,7 @@
     * [x] - P
     * [x] - R
     * [x] - S
-    * [ ] - T
+    * [x] - T
     * [ ] - U-Z
 * [ ] - Rules Glossary
 * [ ] - Gameplay Toolbox
