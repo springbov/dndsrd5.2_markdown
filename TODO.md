@@ -33,7 +33,7 @@
     * [x] - S
     * [x] - T
     * [x] - U-Z
-* [ ] - Rules Glossary
+* [x] - Rules Glossary
 * [ ] - Gameplay Toolbox
 * [ ] - Magic Items
 * [ ] - Monsters
