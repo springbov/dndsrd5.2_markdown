@@ -34,7 +34,7 @@
     * [x] - T
     * [x] - U-Z
 * [x] - Rules Glossary
-* [ ] - Gameplay Toolbox
+* [x] - Gameplay Toolbox
 * [ ] - Magic Items
 * [ ] - Monsters
 * [ ] - Animals
