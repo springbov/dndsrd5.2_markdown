@@ -420,13 +420,13 @@ Table: Apparatus of the Crab Levers
 | 9     | The apparatus sinks up to 20 feet if it's in liquid.   | The apparatus rises up to 20 feet if it's in liquid. |
 | 10    | The rear hatch unseals and opens.                      | The rear hatch closes and seals.           |
 
-## **Armor, +1, +2, or +3**
+#### Armor, +1, +2, or +3
 
 *Armor (Any Light, Medium, or Heavy), Rare (+1), Very Rare (+2), or Legendary (+3)* 
 
 You have a bonus to Armor Class while wearing this armor. The bonus is determined by its rarity.
 
-## **Armor of Invulnerability**
+#### Armor of Invulnerability
 
 *Armor (Plate Armor), Legendary (Requires Attunement)*
 
@@ -434,22 +434,26 @@ You have Resistance to Bludgeoning, Piercing, and Slashing damage while you wear
 
 *Metal Shell.* You can take a Magic action to give yourself Immunity to Bludgeoning, Piercing, and Slashing damage for 10 minutes or until you are no longer wearing the armor. Once this property is used, it can't be used again until the next dawn.
 
-## **Armor of Resistance**
+#### Armor of Resistance
 
 *Armor (Any Light, Medium, or Heavy), Rare (Requires Attunement)*
 
 You have Resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly by rolling on the following table.
 
-| 1d10 | Damage Type | 1d10 | Damage Type |
-|------|-------------|------|-------------|
-| 1    | Acid        | 6    | Necrotic    |
-| 2    | Cold        | 7    | Poison      |
-| 3    | Fire        | 8    | Psychic     |
-| 4    | Force       | 9    | Radiant     |
-| 5    | Lightning   | 10   | Thunder     |
-|      |             |      |             |
+| 1d10 | Damage Type |
+|------|-------------|
+| 1    | Acid        |
+| 2    | Cold        |
+| 3    | Fire        |
+| 4    | Force       |
+| 5    | Lightning   |
+| 6    | Necrotic    |
+| 7    | Poison      |
+| 8    | Psychic     |
+| 9    | Radiant     |
+| 10   | Thunder     |
 
-#### **Armor of Vulnerability**
+#### Armor of Vulnerability
 
 *Armor (Any Light, Medium, or Heavy), Rare (Requires Attunement)*
 
@@ -457,17 +461,17 @@ While wearing this armor, you have Resistance to one of the following damage typ
 
 *Curse.* This armor is cursed, a fact that is revealed only when the *Identify* spell is cast on the armor or you attune to it. Attuning to the armor curses you until you are targeted by a *Remove Curse* spell or similar magic; removing the armor fails to end the curse. While cursed, you have Vulnerability to two of the three damage types associated with the armor (not the one to which it grants Resistance).
 
-#### **Arrow-Catching Shield**
+#### Arrow-Catching Shield
 
-#### *Armor (Shield), Rare (Requires Attunement)*
+*Armor (Shield), Rare (Requires Attunement)*
 
 You gain a +2 bonus to Armor Class against ranged attack rolls while you wield this Shield. This bonus is in addition to the Shield's normal bonus to AC.
 
 Whenever an attacker makes a ranged attack roll against a target within 5 feet of you, you can take a Reaction to become the target of the attack instead.
 
-#### **Bag of Beans**
+#### Bag of Beans
 
-#### *Wondrous Item, Rare*
+*Wondrous Item, Rare*
 
 This heavy cloth bag contains 3d4 dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a nonmagical item when it no longer contains any beans.
 
@@ -475,25 +479,22 @@ If you dump one or more beans out of the bag, they explode in a 10-foot-radius S
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean disappears as it produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table or determine it randomly.
 
-#### **1d100 Effect**
+| 1d100 | Effect                   |
+|-------|--------------------------|
+| 01    | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour. |
+| 02–10 | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d4 minutes. |
+| 11–20 | A **Treant** sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good. |
+| 21–30 | An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
+| 31–40 | A campfire with green flames springs forth and burns for 24 hours or until it is extinguished. |
+| 41–50 | Three **Shrieker Fungi** sprout. |
+| 51–60 | 1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke. |
+| 61–70 | A hungry **Bulette** burrows up and attacks. |
+| 71–80 | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days. |
+| 81–90 | A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion. |
+| 91–95 | A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a **Mummy,** a **Mummy Lord,** or some other Undead of the GM's choice. Its sarcophagus contains treasure of the GM's choice. |
+| 96–00 | A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or another plane of existence. |
 
-- 01 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 Poison damage and have the Poisoned condition for 1 hour. On an even roll, the eater gains 5d6 Temporary Hit Points for 1 hour.
-- 02–10 A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d4 minutes.
-
-#### **1d100 Effect**
-
-- 11–20 A **Treant** sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good.
-- 21–30 An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.
-- 31–40 A campfire with green flames springs forth and burns for 24 hours or until it is extinguished.
-- 41–50 Three **Shrieker Fungi** sprout.
-- 51–60 1d4 + 4 bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke.
-- 61–70 A hungry **Bulette** burrows up and attacks.
-- 71–80 A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined potions. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.
-- 81–90 A nest of 1d4 + 3 rainbow-colored eggs springs up. Any creature that eats an egg makes a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 Force damage from an internal explosion.
-- 91–95 A pyramid with a 60-foot-square base bursts upward. Inside is a burial chamber containing a **Mummy,** a **Mummy Lord,** or some other Undead of the GM's choice. Its sarcophagus contains treasure of the GM's choice.
-- 96–00 A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or another plane of existence.
-
-#### **Bag of Devouring**
+#### Bag of Devouring
 
 *Wondrous Item, Very Rare* 
 
@@ -505,9 +506,9 @@ Inanimate objects can be stored in the bag, which can hold a cubic foot of such 
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
-#### **Bag of Holding**
+#### Bag of Holding
 
-#### *Wondrous Item, Uncommon*
+*Wondrous Item, Uncommon*
 
 This bag has an interior space considerably larger than its outside dimensions—roughly 2 feet square and 4 feet deep on the inside. The bag can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag weighs 5 pounds, regardless of its contents. Retrieving an item from the bag requires a Utilize action.
 
@@ -515,9 +516,9 @@ If the bag is overloaded, pierced, or torn, it is destroyed, and its contents ar
 
 Placing a *Bag of Holding* inside an extradimensional space created by a *Handy Haversack*, *Portable Hole*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius Sphere centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
 
-#### **Bag of Tricks**
+#### Bag of Tricks
 
-#### *Wondrous Item, Uncommon*
+*Wondrous Item, Uncommon*
 
 This bag made from gray, rust, or tan cloth appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.
 
@@ -527,36 +528,48 @@ The creature is Friendly to you and your allies, and it acts immediately after y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-#### **Gray Bag of Tricks**
+Table: Gray Bag of Tricks
 
-| 1d8 | Creature  | 1d8 | Creature     |
-|-----|-----------|-----|--------------|
-| 1   | Weasel    | 5   | Panther      |
-| 2   | Giant Rat | 6   | Giant Badger |
-| 3   | Badger    | 7   | Dire Wolf    |
-| 4   | Boar      | 8   | Giant Elk    |
+| 1d8 | Creature     |
+|-----|--------------|
+| 1   | Weasel       |
+| 2   | Giant Rat    |
+| 3   | Badger       |
+| 4   | Boar         |
+| 5   | Panther      |
+| 6   | Giant Badger |
+| 7   | Dire Wolf    |
+| 8   | Giant Elk    |
 
-#### **Rust Bag of Tricks**
+Table: Rust Bag of Tricks
 
-| 1d8 | Creature | 1d8 | Creature   |
-|-----|----------|-----|------------|
-| 1   | Rat      | 5   | Giant Goat |
-| 2   | Owl      | 6   | Giant Boar |
-| 3   | Mastiff  | 7   | Lion       |
-| 4   | Goat     | 8   | Brown Bear |
+| 1d8 | Creature   |
+|-----|------------|
+| 1   | Rat        |
+| 2   | Owl        |
+| 3   | Mastiff    |
+| 4   | Goat       |
+| 5   | Giant Goat |
+| 6   | Giant Boar |
+| 7   | Lion       |
+| 8   | Brown Bear |
 
-#### **Tan Bag of Tricks**
+Table: Tan Bag of Tricks
 
-| 1d8 | Creature | 1d8 | Creature     |
-|-----|----------|-----|--------------|
-| 1   | Jackal   | 5   | Black Bear   |
-| 2   | Ape      | 6   | Giant Weasel |
-| 3   | Baboon   | 7   | Giant Hyena  |
-| 4   | Axe Beak | 8   | Tiger        |
+| 1d8 | Creature     |
+|-----|--------------|
+| 1   | Jackal       |
+| 2   | Ape          |
+| 3   | Baboon       |
+| 4   | Axe Beak     |
+| 5   | Black Bear   |
+| 6   | Giant Weasel |
+| 7   | Giant Hyena  |
+| 8   | Tiger        |
 
-### **Bead of Force**
+#### Bead of Force
 
-#### *Wondrous Item, Rare*
+*Wondrous Item, Rare*
 
 This small black sphere measures 3/4 of an inch in diameter and weighs an ounce. Typically, 1d4 + 4 *Beads of Force* are found together.
 
@@ -566,14 +579,15 @@ in the Sphere must succeed on a DC 15 Dexterity saving throw or take 5d4 Force d
 
 An enclosed creature can take a Utilize action to push against the sphere's wall, moving the sphere up to half the creature's Speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
-#### **Belt of Dwarvenkind**
+#### Belt of Dwarvenkind
 
 *Wondrous Item, Rare (Requires Attunement)* While wearing this belt, you gain the following benefits:
 
 **Dwarvish.** You know Dwarvish.
 
-- **Friend of Dwarvenkind.** You have Advantage on Charisma (Persuasion) checks made to interact with dwarves and duergar.
-- **Toughness.** Your Constitution increases by 2, to a maximum of 20.
+**Friend of Dwarvenkind.** You have Advantage on Charisma (Persuasion) checks made to interact with dwarves and duergar.
+
+**Toughness.** Your Constitution increases by 2, to a maximum of 20.
 
 In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you can grow one, or a thicker beard if you already have one.
 
@@ -583,7 +597,7 @@ If you aren't a dwarf or duergar, you gain the following additional benefits whi
 
 **Resilience.** You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
 
-## **Belt of Giant Strength**
+#### Belt of Giant Strength
 
 *Wondrous Item, Rarity Varies (Requires Attunement)*
 
