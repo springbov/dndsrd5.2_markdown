@@ -35,7 +35,7 @@
     * [x] - U-Z
 * [x] - Rules Glossary
 * [x] - Gameplay Toolbox
-* [ ] - Magic Items
+* [x] - Magic Items
 * [ ] - Monsters
 * [ ] - Animals
 
