@@ -320,13 +320,13 @@ Magic items are presented in alphabetical order.
 
 If a magic item description capitalizes a creature's name and presents it in **bold** type, that's a visual cue pointing you to the creature's stat block. Unless the text states otherwise, the stat block is in "Monsters." How to read and use a stat block is explained in "Monsters."
 
-#### **Adamantine Armor**
+#### Adamantine Armor
 
 *Armor (Any Medium or Heavy, Except Hide Armor), Uncommon*
 
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any Critical Hit against you becomes a normal hit.
 
-#### **Ammunition, +1, +2, or +3**
+#### Ammunition, +1, +2, or +3
 
 *Weapon (Any Ammunition), Uncommon (+1), Rare (+2), or Very Rare (+3)* 
 
@@ -334,7 +334,7 @@ You have a bonus to attack rolls and damage rolls made with this piece of magic 
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity.
 
-#### **Ammunition of Slaying**
+#### Ammunition of Slaying
 
 *Weapon (Any Ammunition), Very Rare* 
 
@@ -342,53 +342,56 @@ This magic ammunition is meant to slay creatures of a particular type, which the
 
 After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 
-| 1d100 | Creature Type | 1d100 | Creature Type |
-|-------|---------------|-------|---------------|
-| 01–10 | Aberrations   | 51–60 | Fey           |
-| 11–15 | Beasts        | 61–70 | Fiends        |
-| 16–20 | Celestials    | 71–75 | Giants        |
-| 21–25 | Constructs    | 76–80 | Monstrosities |
-| 26–35 | Dragons       | 81–85 | Oozes         |
-| 36–45 | Elementals    | 86–90 | Plants        |
-| 46–50 | Humanoids     | 91–00 | Undead        |
+| 1d100 | Creature Type |
+|-------|---------------|
+| 01–10 | Aberrations   |
+| 11–15 | Beasts        |
+| 16–20 | Celestials    |
+| 21–25 | Constructs    |
+| 26–35 | Dragons       |
+| 36–45 | Elementals    |
+| 46–50 | Humanoids     |
+| 51–60 | Fey           |
+| 61–70 | Fiends        |
+| 71–75 | Giants        |
+| 76–80 | Monstrosities |
+| 81–85 | Oozes         |
+| 86–90 | Plants        |
+| 91–00 | Undead        |
 
-## **Amulet of Health**
+#### Amulet of Health
 
 *Wondrous Item, Rare (Requires Attunement)*
 
 Your Constitution is 19 while you wear this amulet. It has no effect on you if your Constitution is 19 or higher without it.
 
-### **Amulet of Proof against Detection and Location**
+#### Amulet of Proof against Detection and Location
 
 *Wondrous Item, Uncommon (Requires Attunement)*
 
 While wearing this amulet, you can't be targeted by Divination spells or perceived through magical scrying sensors unless you allow it.
 
-## **Amulet of the Planes**
+#### Amulet of the Planes
 
-#### *Wondrous Item, Very Rare (Requires Attunement)*
+*Wondrous Item, Very Rare (Requires Attunement)*
 
 While wearing this amulet, you can take a Magic action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence (Arcana) check. On a successful check, you cast *Plane Shift*. On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling 1d100 and consulting the following table.
 
-#### **1d100 Destination**
-
-| 01–60 | Random location on the plane you named  |
+| 1d100 | Destination
 |-------|-----------------------------------------|
-| 61–70 | Random location on an Inner Plane deter |
+| 01–60 | Random location on the plane you named  |
+| 61–70 | Random location on an Inner Plane determined by rolling 1d6: on a **1,** the Plane of Air; on a **2,** the Plane of Earth; on a **3,** the Plane of Fire; on a **4,** the Plane of Water; on a **5,** the Feywild; on a **6,** the Shadowfell |
+| 71–80 | Random location on an Outer Plane determined by rolling 1d8: on a **1,** Arborea; on a **2,** Arcadia; on a **3,** the Beastlands; on a **4,** Bytopia; on a **5,** Elysium; on a **6,** Mechanus; on a **7,** Mount Celestia; on an **8,** Ysgard |
+| 81–90 | Random location on an Outer Plane determined by rolling 1d8: on a **1,** the Abyss; on a **2,** Acheron; on a **3,** Carceri; on a **4,** Gehenna; on a **5,** Hades; on a **6,** Limbo; on a **7,** the Nine Hells; on an **8,** Pandemonium |
+| 91–00 | Random location on the Astral Plane     |
 
-- mined by rolling 1d6: on a **1,** the Plane of Air; on a **2,** the Plane of Earth; on a **3,** the Plane of Fire; on a **4,** the Plane of Water; on a **5,** the Feywild; on a **6,** the Shadowfell
-- 71–80 Random location on an Outer Plane determined by rolling 1d8: on a **1,** Arborea; on a **2,** Arcadia; on a **3,** the Beastlands; on a **4,** Bytopia; on a **5,** Elysium; on a **6,** Mechanus; on a **7,** Mount Celestia; on an **8,** Ysgard
-- 81–90 Random location on an Outer Plane determined by rolling 1d8: on a **1,** the Abyss; on a **2,** Acheron; on a **3,** Carceri; on a **4,** Gehenna; on a **5,** Hades; on a **6,** Limbo; on a **7,** the Nine Hells; on an **8,** Pandemonium
+#### Animated Shield
 
-91–00 Random location on the Astral Plane
-
-## **Animated Shield**
-
-### *Armor (Shield), Very Rare (Requires Attunement)*
+*Armor (Shield), Very Rare (Requires Attunement)*
 
 While holding this Shield, you can take a Bonus Action to cause it to animate. The Shield leaps into the air and hovers in your space to protect you as if you were wielding it, leaving your hands free. The Shield remains animate for 1 minute, until you take a Bonus Action to end this effect, or until you die or have the Incapacitated condition, at which point the Shield falls to the ground or into your hand if you have one free.
 
-### **Apparatus of the Crab**
+#### Apparatus of the Crab
 
 *Wondrous Item, Legendary* 
 
@@ -402,9 +405,20 @@ The apparatus floats on water. It can also go underwater to a depth of 900 feet.
 
 A creature in the compartment can take a Utilize action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
 
-#### **Apparatus of the Crab Levers Lever Up Down** 1 Legs extend, allowing the apparatus to walk and swim. Legs retract, reducing the apparatus's Speed and Swim Speed to 0 and making it unable to benefit from bonuses to speed. 2 Forward window shutter opens. Forward window shutter closes. 3 Side window shutters open (two per side). Side window shutters close (two per side). 4 Two claws extend from the front side of the apparatus. The claws retract. 5 Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* 7 (2d6) Bludgeoning damage. Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* The target has the Grappled condition (escape DC 15). 6 The apparatus walks or swims forward provided its legs are extended. The apparatus walks or swims backward provided its legs are extended. 7 The apparatus turns 90 degrees counterclockwise provided its legs are extended. The apparatus turns 90 degrees clockwise provided its legs are extended. 8 Eyelike fixtures emit Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. The light turns off. 9 The apparatus sinks up to 20 feet if it's in liquid. The apparatus rises up to 20 feet if it's in liquid.
+Table: Apparatus of the Crab Levers
 
-10 The rear hatch unseals and opens. The rear hatch closes and seals.
+| Lever | Up                                                     | Down                                       |
+|-------|--------------------------------------------------------|--------------------------------------------|
+| 1     | Legs extend, allowing the apparatus to walk and swim.  | Legs retract, reducing the apparatus's Speed and Swim Speed to 0 and making it unable to benefit from bonuses to speed. |
+| 2     | Forward window shutter opens.                          | Forward window shutter closes.             |
+| 3     | Side window shutters open (two per side).              | Side window shutters close (two per side). |
+| 4     | Two claws extend from the front side of the apparatus. | The claws retract.                         |
+| 5     | Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* 7 (2d6) Bludgeoning damage. | Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. *Hit:* The target has the Grappled condition (escape DC 15). |
+| 6     | The apparatus walks or swims forward provided its legs are extended. | The apparatus walks or swims backward provided its legs are extended. |
+| 7     | The apparatus turns 90 degrees counterclockwise provided its legs are extended. | The apparatus turns 90 degrees clockwise provided its legs are extended. |
+| 8     | Eyelike fixtures emit Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. | The light turns off. 
+| 9     | The apparatus sinks up to 20 feet if it's in liquid.   | The apparatus rises up to 20 feet if it's in liquid. |
+| 10    | The rear hatch unseals and opens.                      | The rear hatch closes and seals.           |
 
 ## **Armor, +1, +2, or +3**
 
