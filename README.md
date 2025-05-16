@@ -4,6 +4,8 @@ The project is roughly complete. There is a caveat that it isn't consistently fo
 
 I may go through and clean up the formatting and proof read at some point, but honestly, it's pretty much done and anyone should feel free to use it as is. Any changes will be relatively minor and won't really affect most people very much.
 
+Please use this however you please, while still abiding by the license terms that wizards of the coast put on the original document, which also apply to this document.
+
 ## Formatting changes
 
 There was a step by step numbered list in "Playing the Game" in the "D20 Tests" section that was numbered beginning at 4 and ending at 6. I changed this to be 1-3 instead, since that seemed to be the actual intent, and the 4-6 numbering seemed like a typo.
